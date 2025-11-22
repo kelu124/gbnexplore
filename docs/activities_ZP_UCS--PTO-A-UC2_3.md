@@ -1,13 +1,13 @@
 ---
 layout: default
-title: LIFE-myBUILDINGisGREEN Project: Falcão Primary School
+title: "LIFE-myBUILDINGisGREEN Project  Falcão Primary School"
 parent: ZPUCSPTOAUC2
 has_children: true
 nav_order: 157
 ---
 
 
-# LIFE-myBUILDINGisGREEN Project: Falcão Primary School
+# LIFE-myBUILDINGisGREEN Project  Falcão Primary School
 
 # Evaluation
 

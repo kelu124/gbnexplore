@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eHUBS – Smart Shared Mobility Hubs
+title: "eHUBS – Smart Shared Mobility Hubs"
 parent: ZPUCSMGPCUC3
 has_children: true
 nav_order: 124

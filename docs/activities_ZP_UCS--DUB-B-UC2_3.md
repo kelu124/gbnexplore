@@ -1,13 +1,13 @@
 ---
 layout: default
-title: IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale
+title: "IREN Living Lab  Energy Flexibility and Interoperability at the Residential Scale"
 parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 235
 ---
 
 
-# IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale
+# IREN Living Lab  Energy Flexibility and Interoperability at the Residential Scale
 
 # Evaluation
 

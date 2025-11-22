@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARCS Espoo Positive Energy District
+title: "SPARCS Espoo Positive Energy District"
 parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 91

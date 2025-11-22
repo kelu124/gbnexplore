@@ -1,13 +1,13 @@
 ---
 layout: default
-title: SmartEnCity: Integrated Smart Solutions for Urban Regeneration
+title: "SmartEnCity  Integrated Smart Solutions for Urban Regeneration"
 parent: ZPUCSDUBAUC2
 has_children: true
 nav_order: 200
 ---
 
 
-# SmartEnCity: Integrated Smart Solutions for Urban Regeneration
+# SmartEnCity  Integrated Smart Solutions for Urban Regeneration
 
 # Evaluation
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CityLoops – Circular Construction and Demolition Waste Management
+title: "CityLoops – Circular Construction and Demolition Waste Management"
 parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 75

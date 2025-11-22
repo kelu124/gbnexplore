@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Høje Taastrup 4th Generation District Heating Network (4GDH)
+title: "Høje Taastrup 4th Generation District Heating Network (4GDH)"
 parent: ZPUCSMGPBUC1
 has_children: true
 nav_order: 219

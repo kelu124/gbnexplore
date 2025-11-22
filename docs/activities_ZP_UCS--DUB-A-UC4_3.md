@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Milan Door-to-Door Food Waste Collection Program
+title: "Milan Door-to-Door Food Waste Collection Program"
 parent: ZPUCSDUBAUC4
 has_children: true
 nav_order: 162

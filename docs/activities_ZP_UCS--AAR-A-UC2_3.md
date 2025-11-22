@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BIPED – Building Intelligent Positive Energy Districts
+title: "BIPED – Building Intelligent Positive Energy Districts"
 parent: ZPUCSAARAUC2
 has_children: true
 nav_order: 107

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Thor Living Lab
+title: "Open Thor Living Lab"
 parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 234

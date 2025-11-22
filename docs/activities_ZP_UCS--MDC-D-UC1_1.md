@@ -1,6 +1,6 @@
 ---
 layout: default
-title: oPEN Lab – Positive Energy Neighbourhoods in Tartu
+title: "oPEN Lab – Positive Energy Neighbourhoods in Tartu"
 parent: ZPUCSMDCDUC1
 has_children: true
 nav_order: 77

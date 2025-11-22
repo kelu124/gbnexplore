@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DT-Enabled Residential IoT Microgrid Living Lab (IoT-MGLab)
+title: "DT-Enabled Residential IoT Microgrid Living Lab (IoT-MGLab)"
 parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 215

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tallaght SmartGrid Testbed
+title: "Tallaght SmartGrid Testbed"
 parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 236

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lisbjerg Sustainable Neighborhood
+title: "Lisbjerg Sustainable Neighborhood"
 parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 41

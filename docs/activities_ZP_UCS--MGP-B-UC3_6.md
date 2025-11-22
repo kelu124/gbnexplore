@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3G to 5G District Heating and Cooling Networks (Horizon Europe)
+title: "3G to 5G District Heating and Cooling Networks (Horizon Europe)"
 parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 99

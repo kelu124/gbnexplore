@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Urban Sense: Monitoring Greenhouse Gas Emissions in Real Time Across Dublin
+title: "Urban Sense  Monitoring Greenhouse Gas Emissions in Real Time Across Dublin"
 parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 165
 ---
 
 
-# Urban Sense: Monitoring Greenhouse Gas Emissions in Real Time Across Dublin
+# Urban Sense  Monitoring Greenhouse Gas Emissions in Real Time Across Dublin
 
 # Evaluation
 

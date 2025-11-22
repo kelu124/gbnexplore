@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARV Project – Climate Positive Circular Communities
+title: "ARV Project – Climate Positive Circular Communities"
 parent: ZPUCSMDCDUC1
 has_children: true
 nav_order: 79

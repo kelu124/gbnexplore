@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASCEND Smart Energy Neighborhood Demonstration
+title: "ASCEND Smart Energy Neighborhood Demonstration"
 parent: ZPUCSPRGAUC1
 has_children: true
 nav_order: 118

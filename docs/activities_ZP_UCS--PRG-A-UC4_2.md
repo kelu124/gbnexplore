@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smíchov City – Comprehensive Urban Brownfield Redevelopment
+title: "Smíchov City – Comprehensive Urban Brownfield Redevelopment"
 parent: ZPUCSPRGAUC4
 has_children: true
 nav_order: 101

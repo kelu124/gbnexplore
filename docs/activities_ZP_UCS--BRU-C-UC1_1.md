@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eHUBS – Smart Shared Green Mobility Hubs
+title: "eHUBS – Smart Shared Green Mobility Hubs"
 parent: ZPUCSBRUCUC1
 has_children: true
 nav_order: 45

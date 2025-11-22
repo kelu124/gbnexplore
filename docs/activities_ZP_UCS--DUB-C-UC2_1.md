@@ -1,13 +1,13 @@
 ---
 layout: default
-title: People-Counting Sensors: Enhancing Building Efficiency with GDPR Compliance at TU Dublin
+title: "People-Counting Sensors  Enhancing Building Efficiency with GDPR Compliance at TU Dublin"
 parent: ZPUCSDUBCUC2
 has_children: true
 nav_order: 145
 ---
 
 
-# People-Counting Sensors: Enhancing Building Efficiency with GDPR Compliance at TU Dublin
+# People-Counting Sensors  Enhancing Building Efficiency with GDPR Compliance at TU Dublin
 
 # Evaluation
 

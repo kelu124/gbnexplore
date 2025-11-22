@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amsterdam Smart Energy Neighborhoods (ATELIER Project)
+title: "Amsterdam Smart Energy Neighborhoods (ATELIER Project)"
 parent: ZPUCSBRUAUC3
 has_children: true
 nav_order: 174

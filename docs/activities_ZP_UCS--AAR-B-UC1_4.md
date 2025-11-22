@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Green Hub House – Urban Climate Living Lab
+title: "Green Hub House – Urban Climate Living Lab"
 parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 194

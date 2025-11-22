@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Green Roof Monitoring Project
+title: "Smart Green Roof Monitoring Project"
 parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 168

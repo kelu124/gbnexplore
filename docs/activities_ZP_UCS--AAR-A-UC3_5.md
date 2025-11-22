@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dublin Green Building Neighbourhood (PROBONO Project)
+title: "Dublin Green Building Neighbourhood (PROBONO Project)"
 parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 44

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Casa Sophia – Positive Energy Smart Home
+title: "Casa Sophia – Positive Energy Smart Home"
 parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 15

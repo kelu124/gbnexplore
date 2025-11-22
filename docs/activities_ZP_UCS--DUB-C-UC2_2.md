@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ethos Engineering Living Lab
+title: "Ethos Engineering Living Lab"
 parent: ZPUCSDUBCUC2
 has_children: true
 nav_order: 146

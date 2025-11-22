@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Cities – Digital Energy Platform
+title: "Sharing Cities – Digital Energy Platform"
 parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 112

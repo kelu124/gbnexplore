@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aspern Smart City Research (ASCR)
+title: "Aspern Smart City Research (ASCR)"
 parent: ZPUCSBRUAUC3
 has_children: true
 nav_order: 173

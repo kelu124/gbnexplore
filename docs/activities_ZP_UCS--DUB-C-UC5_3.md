@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCORE Coastal City Living Lab – Rotterdam
+title: "SCORE Coastal City Living Lab – Rotterdam"
 parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 137

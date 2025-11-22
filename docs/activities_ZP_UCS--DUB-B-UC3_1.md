@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)
+title: "Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)"
 parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 88

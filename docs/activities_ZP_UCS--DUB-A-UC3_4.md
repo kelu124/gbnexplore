@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dublin Docklands Green Heating Network
+title: "Dublin Docklands Green Heating Network"
 parent: ZPUCSDUBAUC3
 has_children: true
 nav_order: 85

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Be.SHARE – Brussels Sustainable Heating and Renewable Energy Community
+title: "Be.SHARE – Brussels Sustainable Heating and Renewable Energy Community"
 parent: ZPUCSBRUBUC2
 has_children: true
 nav_order: 22

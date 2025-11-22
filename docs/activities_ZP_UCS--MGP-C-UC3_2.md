@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smarter Together – Smart Mobility Solutions
+title: "Smarter Together – Smart Mobility Solutions"
 parent: ZPUCSMGPCUC3
 has_children: true
 nav_order: 121

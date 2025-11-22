@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Energy Management at De Ceuvel
+title: "Smart Energy Management at De Ceuvel"
 parent: ZPUCSPRGAUC2
 has_children: true
 nav_order: 217

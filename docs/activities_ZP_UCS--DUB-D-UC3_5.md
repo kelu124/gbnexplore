@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mySMARTLife – Hamburg Smart District
+title: "mySMARTLife – Hamburg Smart District"
 parent: ZPUCSDUBDUC3
 has_children: true
 nav_order: 34

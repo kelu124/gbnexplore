@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Living Labs Brussels Retrofit Project
+title: "Living Labs Brussels Retrofit Project"
 parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 56

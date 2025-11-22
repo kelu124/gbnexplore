@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The Edge Amsterdam: BREEAM-NL Smart Building Pilot
+title: "The Edge Amsterdam  BREEAM-NL Smart Building Pilot"
 parent: ZPUCSDUBCUC2
 has_children: true
 nav_order: 148
 ---
 
 
-# The Edge Amsterdam: BREEAM-NL Smart Building Pilot
+# The Edge Amsterdam  BREEAM-NL Smart Building Pilot
 
 # Evaluation
 

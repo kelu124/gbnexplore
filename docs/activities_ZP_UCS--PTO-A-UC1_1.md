@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agra do Amial Renewable Energy Community
+title: "Agra do Amial Renewable Energy Community"
 parent: ZPUCSPTOAUC1
 has_children: true
 nav_order: 207

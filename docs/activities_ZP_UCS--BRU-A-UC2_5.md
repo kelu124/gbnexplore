@@ -1,6 +1,6 @@
 ---
 layout: default
-title: oPEN Lab Positive Energy Neighbourhoods
+title: "oPEN Lab Positive Energy Neighbourhoods"
 parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 59

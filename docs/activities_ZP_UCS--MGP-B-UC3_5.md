@@ -1,13 +1,13 @@
 ---
 layout: default
-title: THERMOS Project: District Heating & Cooling Planning Tools (Horizon 2020)
+title: "THERMOS Project  District Heating & Cooling Planning Tools (Horizon 2020)"
 parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 98
 ---
 
 
-# THERMOS Project: District Heating & Cooling Planning Tools (Horizon 2020)
+# THERMOS Project  District Heating & Cooling Planning Tools (Horizon 2020)
 
 # Evaluation
 

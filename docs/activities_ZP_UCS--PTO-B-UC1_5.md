@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sponge Parks and Social Housing Energy Communities (EXHAUSTION Horizon Project)
+title: "Sponge Parks and Social Housing Energy Communities (EXHAUSTION Horizon Project)"
 parent: ZPUCSPTOBUC1
 has_children: true
 nav_order: 14

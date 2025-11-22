@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Districlima: Barcelona District Heating and Cooling Network (Forum and 22@ Districts)
+title: "Districlima  Barcelona District Heating and Cooling Network (Forum and 22@ Districts)"
 parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 182
 ---
 
 
-# Districlima: Barcelona District Heating and Cooling Network (Forum and 22@ Districts)
+# Districlima  Barcelona District Heating and Cooling Network (Forum and 22@ Districts)
 
 # Evaluation
 

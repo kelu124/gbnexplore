@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization
+title: "CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization"
 parent: ZPUCSMGPCUC3
 has_children: true
 nav_order: 122

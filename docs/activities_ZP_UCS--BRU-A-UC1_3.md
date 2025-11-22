@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridge City – Regenerative Development
+title: "Bridge City – Regenerative Development"
 parent: ZPUCSBRUAUC1
 has_children: true
 nav_order: 152

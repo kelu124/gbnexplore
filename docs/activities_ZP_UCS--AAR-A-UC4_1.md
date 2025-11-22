@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CO-SHAPE Circular Energy Park & Governance Innovation
+title: "CO-SHAPE Circular Energy Park & Governance Innovation"
 parent: ZPUCSAARAUC4
 has_children: true
 nav_order: 60

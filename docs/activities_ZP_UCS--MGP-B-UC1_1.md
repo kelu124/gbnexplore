@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geothermal District Heating Network in Paris-Saclay
+title: "Geothermal District Heating Network in Paris-Saclay"
 parent: ZPUCSMGPBUC1
 has_children: true
 nav_order: 218

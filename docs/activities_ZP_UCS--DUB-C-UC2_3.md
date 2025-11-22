@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hub Criativo do Beato Living Lab
+title: "Hub Criativo do Beato Living Lab"
 parent: ZPUCSDUBCUC2
 has_children: true
 nav_order: 147

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REMOURBAN – Nottingham Lighthouse District
+title: "REMOURBAN – Nottingham Lighthouse District"
 parent: ZPUCSDUBDUC3
 has_children: true
 nav_order: 33

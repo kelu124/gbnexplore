@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EnergyVille Smart Building Living Lab
+title: "EnergyVille Smart Building Living Lab"
 parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 27

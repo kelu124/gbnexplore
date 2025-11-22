@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energy Consumption Measurement Digitization – Smart Prague Initiative
+title: "Energy Consumption Measurement Digitization – Smart Prague Initiative"
 parent: ZPUCSPRGAUC1
 has_children: true
 nav_order: 117

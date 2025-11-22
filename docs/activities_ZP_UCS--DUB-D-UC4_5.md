@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IRIS Smart Cities – Positive Energy Districts
+title: "IRIS Smart Cities – Positive Energy Districts"
 parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 29

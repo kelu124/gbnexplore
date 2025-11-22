@@ -1,13 +1,13 @@
 ---
 layout: default
-title: ATELIER: AmsTErdam and BiLbao cItizen drivEn smaRt cities
+title: "ATELIER  AmsTErdam and BiLbao cItizen drivEn smaRt cities"
 parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 113
 ---
 
 
-# ATELIER: AmsTErdam and BiLbao cItizen drivEn smaRt cities
+# ATELIER  AmsTErdam and BiLbao cItizen drivEn smaRt cities
 
 # Evaluation
 

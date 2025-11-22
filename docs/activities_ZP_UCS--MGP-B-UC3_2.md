@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Móstoles Biomass District Heating Network
+title: "Móstoles Biomass District Heating Network"
 parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 95

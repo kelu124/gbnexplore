@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brussels Green Building District Monitoring
+title: "Brussels Green Building District Monitoring"
 parent: ZPUCSDUBCUC4
 has_children: true
 nav_order: 127

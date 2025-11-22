@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Praça de Lisboa Green Roof & Fifth Façade Project
+title: "Praça de Lisboa Green Roof & Fifth Façade Project"
 parent: ZPUCSPTOAUC1
 has_children: true
 nav_order: 209

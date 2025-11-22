@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mySMARTLife Urban Digital Platform
+title: "mySMARTLife Urban Digital Platform"
 parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 28

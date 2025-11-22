@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IRIS Smart Cities – Utrecht Lighthouse Demonstration
+title: "IRIS Smart Cities – Utrecht Lighthouse Demonstration"
 parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 169

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: READY Project Demo Site – Aarhus
+title: "READY Project Demo Site – Aarhus"
 parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 191

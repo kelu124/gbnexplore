@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lisbjerg Sustainable Housing Development
+title: "Lisbjerg Sustainable Housing Development"
 parent: ZPUCSAARAUC2
 has_children: true
 nav_order: 106

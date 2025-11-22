@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Cities – Smart District Demonstration (Milan)
+title: "Sharing Cities – Smart District Demonstration (Milan)"
 parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 19

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aarhus Smart Building Elevator Usage Analytics
+title: "Aarhus Smart Building Elevator Usage Analytics"
 parent: ZPUCSDUBCUC4
 has_children: true
 nav_order: 126

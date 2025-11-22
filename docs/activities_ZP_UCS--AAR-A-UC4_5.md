@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARV – Climate Positive Circular Communities
+title: "ARV – Climate Positive Circular Communities"
 parent: ZPUCSAARAUC4
 has_children: true
 nav_order: 64

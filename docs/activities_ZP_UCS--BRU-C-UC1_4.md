@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 10-Minute City Urban Planning Tool
+title: "10-Minute City Urban Planning Tool"
 parent: ZPUCSBRUCUC1
 has_children: true
 nav_order: 48

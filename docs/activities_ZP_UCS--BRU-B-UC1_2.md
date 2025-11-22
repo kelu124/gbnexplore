@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energent Energy Community Platform (Freiburg)
+title: "Energent Energy Community Platform (Freiburg)"
 parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 111

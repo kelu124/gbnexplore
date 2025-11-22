@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rediscovery Centre Ballymun (Dublin Boiler House Sustainability Education Centre)
+title: "Rediscovery Centre Ballymun (Dublin Boiler House Sustainability Education Centre)"
 parent: ZPUCSDUBAUC3
 has_children: true
 nav_order: 82

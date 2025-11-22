@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project
+title: "IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project"
 parent: ZPUCSDUBCUC3
 has_children: true
 nav_order: 68

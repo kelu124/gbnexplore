@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buildings as Material Banks (BAMB)
+title: "Buildings as Material Banks (BAMB)"
 parent: ZPUCSBRUBUC3
 has_children: true
 nav_order: 134

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Circular Canteen Management – Amsterdam, Netherlands (Horizon Europe Project: CityLoops)
+title: "Circular Canteen Management – Amsterdam, Netherlands (Horizon Europe Project  CityLoops)"
 parent: ZPUCSDUBCUC1
 has_children: true
 nav_order: 242
 ---
 
 
-# Circular Canteen Management – Amsterdam, Netherlands (Horizon Europe Project: CityLoops)
+# Circular Canteen Management – Amsterdam, Netherlands (Horizon Europe Project  CityLoops)
 
 # Evaluation
 

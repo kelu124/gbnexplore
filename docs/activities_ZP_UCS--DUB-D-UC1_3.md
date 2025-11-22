@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrated Energy Lab (IE Lab), UCD Energy Institute
+title: "Integrated Energy Lab (IE Lab), UCD Energy Institute"
 parent: ZPUCSDUBDUC1
 has_children: true
 nav_order: 7

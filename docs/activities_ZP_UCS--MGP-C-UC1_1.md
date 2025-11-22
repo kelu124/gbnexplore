@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Madrid Nuevo Norte Urban Regeneration
+title: "Madrid Nuevo Norte Urban Regeneration"
 parent: ZPUCSMGPCUC1
 has_children: true
 nav_order: 35

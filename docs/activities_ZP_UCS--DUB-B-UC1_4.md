@@ -1,13 +1,13 @@
 ---
 layout: default
-title: REMOURBAN: REgeneration MOdel for smart URBAN transformation (Nottingham Demonstrator)
+title: "REMOURBAN  REgeneration MOdel for smart URBAN transformation (Nottingham Demonstrator)"
 parent: ZPUCSDUBBUC1
 has_children: true
 nav_order: 231
 ---
 
 
-# REMOURBAN: REgeneration MOdel for smart URBAN transformation (Nottingham Demonstrator)
+# REMOURBAN  REgeneration MOdel for smart URBAN transformation (Nottingham Demonstrator)
 
 # Evaluation
 

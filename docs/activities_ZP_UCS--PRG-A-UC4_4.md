@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Kalasatama – Helsinki’s Digital and Sustainable District
+title: "Smart Kalasatama – Helsinki’s Digital and Sustainable District"
 parent: ZPUCSPRGAUC4
 has_children: true
 nav_order: 103

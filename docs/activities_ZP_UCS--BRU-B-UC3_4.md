@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESPONSE Project – Positive Energy Neighbourhoods
+title: "RESPONSE Project – Positive Energy Neighbourhoods"
 parent: ZPUCSBRUBUC3
 has_children: true
 nav_order: 133

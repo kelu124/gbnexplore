@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FUN Porto – Urban Native Forest Initiative
+title: "FUN Porto – Urban Native Forest Initiative"
 parent: ZPUCSPTOBUC2
 has_children: true
 nav_order: 141

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Cleanwatts Living Lab: AI-powered Renewable Energy Communities
+title: "Cleanwatts Living Lab  AI-powered Renewable Energy Communities"
 parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 233
 ---
 
 
-# Cleanwatts Living Lab: AI-powered Renewable Energy Communities
+# Cleanwatts Living Lab  AI-powered Renewable Energy Communities
 
 # Evaluation
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Waterschei Positive Energy Neighbourhood (oPEN Lab)
+title: "Waterschei Positive Energy Neighbourhood (oPEN Lab)"
 parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 57

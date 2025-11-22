@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Heerlen Mijnwater 5th Generation District Heating and Cooling (D2Grids Project)
+title: "Heerlen Mijnwater 5th Generation District Heating and Cooling (D2Grids Project)"
 parent: ZPUCSMGPBUC1
 has_children: true
 nav_order: 221

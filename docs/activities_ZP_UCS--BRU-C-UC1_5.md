@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buildings as Material Banks (BAMB) – Circular Economy for Urban Development
+title: "Buildings as Material Banks (BAMB) – Circular Economy for Urban Development"
 parent: ZPUCSBRUCUC1
 has_children: true
 nav_order: 49

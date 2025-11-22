@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amsterdam Smart Energy Grid
+title: "Amsterdam Smart Energy Grid"
 parent: ZPUCSDUBDUC3
 has_children: true
 nav_order: 30

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)
+title: "Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)"
 parent: ZPUCSDUBCUC4
 has_children: true
 nav_order: 129

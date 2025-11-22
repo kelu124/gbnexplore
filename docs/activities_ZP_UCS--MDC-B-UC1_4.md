@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mySMARTLife – Smart City Lighthouse Project
+title: "mySMARTLife – Smart City Lighthouse Project"
 parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 18

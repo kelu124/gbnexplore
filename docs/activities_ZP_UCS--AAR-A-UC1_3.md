@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AARhus by BIG – Green Courtyard Residential Complex
+title: "AARhus by BIG – Green Courtyard Residential Complex"
 parent: ZPUCSAARAUC1
 has_children: true
 nav_order: 188

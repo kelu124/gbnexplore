@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Circular South (Horizon 2020 Project)
+title: "Circular South (Horizon 2020 Project)"
 parent: ZPUCSDUBAUC4
 has_children: true
 nav_order: 163

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I-CHANGE Milan Living Lab
+title: "I-CHANGE Milan Living Lab"
 parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 135

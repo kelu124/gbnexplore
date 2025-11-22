@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cherrywood Urban Development – Barrington Building & TC1
+title: "Cherrywood Urban Development – Barrington Building & TC1"
 parent: ZPUCSDUBCUC3
 has_children: true
 nav_order: 66

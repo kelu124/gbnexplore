@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Living Lab BIPV - Helmholtz-Zentrum Berlin
+title: "Living Lab BIPV - Helmholtz-Zentrum Berlin"
 parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 214

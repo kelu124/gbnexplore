@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Living Lab for Testing Digital Energy Solutions at JRC Ispra
+title: "Living Lab for Testing Digital Energy Solutions at JRC Ispra"
 parent: ZPUCSMDCCUC1
 has_children: true
 nav_order: 52

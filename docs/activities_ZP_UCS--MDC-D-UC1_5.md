@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mySMARTLife – Positive Energy Block Demonstration
+title: "mySMARTLife – Positive Energy Block Demonstration"
 parent: ZPUCSMDCDUC1
 has_children: true
 nav_order: 81

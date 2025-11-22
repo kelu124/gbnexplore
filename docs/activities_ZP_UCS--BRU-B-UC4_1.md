@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tivoli GreenCity – Sustainable Neighbourhood Impact Evaluation
+title: "Tivoli GreenCity – Sustainable Neighbourhood Impact Evaluation"
 parent: ZPUCSBRUBUC4
 has_children: true
 nav_order: 202

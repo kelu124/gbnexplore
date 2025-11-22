@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transforming Collectivity – Community Housing for Socially Empowered Living
+title: "Transforming Collectivity – Community Housing for Socially Empowered Living"
 parent: ZPUCSBRUAUC1
 has_children: true
 nav_order: 153

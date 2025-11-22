@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Fifth Façade Project – Praça de Lisboa Olive Grove Green Roof
+title: "The Fifth Façade Project – Praça de Lisboa Olive Grove Green Roof"
 parent: ZPUCSPTOBUC2
 has_children: true
 nav_order: 143

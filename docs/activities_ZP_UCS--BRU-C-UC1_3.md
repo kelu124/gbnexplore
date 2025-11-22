@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Green Corridor Project
+title: "Green Corridor Project"
 parent: ZPUCSBRUCUC1
 has_children: true
 nav_order: 47

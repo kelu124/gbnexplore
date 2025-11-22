@@ -1,13 +1,13 @@
 ---
 layout: default
-title: LIFE-myBUILDINGisGREEN: Horta das Figueiras School Green Roof
+title: "LIFE-myBUILDINGisGREEN  Horta das Figueiras School Green Roof"
 parent: ZPUCSPTOAUC1
 has_children: true
 nav_order: 211
 ---
 
 
-# LIFE-myBUILDINGisGREEN: Horta das Figueiras School Green Roof
+# LIFE-myBUILDINGisGREEN  Horta das Figueiras School Green Roof
 
 # Evaluation
 

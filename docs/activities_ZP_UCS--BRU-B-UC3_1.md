@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Savonnerie Heymans: A Former Soap Factory Turned Into a Sustainable Housing Project
+title: "Savonnerie Heymans  A Former Soap Factory Turned Into a Sustainable Housing Project"
 parent: ZPUCSBRUBUC3
 has_children: true
 nav_order: 130
 ---
 
 
-# Savonnerie Heymans: A Former Soap Factory Turned Into a Sustainable Housing Project
+# Savonnerie Heymans  A Former Soap Factory Turned Into a Sustainable Housing Project
 
 # Evaluation
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smarter Together – Sustainable Urban Districts (Lyon)
+title: "Smarter Together – Sustainable Urban Districts (Lyon)"
 parent: ZPUCSMDCDUC1
 has_children: true
 nav_order: 80

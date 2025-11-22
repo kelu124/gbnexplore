@@ -1,13 +1,13 @@
 ---
 layout: default
-title: mySMARTLife: Urban Data Platform for Smart City Management
+title: "mySMARTLife  Urban Data Platform for Smart City Management"
 parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 139
 ---
 
 
-# mySMARTLife: Urban Data Platform for Smart City Management
+# mySMARTLife  Urban Data Platform for Smart City Management
 
 # Evaluation
 

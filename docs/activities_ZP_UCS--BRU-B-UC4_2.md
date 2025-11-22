@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buildings as Material Banks (BAMB) – Circular Building Digital Twins
+title: "Buildings as Material Banks (BAMB) – Circular Building Digital Twins"
 parent: ZPUCSBRUBUC4
 has_children: true
 nav_order: 203

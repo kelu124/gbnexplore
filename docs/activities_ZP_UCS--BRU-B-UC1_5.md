@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POCITYF – Positive Energy Blocks Digital Platform
+title: "POCITYF – Positive Energy Blocks Digital Platform"
 parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 114

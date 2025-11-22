@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Waste Management Pilot – Jätkäsaari District, Helsinki
+title: "Smart Waste Management Pilot – Jätkäsaari District, Helsinki"
 parent: ZPUCSDUBAUC4
 has_children: true
 nav_order: 160

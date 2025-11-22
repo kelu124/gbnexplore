@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HABITA-RES Urban Neighborhood Energy Visualization Tool
+title: "HABITA-RES Urban Neighborhood Energy Visualization Tool"
 parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 17

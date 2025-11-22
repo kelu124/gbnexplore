@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Kalasatama District
+title: "Smart Kalasatama District"
 parent: ZPUCSBRUAUC3
 has_children: true
 nav_order: 172

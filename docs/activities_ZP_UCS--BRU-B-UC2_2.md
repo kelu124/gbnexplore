@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GreenBizz Energy Community
+title: "GreenBizz Energy Community"
 parent: ZPUCSBRUBUC2
 has_children: true
 nav_order: 21

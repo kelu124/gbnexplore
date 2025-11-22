@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Orcasitas Community Energy Renovation
+title: "Orcasitas Community Energy Renovation"
 parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 16

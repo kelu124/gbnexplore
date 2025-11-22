@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Green – Green Renovation for Social Housing (Interreg Europe)
+title: "Social Green – Green Renovation for Social Housing (Interreg Europe)"
 parent: ZPUCSPTOBUC2
 has_children: true
 nav_order: 144

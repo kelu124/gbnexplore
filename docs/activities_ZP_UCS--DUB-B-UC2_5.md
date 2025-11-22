@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSE Airtricity Living Lab (EU DREAM Project)
+title: "SSE Airtricity Living Lab (EU DREAM Project)"
 parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 237

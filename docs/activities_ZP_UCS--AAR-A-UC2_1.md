@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Circle House – Denmark’s First Circular Social Housing Project
+title: "Circle House – Denmark’s First Circular Social Housing Project"
 parent: ZPUCSAARAUC2
 has_children: true
 nav_order: 105

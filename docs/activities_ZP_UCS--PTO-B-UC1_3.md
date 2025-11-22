@@ -1,13 +1,13 @@
 ---
 layout: default
-title: LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof Demonstration
+title: "LIFE-myBUILDINGisGREEN  Falcão Primary School Green Roof Demonstration"
 parent: ZPUCSPTOBUC1
 has_children: true
 nav_order: 12
 ---
 
 
-# LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof Demonstration
+# LIFE-myBUILDINGisGREEN  Falcão Primary School Green Roof Demonstration
 
 # Evaluation
 

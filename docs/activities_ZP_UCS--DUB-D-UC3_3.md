@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lyon Confluence Smart Community
+title: "Lyon Confluence Smart Community"
 parent: ZPUCSDUBDUC3
 has_children: true
 nav_order: 32

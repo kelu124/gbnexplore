@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lisbjerg – Sustainable Urban Development
+title: "Lisbjerg – Sustainable Urban Development"
 parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 192

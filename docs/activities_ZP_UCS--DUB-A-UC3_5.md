@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmartEnCity – Vitoria-Gasteiz Green Neighborhood Retrofit
+title: "SmartEnCity – Vitoria-Gasteiz Green Neighborhood Retrofit"
 parent: ZPUCSDUBAUC3
 has_children: true
 nav_order: 86

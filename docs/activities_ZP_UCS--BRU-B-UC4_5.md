@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mySMARTLife – Interconnected Smart Districts (Horizon 2020 Project)
+title: "mySMARTLife – Interconnected Smart Districts (Horizon 2020 Project)"
 parent: ZPUCSBRUBUC4
 has_children: true
 nav_order: 206

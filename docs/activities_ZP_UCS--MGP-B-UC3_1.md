@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Madrid Nuevo Norte Urban Geothermal Power Network
+title: "Madrid Nuevo Norte Urban Geothermal Power Network"
 parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 94

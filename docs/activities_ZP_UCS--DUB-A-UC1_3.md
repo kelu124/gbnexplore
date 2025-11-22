@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dublin City Air and Noise Monitoring Initiative
+title: "Dublin City Air and Noise Monitoring Initiative"
 parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 167

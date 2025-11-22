@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)
+title: "Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)"
 parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 74

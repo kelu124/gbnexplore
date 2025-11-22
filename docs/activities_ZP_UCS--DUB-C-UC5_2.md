@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trinity College Dublin Living Lab – Air Quality Monitoring
+title: "Trinity College Dublin Living Lab – Air Quality Monitoring"
 parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 136

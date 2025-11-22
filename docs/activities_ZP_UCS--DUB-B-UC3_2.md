@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seestadt Aspern Smart City District
+title: "Seestadt Aspern Smart City District"
 parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 89

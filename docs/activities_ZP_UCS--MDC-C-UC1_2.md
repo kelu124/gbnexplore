@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energy Systems Catapult Living Lab
+title: "Energy Systems Catapult Living Lab"
 parent: ZPUCSMDCCUC1
 has_children: true
 nav_order: 51

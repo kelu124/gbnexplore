@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lisbjerg – Sustainable Neighborhood in Aarhus
+title: "Lisbjerg – Sustainable Neighborhood in Aarhus"
 parent: ZPUCSAARAUC1
 has_children: true
 nav_order: 187

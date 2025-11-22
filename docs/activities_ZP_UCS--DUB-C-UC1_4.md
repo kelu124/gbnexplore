@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Green Canteen Digital Twin – Helsinki, Finland
+title: "Green Canteen Digital Twin – Helsinki, Finland"
 parent: ZPUCSDUBCUC1
 has_children: true
 nav_order: 241

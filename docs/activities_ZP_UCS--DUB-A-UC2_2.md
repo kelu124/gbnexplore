@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seestadt Aspern Smart City Digital Twin
+title: "Seestadt Aspern Smart City Digital Twin"
 parent: ZPUCSDUBAUC2
 has_children: true
 nav_order: 198

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Madrid Nuevo Norte Green District (PROBONO Project Living Lab)
+title: "Madrid Nuevo Norte Green District (PROBONO Project Living Lab)"
 parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 43

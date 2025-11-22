@@ -1,13 +1,13 @@
 ---
 layout: default
-title: READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)
+title: "READY Project  Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)"
 parent: ZPUCSAARAUC4
 has_children: true
 nav_order: 61
 ---
 
 
-# READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)
+# READY Project  Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)
 
 # Evaluation
 

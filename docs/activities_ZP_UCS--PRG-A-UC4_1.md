@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modřanský cukrovar Blue-Green District
+title: "Modřanský cukrovar Blue-Green District"
 parent: ZPUCSPRGAUC4
 has_children: true
 nav_order: 100

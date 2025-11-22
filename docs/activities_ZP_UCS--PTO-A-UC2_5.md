@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La Pinada Eco-Neighbourhood (MAKING-CITY)
+title: "La Pinada Eco-Neighbourhood (MAKING-CITY)"
 parent: ZPUCSPTOAUC2
 has_children: true
 nav_order: 159

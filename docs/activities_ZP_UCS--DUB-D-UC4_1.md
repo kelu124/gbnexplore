@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmartEnCity – Vitoria-Gasteiz Smart District
+title: "SmartEnCity – Vitoria-Gasteiz Smart District"
 parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 25

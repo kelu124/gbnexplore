@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Enectiva: Cloud-Based Energy Monitoring for Green Buildings
+title: "Enectiva  Cloud-Based Energy Monitoring for Green Buildings"
 parent: ZPUCSPRGAUC1
 has_children: true
 nav_order: 119
 ---
 
 
-# Enectiva: Cloud-Based Energy Monitoring for Green Buildings
+# Enectiva  Cloud-Based Energy Monitoring for Green Buildings
 
 # Evaluation
 

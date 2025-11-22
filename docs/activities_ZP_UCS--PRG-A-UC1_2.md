@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prague Renewable Energy Community and Green Building Renovation
+title: "Prague Renewable Energy Community and Green Building Renovation"
 parent: ZPUCSPRGAUC1
 has_children: true
 nav_order: 116

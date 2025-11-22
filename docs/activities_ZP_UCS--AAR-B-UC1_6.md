@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IRIS Smart Cities – Utrecht Demo Site (Horizon 2020 Project)
+title: "IRIS Smart Cities – Utrecht Demo Site (Horizon 2020 Project)"
 parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 196

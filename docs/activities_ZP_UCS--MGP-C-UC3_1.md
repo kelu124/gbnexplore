@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stockholm's Clean Vehicles Initiative
+title: "Stockholm's Clean Vehicles Initiative"
 parent: ZPUCSMGPCUC3
 has_children: true
 nav_order: 120

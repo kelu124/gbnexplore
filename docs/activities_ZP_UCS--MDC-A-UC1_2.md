@@ -1,13 +1,13 @@
 ---
 layout: default
-title: HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas
+title: "HABITA-RES  Energy Assessment and Refurbishment of Vulnerable Urban Areas"
 parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 71
 ---
 
 
-# HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas
+# HABITA-RES  Energy Assessment and Refurbishment of Vulnerable Urban Areas
 
 # Evaluation
 

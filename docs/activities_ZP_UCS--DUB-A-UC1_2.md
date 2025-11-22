@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Public Building Energy Monitoring at Wood Quay Civic Offices
+title: "Public Building Energy Monitoring at Wood Quay Civic Offices"
 parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 166

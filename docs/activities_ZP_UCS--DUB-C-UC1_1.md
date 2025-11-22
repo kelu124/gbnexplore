@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Food Smart Schools Initiative
+title: "Food Smart Schools Initiative"
 parent: ZPUCSDUBCUC1
 has_children: true
 nav_order: 238

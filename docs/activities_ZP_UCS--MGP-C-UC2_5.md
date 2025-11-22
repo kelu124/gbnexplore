@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Cities – Integrated Smart Energy Solutions in Porta Romana-Vettabbia, Milan
+title: "Sharing Cities – Integrated Smart Energy Solutions in Porta Romana-Vettabbia, Milan"
 parent: ZPUCSMGPCUC2
 has_children: true
 nav_order: 180

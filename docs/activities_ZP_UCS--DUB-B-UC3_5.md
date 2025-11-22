@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESPONSE Dijon – Positive Energy Block
+title: "RESPONSE Dijon – Positive Energy Block"
 parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 92

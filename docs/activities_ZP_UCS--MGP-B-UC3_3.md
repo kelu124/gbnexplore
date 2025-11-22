@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manchester Civic Quarter Heat Network (CQHN)
+title: "Manchester Civic Quarter Heat Network (CQHN)"
 parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 96

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Cities – Smart Green Neighbourhoods
+title: "Sharing Cities – Smart Green Neighbourhoods"
 parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 195

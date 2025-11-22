@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Green Hub House
+title: "Green Hub House"
 parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 40

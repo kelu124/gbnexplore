@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mapping Green Dublin – Community Engagement for Urban Trees
+title: "Mapping Green Dublin – Community Engagement for Urban Trees"
 parent: ZPUCSDUBCUC3
 has_children: true
 nav_order: 67

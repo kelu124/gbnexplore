@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels
+title: "Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels"
 parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 55

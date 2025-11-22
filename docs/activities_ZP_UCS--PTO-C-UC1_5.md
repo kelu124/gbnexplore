@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H22 – The Making of a Smarter City
+title: "H22 – The Making of a Smarter City"
 parent: ZPUCSPTOCUC1
 has_children: true
 nav_order: 227
