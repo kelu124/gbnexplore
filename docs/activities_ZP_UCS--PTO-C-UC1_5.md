@@ -3,7 +3,7 @@ layout: default
 title: "H22 – The Making of a Smarter City"
 parent: ZPUCSPTOCUC1
 has_children: true
-nav_order: 227
+nav_order: 8
 ---
 
 
@@ -14,14 +14,14 @@ nav_order: 227
 | col1                                                                              | Justification                                                                                                                                                                                                                         |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Community smart infrastructures                                  | H22 focuses on creating a network of smart infrastructures throughout Helsingborg, enhancing the community's appeal by improving urban design and technological integration which attract residents, businesses, and visitors alike.  |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | H22 places a strong emphasis on environmental sustainability, including initiatives for tree planting and improving urban green space which directly contributes to biodiversity and ecosystem services within the urban environment. |
-| Resilience x Mobility                                                             | The initiative aims to improve urban transportation systems, including the introduction of an electric ferry system, which enhances the community's resilience to changing mobility needs and environmental standards.                |
-| Responsible resource use x Economy and sustainable production and consumption     | H22 promotes sustainable resource management through innovative systems like the three-pipe sewer designed for resource recovery, advocating for responsible consumption practices in the community.                                  |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative actively fosters community engagement and participation through platforms for co-creation, enhancing social bonds and interdependence among various stakeholders in Helsingborg.                                       |
-| Well-being x Health and care in the community                                     | H22 aims to improve quality of life through urban design initiatives that enhance public health, safety, and access to green spaces, all of which contribute positively to the well-being of residents.                               |
-| Attractiveness x Living and working environment                                   | By improving urban planning and creating attractive public spaces, H22 enhances the living and working environment, making Helsingborg a more desirable location for inhabitants and businesses.                                      |
-| Preservation and improvement of environment x Safety and security                 | The initiative incorporates elements designed to improve safety and security in urban spaces through better design and active community involvement, but this is secondary to its primary environmental goals.                        |
 | Resilience x Innovation, creativity and research                                  | H22 encourages the development of innovative solutions to urban challenges through partnerships with academia and various stakeholders, enhancing the community's resilience to future uncertainties.                                 |
+| Preservation and improvement of environment x Safety and security                 | The initiative incorporates elements designed to improve safety and security in urban spaces through better design and active community involvement, but this is secondary to its primary environmental goals.                        |
+| Attractiveness x Living and working environment                                   | By improving urban planning and creating attractive public spaces, H22 enhances the living and working environment, making Helsingborg a more desirable location for inhabitants and businesses.                                      |
+| Well-being x Health and care in the community                                     | H22 aims to improve quality of life through urban design initiatives that enhance public health, safety, and access to green spaces, all of which contribute positively to the well-being of residents.                               |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative actively fosters community engagement and participation through platforms for co-creation, enhancing social bonds and interdependence among various stakeholders in Helsingborg.                                       |
+| Resilience x Mobility                                                             | The initiative aims to improve urban transportation systems, including the introduction of an electric ferry system, which enhances the community's resilience to changing mobility needs and environmental standards.                |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | H22 places a strong emphasis on environmental sustainability, including initiatives for tree planting and improving urban green space which directly contributes to biodiversity and ecosystem services within the urban environment. |
+| Responsible resource use x Economy and sustainable production and consumption     | H22 promotes sustainable resource management through innovative systems like the three-pipe sewer designed for resource recovery, advocating for responsible consumption practices in the community.                                  |
 
 # Executive summary## H22 – The Making of a Smarter City
 

@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSBRUBUC3"
 has_children: true
-nav_order: 36
+nav_order: 48
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 36
 
 # Related use cases found online
 
+* [Buildings as Material Banks (BAMB)](activities_ZP_UCS--BRU-B-UC3_5.md)
+* [RESPONSE Project – Positive Energy Neighbourhoods](activities_ZP_UCS--BRU-B-UC3_4.md)
+* [GreenBizz Energy Community](activities_ZP_UCS--BRU-B-UC3_3.md)
 * [Savonnerie Heymans: A Former Soap Factory Turned Into a Sustainable Housing Project](activities_ZP_UCS--BRU-B-UC3_1.md)
 * [Tivoli GreenCity](activities_ZP_UCS--BRU-B-UC3_2.md)
-* [GreenBizz Energy Community](activities_ZP_UCS--BRU-B-UC3_3.md)
-* [RESPONSE Project – Positive Energy Neighbourhoods](activities_ZP_UCS--BRU-B-UC3_4.md)
-* [Buildings as Material Banks (BAMB)](activities_ZP_UCS--BRU-B-UC3_5.md)
 
 
 # Original text

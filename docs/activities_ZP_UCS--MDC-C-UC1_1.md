@@ -3,7 +3,7 @@ layout: default
 title: "Cleanwatts Living Lab – AI-Powered Renewable Energy Community"
 parent: ZPUCSMDCCUC1
 has_children: true
-nav_order: 50
+nav_order: 81
 ---
 
 
@@ -14,15 +14,15 @@ nav_order: 50
 | col1                                                                              | Justification                                                                                                                                                                                                    |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Economy and sustainable production and consumption               | The initiative aims to maximize local clean energy generation and self-consumption, which enhances the economic vitality of the neighborhood while promoting sustainability through innovative energy solutions. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | By integrating solar energy and smart technologies, the Cleanwatts Living Lab actively contributes to the reduction of CO₂ emissions and supports local biodiversity through improved energy practices.          |
-| Resilience x Health and care in the community                                     | The initiative enhances community resilience by reducing energy costs and empowering residents to actively engage in their energy systems, which contributes to overall health and well-being.                   |
-| Responsible resource use x Living and working environment                         | Promoting energy efficiency and local renewable generation addresses resource scarcity and supports a sustainable living environment for residents.                                                              |
-| Social cohesion x Living together, interdependence and mutuality                  | The Living Lab encourages community engagement and collective self-consumption, fostering a sense of belonging and mutual support among residents.                                                               |
 | Well-being x Education and capacity building                                      | The initiative aims to improve energy literacy and engage residents in sustainable practices, enhancing their overall quality of life and community confidence.                                                  |
-| Attractiveness x Innovation, creativity and research                              | The technological innovations in energy management and real-time optimization enhance the appeal of the neighborhood as a model for sustainable living.                                                          |
-| Resilience x Governance, empowerment and engagement                               | The project relies on regulatory flexibility and community engagement to adapt to challenges, thus strengthening governance structures within the neighborhood.                                                  |
-| Preservation and improvement of environment x Community smart infrastructures     | The deployment of smart technologies and infrastructures supports environmental stewardship and energy efficiency, enhancing the ecological footprint of the community.                                          |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | By integrating solar energy and smart technologies, the Cleanwatts Living Lab actively contributes to the reduction of CO₂ emissions and supports local biodiversity through improved energy practices.          |
+| Responsible resource use x Living and working environment                         | Promoting energy efficiency and local renewable generation addresses resource scarcity and supports a sustainable living environment for residents.                                                              |
 | Social cohesion x Culture and community identity                                  | The initiative supports the local community's cultural identity through engagement processes and a collective vision for sustainable living.                                                                     |
+| Preservation and improvement of environment x Community smart infrastructures     | The deployment of smart technologies and infrastructures supports environmental stewardship and energy efficiency, enhancing the ecological footprint of the community.                                          |
+| Resilience x Governance, empowerment and engagement                               | The project relies on regulatory flexibility and community engagement to adapt to challenges, thus strengthening governance structures within the neighborhood.                                                  |
+| Social cohesion x Living together, interdependence and mutuality                  | The Living Lab encourages community engagement and collective self-consumption, fostering a sense of belonging and mutual support among residents.                                                               |
+| Resilience x Health and care in the community                                     | The initiative enhances community resilience by reducing energy costs and empowering residents to actively engage in their energy systems, which contributes to overall health and well-being.                   |
+| Attractiveness x Innovation, creativity and research                              | The technological innovations in energy management and real-time optimization enhance the appeal of the neighborhood as a model for sustainable living.                                                          |
 
 # Executive summary## Cleanwatts Living Lab – AI-Powered Renewable Energy Community
 

@@ -3,7 +3,7 @@ layout: default
 title: "```"
 parent: ZPUCSDUBCUC5
 has_children: true
-nav_order: 138
+nav_order: 116
 ---
 
 
@@ -13,13 +13,13 @@ nav_order: 138
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                                                          |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attractiveness x Living together, interdependence and mutuality                   | The initiative encourages interdependence through community engagement in urban projects, fostering a collaborative environment where residents share responsibilities and experiences, effectively enhancing social ties.                                                                             |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative significantly enhances the local environment by increasing biodiversity through the creation of green corridors, vertical gardens, and green roofs. These actions actively work to restore and preserve local ecosystems and their associated services.                                 |
+| Resilience x Safety and security                                                  | The introduction of green infrastructure can indirectly contribute to safety and security by transforming spaces into community-friendly areas. However, the primary focus remains on resilience rather than direct safety measures.                                                                   |
 | Attractiveness x Economy and sustainable production and consumption               | Urban GreenUP has transformed Valladolid's urban landscape, enhancing its attractiveness for residents and visitors alike. The incorporation of green infrastructure not only beautifies the area but also has potential economic benefits through increased tourism and local business opportunities. |
 | Social cohesion x Community smart infrastructures                                 | The project promotes social cohesion through the engagement of multiple stakeholders, including citizens, local government, and businesses. By involving the community in participatory planning processes, it fosters a sense of belonging and mutual support among residents.                        |
 | Well-being x Health and care in the community                                     | By improving air quality and creating green spaces, the project directly contributes to both physical and mental well-being of residents. This initiative enhances the overall quality of life in Valladolid by providing healthier living environments.                                               |
 | Responsible resource use x Living and working environment                         | The effective implementation of sustainable drainage systems and green roofs exemplifies responsible resource use as it revolves around efficient water management and reducing energy consumption in urban spaces. This approach aligns with the concept of improving urban environments.             |
-| Resilience x Safety and security                                                  | The introduction of green infrastructure can indirectly contribute to safety and security by transforming spaces into community-friendly areas. However, the primary focus remains on resilience rather than direct safety measures.                                                                   |
-| Attractiveness x Living together, interdependence and mutuality                   | The initiative encourages interdependence through community engagement in urban projects, fostering a collaborative environment where residents share responsibilities and experiences, effectively enhancing social ties.                                                                             |
 | Resilience x Governance, empowerment and engagement                               | The governance structure of the Urban GreenUP project emphasizes stakeholder involvement, ensuring that community input influences decision-making processes. This empowers residents and aligns with sustainable development goals.                                                                   |
 
 # Executive summary```

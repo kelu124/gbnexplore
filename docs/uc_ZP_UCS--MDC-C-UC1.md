@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMDCCUC1"
 has_children: true
-nav_order: 19
+nav_order: 27
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 19
 
 # Related use cases found online
 
-* [Cleanwatts Living Lab – AI-Powered Renewable Energy Community](activities_ZP_UCS--MDC-C-UC1_1.md)
-* [Energy Systems Catapult Living Lab](activities_ZP_UCS--MDC-C-UC1_2.md)
-* [Living Lab for Testing Digital Energy Solutions at JRC Ispra](activities_ZP_UCS--MDC-C-UC1_3.md)
 * [EU-DREAM: Effective Uptake of Digital Services to Repower European Consumers and Communities as Active Participants in Energy Transition and Markets](activities_ZP_UCS--MDC-C-UC1_4.md)
 * [i-STENTORE Living Lab for Smart Energy Storage Deployment (Horizon Europe Project)](activities_ZP_UCS--MDC-C-UC1_5.md)
+* [Cleanwatts Living Lab – AI-Powered Renewable Energy Community](activities_ZP_UCS--MDC-C-UC1_1.md)
+* [Living Lab for Testing Digital Energy Solutions at JRC Ispra](activities_ZP_UCS--MDC-C-UC1_3.md)
+* [Energy Systems Catapult Living Lab](activities_ZP_UCS--MDC-C-UC1_2.md)
 
 
 # Original text

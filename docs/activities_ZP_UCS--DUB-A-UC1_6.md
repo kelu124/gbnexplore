@@ -3,7 +3,7 @@ layout: default
 title: "Sharing Cities – Smart Building Neighborhood Monitoring (Milan, Italy)"
 parent: ZPUCSDUBAUC1
 has_children: true
-nav_order: 170
+nav_order: 172
 ---
 
 
@@ -13,12 +13,12 @@ nav_order: 170
 
 | col1                                                                              | Justification                                                                                                                                                                                                                   |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Sharing Cities initiative aims to create economically vibrant neighborhoods by integrating smart technologies and sustainable practices which bolster local economies and enhance the overall appeal of the districts.      |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on environmental performance by employing IoT sensors and digital platforms that enhance air quality and help in reducing GHG emissions, thus actively contributing to the preservation of the environment. |
-| Resilience x Health and care in the community                                     | The initiative emphasizes adaptive capacity by preparing the district for climate challenges through energy-efficient buildings and improved health through better air quality.                                                 |
 | Responsible resource use x Living and working environment                         | The project promotes responsible resource use by implementing energy-efficient building retrofits and smart street lighting to manage resources sustainably.                                                                    |
+| Resilience x Health and care in the community                                     | The initiative emphasizes adaptive capacity by preparing the district for climate challenges through energy-efficient buildings and improved health through better air quality.                                                 |
 | Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social integration through community engagement in the planning process and developing spaces that are inclusive and accessible for diverse populations.                                                 |
 | Attractiveness x Culture and community identity                                   | The project respects and enhances the cultural identity of the community through participatory design that includes local voices in redeveloping the district.                                                                  |
+| Attractiveness x Economy and sustainable production and consumption               | The Sharing Cities initiative aims to create economically vibrant neighborhoods by integrating smart technologies and sustainable practices which bolster local economies and enhance the overall appeal of the districts.      |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on environmental performance by employing IoT sensors and digital platforms that enhance air quality and help in reducing GHG emissions, thus actively contributing to the preservation of the environment. |
 | Resilience x Economy and sustainable production and consumption                   | By reducing energy consumption and emissions, the project enhances economic resilience while promoting sustainable practices among local businesses.                                                                            |
 | Attractiveness x Community smart infrastructures                                  | The development of integrated infrastructures such as smart street lighting and e-mobility hubs significantly enhances the attractiveness of the neighborhoods.                                                                 |
 

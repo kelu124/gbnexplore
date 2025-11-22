@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSBRUCUC1"
 has_children: true
-nav_order: 18
+nav_order: 46
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 18
 
 # Related use cases found online
 
-* [eHUBS – Smart Shared Green Mobility Hubs](activities_ZP_UCS--BRU-C-UC1_1.md)
 * [Tivoli GreenCity Sustainable Neighbourhood](activities_ZP_UCS--BRU-C-UC1_2.md)
-* [Green Corridor Project](activities_ZP_UCS--BRU-C-UC1_3.md)
-* [10-Minute City Urban Planning Tool](activities_ZP_UCS--BRU-C-UC1_4.md)
 * [Buildings as Material Banks (BAMB) – Circular Economy for Urban Development](activities_ZP_UCS--BRU-C-UC1_5.md)
+* [eHUBS – Smart Shared Green Mobility Hubs](activities_ZP_UCS--BRU-C-UC1_1.md)
+* [10-Minute City Urban Planning Tool](activities_ZP_UCS--BRU-C-UC1_4.md)
+* [Green Corridor Project](activities_ZP_UCS--BRU-C-UC1_3.md)
 
 
 # Original text

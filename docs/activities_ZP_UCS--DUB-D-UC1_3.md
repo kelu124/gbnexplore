@@ -3,7 +3,7 @@ layout: default
 title: "Integrated Energy Lab (IE Lab), UCD Energy Institute"
 parent: ZPUCSDUBDUC1
 has_children: true
-nav_order: 7
+nav_order: 110
 ---
 
 
@@ -13,16 +13,16 @@ nav_order: 7
 
 | col1                                                                              | Justification                                                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Integrated Energy Lab promotes economic diversity and local production by engaging with industry partners and researchers, supporting innovation in sustainable energy technologies which benefits the community economically. |
-| Resilience x Biodiversity and ecosystem services                                  | The initiative aims to enhance the resilience of the energy infrastructure, contributing to environmental sustainability and climate resilience through innovative practices in energy management.                                 |
-| Preservation and improvement of environment x Community smart infrastructures     | IE Lab emphasizes the use of smart technology in managing energy resources effectively, thereby improving the community’s infrastructure and minimizing environmental impact.                                                      |
-| Social cohesion x Governance, empowerment and engagement                          | By fostering collaboration across various stakeholders including the university, industry, and policymakers, the initiative builds strong community engagement and encourages participatory decision-making.                       |
-| Well-being x Health and care in the community                                     | The lab contributes to the well-being of the community by promoting energy efficiency and reduced operational costs, which in turn improves living conditions and safety on campus.                                                |
-| Responsible resource use x Innovation, creativity and research                    | The facility conducts research on advanced energy management technologies which lead to significant improvements in resource efficiency, reflecting responsible use and innovation.                                                |
-| Attractiveness x Living and working environment                                   | The lab enhances the attractiveness of the UCD campus by providing cutting-edge energy solutions that create a vibrant educational and professional atmosphere.                                                                    |
-| Resilience x Safety and security                                                  | The initiative works towards creating a reliable and secure energy system, which is crucial for maintaining stability and safety within the community.                                                                             |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | Through its focus on sustainable energy practices, the lab contributes to the preservation of local biodiversity and ecosystem services.                                                                                           |
 | Social cohesion x Culture and community identity                                  | IE Lab fosters a strong sense of community by engaging diverse stakeholders in collective efforts toward sustainability, thus enhancing cultural identity among participants.                                                      |
+| Resilience x Safety and security                                                  | The initiative works towards creating a reliable and secure energy system, which is crucial for maintaining stability and safety within the community.                                                                             |
+| Responsible resource use x Innovation, creativity and research                    | The facility conducts research on advanced energy management technologies which lead to significant improvements in resource efficiency, reflecting responsible use and innovation.                                                |
+| Attractiveness x Living and working environment                                   | The lab enhances the attractiveness of the UCD campus by providing cutting-edge energy solutions that create a vibrant educational and professional atmosphere.                                                                    |
+| Social cohesion x Governance, empowerment and engagement                          | By fostering collaboration across various stakeholders including the university, industry, and policymakers, the initiative builds strong community engagement and encourages participatory decision-making.                       |
+| Resilience x Biodiversity and ecosystem services                                  | The initiative aims to enhance the resilience of the energy infrastructure, contributing to environmental sustainability and climate resilience through innovative practices in energy management.                                 |
+| Attractiveness x Economy and sustainable production and consumption               | The Integrated Energy Lab promotes economic diversity and local production by engaging with industry partners and researchers, supporting innovation in sustainable energy technologies which benefits the community economically. |
+| Preservation and improvement of environment x Community smart infrastructures     | IE Lab emphasizes the use of smart technology in managing energy resources effectively, thereby improving the community’s infrastructure and minimizing environmental impact.                                                      |
+| Well-being x Health and care in the community                                     | The lab contributes to the well-being of the community by promoting energy efficiency and reduced operational costs, which in turn improves living conditions and safety on campus.                                                |
 
 # Executive summary## Integrated Energy Lab (IE Lab), UCD Energy Institute
 

@@ -3,7 +3,7 @@ layout: default
 title: "Energy Living Lab (Provincia di Sassari, Italy)"
 parent: ZPUCSDUBDUC1
 has_children: true
-nav_order: 8
+nav_order: 112
 ---
 
 
@@ -13,15 +13,15 @@ nav_order: 8
 
 | col1                                                                | Justification                                                                                                                                                                                                                                    |
 |:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resilience x Community smart infrastructures                        | The initiative supports the development of smart infrastructure, enhancing community resilience by integrating renewable energy sources and smart technologies to stabilize the energy system.                                                   |
+| Social cohesion x Governance, empowerment and engagement            | The initiative emphasizes participatory governance through co-design workshops and resident engagement efforts, fostering a sense of community and social integration among diverse households in Sassari.                                       |
+| Responsible resource use x Living and working environment           | By deploying smart meters and home automation systems, the initiative increases energy efficiency and promotes responsible consumption patterns, ensuring that resources are managed sustainably within the residential settings.                |
+| Responsible resource use x Mobility                                 | While primarily focused on energy management, improvements in smart grid and renewable technologies indirectly support better mobility solutions by creating an efficient energy mix for electric mobility options.                              |
+| Attractiveness x Culture and community identity                     | By integrating local values and encouraging resident participation, the lab promotes an attractive environment that respects cultural heritage and encourages innovation in energy solutions.                                                    |
+| Social cohesion x Living together, interdependence and mutuality    | By fostering collaboration among residents and institutions, the initiative enhances social ties and mutual support, promoting shared responsibility in energy management.                                                                       |
+| Well-being x Education and capacity building                        | The Energy Living Lab enhances well-being by providing educational interventions that raise awareness about energy management among residents, contributing to both physical comfort and mental satisfaction in their living environments.       |
 | Attractiveness x Economy and sustainable production and consumption | The Energy Living Lab aims to increase renewable energy integration in residential areas, creating an economically vibrant community through reduced energy costs and local job creation, thus enhancing the attractiveness of the neighborhood. |
 | Resilience x Health and care in the community                       | The Energy Living Lab empowers citizens through active engagement in energy management, promoting resilience at the community level by preparing residents for energy challenges and fostering a sense of community well-being.                  |
-| Responsible resource use x Living and working environment           | By deploying smart meters and home automation systems, the initiative increases energy efficiency and promotes responsible consumption patterns, ensuring that resources are managed sustainably within the residential settings.                |
-| Social cohesion x Governance, empowerment and engagement            | The initiative emphasizes participatory governance through co-design workshops and resident engagement efforts, fostering a sense of community and social integration among diverse households in Sassari.                                       |
-| Well-being x Education and capacity building                        | The Energy Living Lab enhances well-being by providing educational interventions that raise awareness about energy management among residents, contributing to both physical comfort and mental satisfaction in their living environments.       |
-| Attractiveness x Culture and community identity                     | By integrating local values and encouraging resident participation, the lab promotes an attractive environment that respects cultural heritage and encourages innovation in energy solutions.                                                    |
-| Responsible resource use x Mobility                                 | While primarily focused on energy management, improvements in smart grid and renewable technologies indirectly support better mobility solutions by creating an efficient energy mix for electric mobility options.                              |
-| Resilience x Community smart infrastructures                        | The initiative supports the development of smart infrastructure, enhancing community resilience by integrating renewable energy sources and smart technologies to stabilize the energy system.                                                   |
-| Social cohesion x Living together, interdependence and mutuality    | By fostering collaboration among residents and institutions, the initiative enhances social ties and mutual support, promoting shared responsibility in energy management.                                                                       |
 
 # Executive summary## Energy Living Lab (Provincia di Sassari, Italy)
 

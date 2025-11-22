@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSPRGAUC4"
 has_children: true
-nav_order: 30
+nav_order: 15
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 30
 
 # Related use cases found online
 
+* [SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)](activities_ZP_UCS--PRG-A-UC4_5.md)
 * [Modřanský cukrovar Blue-Green District](activities_ZP_UCS--PRG-A-UC4_1.md)
 * [Smíchov City – Comprehensive Urban Brownfield Redevelopment](activities_ZP_UCS--PRG-A-UC4_2.md)
-* [City Green Court](activities_ZP_UCS--PRG-A-UC4_3.md)
 * [Smart Kalasatama – Helsinki’s Digital and Sustainable District](activities_ZP_UCS--PRG-A-UC4_4.md)
-* [SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)](activities_ZP_UCS--PRG-A-UC4_5.md)
+* [City Green Court](activities_ZP_UCS--PRG-A-UC4_3.md)
 
 
 # Original text

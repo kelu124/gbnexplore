@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSPRGAUC1"
 has_children: true
-nav_order: 33
+nav_order: 18
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 33
 
 # Related use cases found online
 
-* [Residential Building in Prague Monitors Energy Consumption via M-Bus](activities_ZP_UCS--PRG-A-UC1_1.md)
-* [Prague Renewable Energy Community and Green Building Renovation](activities_ZP_UCS--PRG-A-UC1_2.md)
 * [Energy Consumption Measurement Digitization – Smart Prague Initiative](activities_ZP_UCS--PRG-A-UC1_3.md)
-* [ASCEND Smart Energy Neighborhood Demonstration](activities_ZP_UCS--PRG-A-UC1_4.md)
+* [Prague Renewable Energy Community and Green Building Renovation](activities_ZP_UCS--PRG-A-UC1_2.md)
+* [Residential Building in Prague Monitors Energy Consumption via M-Bus](activities_ZP_UCS--PRG-A-UC1_1.md)
 * [Enectiva: Cloud-Based Energy Monitoring for Green Buildings](activities_ZP_UCS--PRG-A-UC1_5.md)
+* [ASCEND Smart Energy Neighborhood Demonstration](activities_ZP_UCS--PRG-A-UC1_4.md)
 
 
 # Original text

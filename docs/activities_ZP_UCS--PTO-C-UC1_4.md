@@ -3,7 +3,7 @@ layout: default
 title: "Lyon Confluence Smart District"
 parent: ZPUCSPTOCUC1
 has_children: true
-nav_order: 226
+nav_order: 7
 ---
 
 
@@ -13,16 +13,16 @@ nav_order: 226
 
 | col1                                                                              | Justification                                                                                                                                                                                                                           |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Culture and community identity                                   | The Lyon Confluence project emphasizes mixed-use development, cultural institutions, and vibrant public spaces that enhance community identity, creating a desirable living environment that attracts diverse residents and businesses. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project includes biodiversity integration strategies and substantial green spaces, such as parks and promenades, which contribute to improving local ecosystem services and overall environmental quality.                          |
-| Resilience x Health and care in the community                                     | The design incorporates features aimed at enhancing community resilience to climate change impacts while also providing healthcare facilities and promoting physical and mental well-being among residents.                             |
-| Responsible resource use x Economy and sustainable production and consumption     | The project focuses on renewable energy systems, energy-efficient buildings, and resource management strategies that prioritize sustainability and responsible use of resources, thus optimizing consumption patterns.                  |
-| Social cohesion x Living together, interdependence and mutuality                  | The mixed-income housing policy and abundance of public spaces foster social integration, supporting community identity and interdependence among diverse demographic groups.                                                           |
-| Well-being x Living and working environment                                       | Creation of high-quality public spaces, diverse housing options, and integrated services ensures a healthy living and working environment that enhances the quality of life for residents.                                              |
-| Attractiveness x Mobility                                                         | The project emphasizes transit-oriented development, integrating public transport with walkable infrastructure that enhances accessibility and mobility within the community.                                                           |
-| Resilience x Safety and security                                                  | While safety and security are considered in the design, the rapid changes and potential gentrification pressures may pose challenges to maintaining a safe and supportive environment for all community members.                        |
 | Preservation and improvement of environment x Community smart infrastructures     | The integration of district heating, smart grids, and renewable energy systems showcases the project’s commitment to environmental stewardship and optimizing energy performance at the neighborhood level.                             |
 | Social cohesion x Governance, empowerment and engagement                          | Community engagement efforts throughout the design and planning processes emphasize the importance of inclusive decision-making and stakeholder involvement in shaping a sustainable neighborhood.                                      |
+| Resilience x Safety and security                                                  | While safety and security are considered in the design, the rapid changes and potential gentrification pressures may pose challenges to maintaining a safe and supportive environment for all community members.                        |
+| Responsible resource use x Economy and sustainable production and consumption     | The project focuses on renewable energy systems, energy-efficient buildings, and resource management strategies that prioritize sustainability and responsible use of resources, thus optimizing consumption patterns.                  |
+| Attractiveness x Mobility                                                         | The project emphasizes transit-oriented development, integrating public transport with walkable infrastructure that enhances accessibility and mobility within the community.                                                           |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project includes biodiversity integration strategies and substantial green spaces, such as parks and promenades, which contribute to improving local ecosystem services and overall environmental quality.                          |
+| Resilience x Health and care in the community                                     | The design incorporates features aimed at enhancing community resilience to climate change impacts while also providing healthcare facilities and promoting physical and mental well-being among residents.                             |
+| Attractiveness x Culture and community identity                                   | The Lyon Confluence project emphasizes mixed-use development, cultural institutions, and vibrant public spaces that enhance community identity, creating a desirable living environment that attracts diverse residents and businesses. |
+| Social cohesion x Living together, interdependence and mutuality                  | The mixed-income housing policy and abundance of public spaces foster social integration, supporting community identity and interdependence among diverse demographic groups.                                                           |
+| Well-being x Living and working environment                                       | Creation of high-quality public spaces, diverse housing options, and integrated services ensures a healthy living and working environment that enhances the quality of life for residents.                                              |
 
 # Executive summary## Lyon Confluence Smart District
 

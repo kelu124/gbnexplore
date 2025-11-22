@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSDUBAUC3"
 has_children: true
-nav_order: 26
+nav_order: 43
 ---
 
 
@@ -10,12 +10,12 @@ nav_order: 26
 
 # Related use cases found online
 
-* [Rediscovery Centre Ballymun (Dublin Boiler House Sustainability Education Centre)](activities_ZP_UCS--DUB-A-UC3_1.md)
-* [Ella House High-Efficiency HVAC Retrofit](activities_ZP_UCS--DUB-A-UC3_2.md)
-* [Tallaght District Heating Using Data Center Waste Heat](activities_ZP_UCS--DUB-A-UC3_3.md)
-* [Dublin Docklands Green Heating Network](activities_ZP_UCS--DUB-A-UC3_4.md)
-* [SmartEnCity – Vitoria-Gasteiz Green Neighborhood Retrofit](activities_ZP_UCS--DUB-A-UC3_5.md)
 * [mySMARTLife Project – Nantes](activities_ZP_UCS--DUB-A-UC3_6.md)
+* [SmartEnCity – Vitoria-Gasteiz Green Neighborhood Retrofit](activities_ZP_UCS--DUB-A-UC3_5.md)
+* [Tallaght District Heating Using Data Center Waste Heat](activities_ZP_UCS--DUB-A-UC3_3.md)
+* [Rediscovery Centre Ballymun (Dublin Boiler House Sustainability Education Centre)](activities_ZP_UCS--DUB-A-UC3_1.md)
+* [Dublin Docklands Green Heating Network](activities_ZP_UCS--DUB-A-UC3_4.md)
+* [Ella House High-Efficiency HVAC Retrofit](activities_ZP_UCS--DUB-A-UC3_2.md)
 
 
 # Original text

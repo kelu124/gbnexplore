@@ -3,7 +3,7 @@ layout: default
 title: "Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels"
 parent: ZPUCSBRUAUC2
 has_children: true
-nav_order: 55
+nav_order: 210
 ---
 
 
@@ -13,14 +13,14 @@ nav_order: 55
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                                  |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | Tivoli GreenCity aims to create a vibrant mixed-use community that combines living spaces with commercial opportunities, thus enhancing economic vitality. The integration of a business incubator for green enterprises supports local economic diversity and sustainability. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project emphasizes transforming a contaminated brownfield into a green space, integrating biodiversity into the design, and enhancing ecological performance, which contributes to biodiversity and ecosystem services in the urban environment.                           |
-| Resilience x Health and care in the community                                     | By developing energy-efficient housing and green spaces, the neighborhood fosters resilience to environmental challenges, contributing to both physical health and a sense of community care. It aims to create an environment conducive to well-being and community support.  |
-| Social cohesion x Living together, interdependence and mutuality                  | The design promotes social integration through mixed-tenure housing, social housing for vulnerable populations, and shared green spaces that facilitate community bonding and interaction.                                                                                     |
 | Well-being x Safety and security                                                  | Safety is addressed by incorporating urban design principles that enhance security in communal spaces and housing, thereby improving the overall well-being of residents through the creation of safe, inviting environments.                                                  |
 | Preservation and improvement of environment x Community smart infrastructures     | The project incorporates smart infrastructures, such as digital energy monitoring, which improve environmental performance and enhance the quality of life for residents, underscoring environmental preservation.                                                             |
-| Well-being x Living and working environment                                       | The development offers quality housing that balances residential and commercial needs, contributing to a positive living and working environment that enhances overall well-being.                                                                                             |
 | Social cohesion x Education and capacity building                                 | Initiatives like community engagement through participatory design workshops help build skills and awareness among residents, fostering social cohesion and involvement in sustainability practices.                                                                           |
+| Well-being x Living and working environment                                       | The development offers quality housing that balances residential and commercial needs, contributing to a positive living and working environment that enhances overall well-being.                                                                                             |
+| Social cohesion x Living together, interdependence and mutuality                  | The design promotes social integration through mixed-tenure housing, social housing for vulnerable populations, and shared green spaces that facilitate community bonding and interaction.                                                                                     |
+| Resilience x Health and care in the community                                     | By developing energy-efficient housing and green spaces, the neighborhood fosters resilience to environmental challenges, contributing to both physical health and a sense of community care. It aims to create an environment conducive to well-being and community support.  |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project emphasizes transforming a contaminated brownfield into a green space, integrating biodiversity into the design, and enhancing ecological performance, which contributes to biodiversity and ecosystem services in the urban environment.                           |
+| Attractiveness x Economy and sustainable production and consumption               | Tivoli GreenCity aims to create a vibrant mixed-use community that combines living spaces with commercial opportunities, thus enhancing economic vitality. The integration of a business incubator for green enterprises supports local economic diversity and sustainability. |
 
 # Executive summary## Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels
 

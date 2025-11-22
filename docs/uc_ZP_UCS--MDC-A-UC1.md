@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMDCAUC1"
 has_children: true
-nav_order: 23
+nav_order: 29
 ---
 
 
@@ -10,12 +10,12 @@ nav_order: 23
 
 # Related use cases found online
 
-* [Casa Sophia: Automating Spain’s Most Eco-Friendly Home](activities_ZP_UCS--MDC-A-UC1_1.md)
-* [HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas](activities_ZP_UCS--MDC-A-UC1_2.md)
+* [CityLoops – Circular Construction and Demolition Waste Management](activities_ZP_UCS--MDC-A-UC1_6.md)
+* [Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)](activities_ZP_UCS--MDC-A-UC1_5.md)
 * [Energy-Efficient Renovation in Orcasitas with EPS Insulation](activities_ZP_UCS--MDC-A-UC1_3.md)
 * [Staying Green: Madrid’s Urban Green Space Monitoring](activities_ZP_UCS--MDC-A-UC1_4.md)
-* [Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)](activities_ZP_UCS--MDC-A-UC1_5.md)
-* [CityLoops – Circular Construction and Demolition Waste Management](activities_ZP_UCS--MDC-A-UC1_6.md)
+* [Casa Sophia: Automating Spain’s Most Eco-Friendly Home](activities_ZP_UCS--MDC-A-UC1_1.md)
+* [HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas](activities_ZP_UCS--MDC-A-UC1_2.md)
 
 
 # Original text

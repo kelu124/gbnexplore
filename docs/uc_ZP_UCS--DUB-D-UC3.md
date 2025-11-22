@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSDUBDUC3"
 has_children: true
-nav_order: 15
+nav_order: 31
 ---
 
 
@@ -10,10 +10,10 @@ nav_order: 15
 
 # Related use cases found online
 
+* [REMOURBAN – Nottingham Lighthouse District](activities_ZP_UCS--DUB-D-UC3_4.md)
+* [Lyon Confluence Smart Community](activities_ZP_UCS--DUB-D-UC3_3.md)
 * [Amsterdam Smart Energy Grid](activities_ZP_UCS--DUB-D-UC3_1.md)
 * [Aspern Smart City Research (ASCR)](activities_ZP_UCS--DUB-D-UC3_2.md)
-* [Lyon Confluence Smart Community](activities_ZP_UCS--DUB-D-UC3_3.md)
-* [REMOURBAN – Nottingham Lighthouse District](activities_ZP_UCS--DUB-D-UC3_4.md)
 * [mySMARTLife – Hamburg Smart District](activities_ZP_UCS--DUB-D-UC3_5.md)
 
 

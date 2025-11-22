@@ -3,7 +3,7 @@ layout: default
 title: "Aspern Smart City Research (ASCR)"
 parent: ZPUCSBRUAUC3
 has_children: true
-nav_order: 173
+nav_order: 202
 ---
 
 
@@ -13,14 +13,14 @@ nav_order: 173
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                              |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Aspern Smart City Research (ASCR) initiative aims to foster local economic development through the promotion of sustainable businesses and job creation, directly contributing to the attractiveness of the neighborhood by ensuring economic vitality and resilience. |
-| Resilience x Safety and security                                                  | The initiative emphasizes enhancing the resilience of its energy systems, which increases the overall stability and security of the neighborhood, allowing it to cope with environmental and economic challenges.                                                          |
+| Attractiveness x Living and working environment                                   | The initiative’s design promotes livability and high-quality living conditions through mixed-use spaces, meeting the expectations for a vibrant living and working environment.                                                                                            |
+| Social cohesion x Living together, interdependence and mutuality                  | The participatory approach of ASCR encourages residents to engage with one another and builds a sense of community interdependence as they share resources and experiences.                                                                                                |
 | Social cohesion x Community smart infrastructures                                 | By fostering a participatory environment that engages over 100 households, the initiative promotes social integration and a sense of community, thus enhancing social cohesion.                                                                                            |
 | Well-being x Health and care in the community                                     | The development integrates health-oriented designs and services that contribute to physical and mental well-being, enhancing overall quality of life for residents.                                                                                                        |
-| Attractiveness x Living and working environment                                   | The initiative’s design promotes livability and high-quality living conditions through mixed-use spaces, meeting the expectations for a vibrant living and working environment.                                                                                            |
 | Resilience x Innovation, creativity and research                                  | The ASCR initiative serves as a living lab that fosters innovation and research in urban energy systems, enhancing resilience through adaptive capacities in the face of urban challenges.                                                                                 |
-| Social cohesion x Living together, interdependence and mutuality                  | The participatory approach of ASCR encourages residents to engage with one another and builds a sense of community interdependence as they share resources and experiences.                                                                                                |
+| Resilience x Safety and security                                                  | The initiative emphasizes enhancing the resilience of its energy systems, which increases the overall stability and security of the neighborhood, allowing it to cope with environmental and economic challenges.                                                          |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The focus on integrating green infrastructure and public spaces within the development highlights the initiative's commitment to improving biodiversity and enhancing ecosystem services.                                                                                  |
+| Attractiveness x Economy and sustainable production and consumption               | The Aspern Smart City Research (ASCR) initiative aims to foster local economic development through the promotion of sustainable businesses and job creation, directly contributing to the attractiveness of the neighborhood by ensuring economic vitality and resilience. |
 
 # Executive summary## Aspern Smart City Research (ASCR)
 

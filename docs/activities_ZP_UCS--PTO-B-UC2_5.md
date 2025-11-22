@@ -3,7 +3,7 @@ layout: default
 title: "Social Green – Green Renovation for Social Housing (Interreg Europe)"
 parent: ZPUCSPTOBUC2
 has_children: true
-nav_order: 144
+nav_order: 14
 ---
 
 
@@ -13,15 +13,15 @@ nav_order: 144
 
 | col1                                                                              | Justification                                                                                                                                                                                                                          |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Social Green initiative aims to enhance the appeal of social housing through energy-efficient renovations, which can draw in businesses and residents, ultimately contributing to economic vitality and improving quality of life. |
-| Preservation and improvement of environment x Health and care in the community    | The project focuses on reducing greenhouse gas emissions through energy-efficient renovations, addressing health hazards linked to poor living conditions in social housing.                                                           |
 | Resilience x Safety and security                                                  | By improving the energy efficiency and overall quality of social housing, the initiative aims to prepare these communities for environmental risks like heatwaves and flooding, thereby enhancing their resilience.                    |
-| Social cohesion x Living together, interdependence and mutuality                  | The focus on stakeholder engagement and participatory planning facilitates stronger community ties and ensures that social housing renovations meet the needs of vulnerable populations, fostering social integration.                 |
-| Well-being x Economy and sustainable production and consumption                   | Improving living standards through enhanced energy efficiency in social housing directly contributes to residents' well-being, lowering energy costs and improving health outcomes.                                                    |
-| Attractiveness x Innovation, creativity and research                              | The initiative seeks to implement innovative methodologies in policy and housing renovations, making social housing districts more attractive through modern, sustainable practices.                                                   |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | While the primary focus is on energy efficiency, aspects of the initiative may contribute to local biodiversity through improved green spaces in social housing areas.                                                                 |
-| Social cohesion x Education and capacity building                                 | Through knowledge transfer and capacity-building activities, the initiative empowers community members and stakeholders to engage actively in sustainable practices.                                                                   |
 | Resilience x Community smart infrastructures                                      | The initiative promotes the integration of smart technology and digital platforms to improve policy development and stakeholder engagement, enhancing the overall adaptability of the social housing infrastructure.                   |
+| Well-being x Economy and sustainable production and consumption                   | Improving living standards through enhanced energy efficiency in social housing directly contributes to residents' well-being, lowering energy costs and improving health outcomes.                                                    |
+| Preservation and improvement of environment x Health and care in the community    | The project focuses on reducing greenhouse gas emissions through energy-efficient renovations, addressing health hazards linked to poor living conditions in social housing.                                                           |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | While the primary focus is on energy efficiency, aspects of the initiative may contribute to local biodiversity through improved green spaces in social housing areas.                                                                 |
+| Attractiveness x Economy and sustainable production and consumption               | The Social Green initiative aims to enhance the appeal of social housing through energy-efficient renovations, which can draw in businesses and residents, ultimately contributing to economic vitality and improving quality of life. |
+| Attractiveness x Innovation, creativity and research                              | The initiative seeks to implement innovative methodologies in policy and housing renovations, making social housing districts more attractive through modern, sustainable practices.                                                   |
+| Social cohesion x Education and capacity building                                 | Through knowledge transfer and capacity-building activities, the initiative empowers community members and stakeholders to engage actively in sustainable practices.                                                                   |
+| Social cohesion x Living together, interdependence and mutuality                  | The focus on stakeholder engagement and participatory planning facilitates stronger community ties and ensures that social housing renovations meet the needs of vulnerable populations, fostering social integration.                 |
 
 # Executive summary## Social Green – Green Renovation for Social Housing (Interreg Europe)
 

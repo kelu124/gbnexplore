@@ -3,7 +3,7 @@ layout: default
 title: "IREN Living Lab  Energy Flexibility and Interoperability at the Residential Scale"
 parent: ZPUCSDUBBUC2
 has_children: true
-nav_order: 235
+nav_order: 146
 ---
 
 
@@ -13,16 +13,16 @@ nav_order: 235
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attractiveness x Safety and security                                              | Improved energy systems and smart technology may enhance the perceived safety and security of residential neighborhoods, making them more attractive for residents.                                                                                                 |
+| Responsible resource use x Living and working environment                         | The focus on energy efficiency and reducing residential energy consumption reflects responsible resource use by optimizing energy dynamics within households and potentially improving living conditions.                                                           |
+| Social cohesion x Community smart infrastructures                                 | The initiative engages residents through workshops and participatory design, fostering social integration and community identity while improving smart infrastructure for energy management.                                                                        |
 | Attractiveness x Mobility                                                         | The initiative aims to improve overall urban energy efficiency and comfort, likely enhancing the attractiveness of residential areas by integrating renewable energy sources and electric vehicle (EV) charging management, promoting sustainable mobility options. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | By focusing on energy flexibility and improved demand response, the IREN Living Lab aims to reduce carbon emissions, which contributes to the preservation of local environmental quality and the enhancement of ecosystem services.                                |
 | Resilience x Economy and sustainable production and consumption                   | The project emphasizes energy management that supports grid stability and resilience, showcasing its capacity to adapt and respond to changing energy demands while contributing to sustainable production and consumption patterns.                                |
-| Responsible resource use x Living and working environment                         | The focus on energy efficiency and reducing residential energy consumption reflects responsible resource use by optimizing energy dynamics within households and potentially improving living conditions.                                                           |
-| Social cohesion x Community smart infrastructures                                 | The initiative engages residents through workshops and participatory design, fostering social integration and community identity while improving smart infrastructure for energy management.                                                                        |
 | Well-being x Health and care in the community                                     | By promoting energy flexibility that includes enhanced user comfort and lower energy costs, the initiative directly contributes to the well-being of residents and their quality of life.                                                                           |
-| Attractiveness x Safety and security                                              | Improved energy systems and smart technology may enhance the perceived safety and security of residential neighborhoods, making them more attractive for residents.                                                                                                 |
 | Preservation and improvement of environment x Culture and community identity      | The integration of renewable energy sources not only reduces emissions but can also strengthen community identity by aligning local practices with sustainability efforts.                                                                                          |
-| Resilience x Living together, interdependence and mutuality                       | The initiative promotes cooperative energy management among residents, as they adapt to energy systems together, fostering community bonds and mutual support.                                                                                                      |
 | Responsible resource use x Education and capacity building                        | The initiative emphasizes user education around sustainable energy practices, enhancing community knowledge and capacity to manage resources responsibly.                                                                                                           |
+| Resilience x Living together, interdependence and mutuality                       | The initiative promotes cooperative energy management among residents, as they adapt to energy systems together, fostering community bonds and mutual support.                                                                                                      |
 
 # Executive summary## IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale
 

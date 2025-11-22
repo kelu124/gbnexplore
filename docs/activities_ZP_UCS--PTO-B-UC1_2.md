@@ -3,7 +3,7 @@ layout: default
 title: "FUN Porto (Urban Forest and BioSpots Network)"
 parent: ZPUCSPTOBUC1
 has_children: true
-nav_order: 11
+nav_order: 16
 ---
 
 
@@ -13,6 +13,8 @@ nav_order: 11
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resilience x Innovation, creativity and research                                  | The initiative incorporates innovative practices and digital tools for public participation and biodiversity monitoring, demonstrating an adaptive approach to ecological restoration and enhancing community resilience.                                                                                    |
+| Social cohesion x Living together, interdependence and mutuality                  | The project encourages collaboration among residents, organizations, and stakeholders, fostering relationships and community ties while promoting mutual benefits through collective environmental responsibility.                                                                                           |
 | Attractiveness x Biodiversity and ecosystem services                              | The FUN Porto initiative enhances the attractiveness of the city by restoring green infrastructure through the establishment of biospots and planting native trees. This initiative not only beautifies urban areas but also contributes to biodiversity, creating more appealing and vibrant neighborhoods. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on improving environmental performance by restoring native plant species and creating biospots, which actively contribute to ecological regeneration and the preservation of biodiversity in urban settings.                                                                             |
 | Resilience x Health and care in the community                                     | The initiative improves urban resilience by increasing tree cover, which helps mitigate the urban heat island effect and improves air quality. These enhancements support community health, making the urban environment more resilient to climate change impacts.                                           |
@@ -21,8 +23,6 @@ nav_order: 11
 | Well-being x Health and care in the community                                     | The increase in urban greenery through the FUN Porto initiative has direct implications for residents' well-being by improving mental health and physical quality of life through enhanced access to green spaces.                                                                                           |
 | Attractiveness x Culture and community identity                                   | The project enhances community identity by promoting the reintegration of regional botanical heritage through the planting of native species, fostering a sense of place and belonging among residents.                                                                                                      |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | In addition to enhancing visual landscapes, the project actively contributes to the restoration of native habitats and promotes ecological coherence, which is essential for biodiversity preservation.                                                                                                      |
-| Resilience x Innovation, creativity and research                                  | The initiative incorporates innovative practices and digital tools for public participation and biodiversity monitoring, demonstrating an adaptive approach to ecological restoration and enhancing community resilience.                                                                                    |
-| Social cohesion x Living together, interdependence and mutuality                  | The project encourages collaboration among residents, organizations, and stakeholders, fostering relationships and community ties while promoting mutual benefits through collective environmental responsibility.                                                                                           |
 
 # Executive summary## FUN Porto (Urban Forest and BioSpots Network)
 

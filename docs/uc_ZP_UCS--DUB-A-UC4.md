@@ -10,11 +10,11 @@ nav_order: 42
 
 # Related use cases found online
 
+* [SmartWaste – Smart Waste Management in Stavanger (Horizon 2020 Project)](activities_ZP_UCS--DUB-A-UC4_5.md)
+* [Circular South (Horizon 2020 Project)](activities_ZP_UCS--DUB-A-UC4_4.md)
+* [Milan Door-to-Door Food Waste Collection Program](activities_ZP_UCS--DUB-A-UC4_3.md)
 * [Smart Waste Management Pilot – Jätkäsaari District, Helsinki](activities_ZP_UCS--DUB-A-UC4_1.md)
 * [Barcelona Smart Waste City Project](activities_ZP_UCS--DUB-A-UC4_2.md)
-* [Milan Door-to-Door Food Waste Collection Program](activities_ZP_UCS--DUB-A-UC4_3.md)
-* [Circular South (Horizon 2020 Project)](activities_ZP_UCS--DUB-A-UC4_4.md)
-* [SmartWaste – Smart Waste Management in Stavanger (Horizon 2020 Project)](activities_ZP_UCS--DUB-A-UC4_5.md)
 
 
 # Original text

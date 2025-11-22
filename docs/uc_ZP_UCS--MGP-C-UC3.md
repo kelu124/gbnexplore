@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMGPCUC3"
 has_children: true
-nav_order: 34
+nav_order: 19
 ---
 
 
@@ -12,8 +12,8 @@ nav_order: 34
 
 * [Stockholm's Clean Vehicles Initiative](activities_ZP_UCS--MGP-C-UC3_1.md)
 * [Smarter Together – Smart Mobility Solutions](activities_ZP_UCS--MGP-C-UC3_2.md)
-* [CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization](activities_ZP_UCS--MGP-C-UC3_3.md)
 * [GreenCharge – Incentivising Sustainable Urban Mobility](activities_ZP_UCS--MGP-C-UC3_4.md)
+* [CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization](activities_ZP_UCS--MGP-C-UC3_3.md)
 * [eHUBS – Smart Shared Mobility Hubs](activities_ZP_UCS--MGP-C-UC3_5.md)
 
 

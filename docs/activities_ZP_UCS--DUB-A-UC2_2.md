@@ -3,7 +3,7 @@ layout: default
 title: "Seestadt Aspern Smart City Digital Twin"
 parent: ZPUCSDUBAUC2
 has_children: true
-nav_order: 198
+nav_order: 166
 ---
 
 
@@ -13,13 +13,13 @@ nav_order: 198
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                                                                   |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Living and working environment                                   | The Seestadt Aspern project aims to interweave residential, commercial, educational, and green spaces to enhance community livability and economic opportunities. The effort to create an attractive, vibrant urban environment contributes positively to the sense of place and identity of the area.          |
+| Well-being x Health and care in the community                                     | Designing spaces that emphasize environmental quality and access to amenities directly supports physical and mental health of residents, contributing to overall well-being within the community.                                                                                                               |
+| Preservation and improvement of environment x Education and capacity building     | The emphasis on participatory governance and citizen engagement in environmental management reflects a commitment to educating the community on sustainability practices and building local capacities to address urban sustainability challenges.                                                              |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project prioritizes sustainability and biodiversity by incorporating extensive green spaces that support ecological services, such as urban heat mitigation and habitat for various species. The integration of an artificial lake also serves to manage resources while enhancing the overall environment. |
 | Responsible resource use x Economy and sustainable production and consumption     | By promoting energy efficiency and recycling initiatives, such as reusing construction materials and local energy generation, the project exemplifies smart resource management practices that align with sustainable development principles.                                                                   |
 | Social cohesion x Living together, interdependence and mutuality                  | The project is designed to foster inclusivity and social mixing, with a diverse demographic mix of residents that enhances community interactions and support. Facilities and services cater to various groups, promoting mutuality.                                                                            |
-| Well-being x Health and care in the community                                     | Designing spaces that emphasize environmental quality and access to amenities directly supports physical and mental health of residents, contributing to overall well-being within the community.                                                                                                               |
+| Attractiveness x Living and working environment                                   | The Seestadt Aspern project aims to interweave residential, commercial, educational, and green spaces to enhance community livability and economic opportunities. The effort to create an attractive, vibrant urban environment contributes positively to the sense of place and identity of the area.          |
 | Attractiveness x Culture and community identity                                   | By integrating local cultural identity into the urban design, Seestadt Aspern strives to create a sense of belonging and pride among residents, which enhances the area's overall attractiveness.                                                                                                               |
-| Preservation and improvement of environment x Education and capacity building     | The emphasis on participatory governance and citizen engagement in environmental management reflects a commitment to educating the community on sustainability practices and building local capacities to address urban sustainability challenges.                                                              |
 
 # Executive summary## Seestadt Aspern Smart City Digital Twin
 

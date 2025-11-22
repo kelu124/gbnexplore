@@ -3,7 +3,7 @@ layout: default
 title: "mySMARTLife – Positive Energy Block Demonstration"
 parent: ZPUCSMDCDUC1
 has_children: true
-nav_order: 81
+nav_order: 74
 ---
 
 
@@ -16,11 +16,11 @@ nav_order: 81
 | Attractiveness x Economy and sustainable production and consumption                  | The Positive Energy Block project aims to create a vibrant and attractive urban neighborhood by focusing on innovation in energy production and sustainability, which draws both residents and businesses. The integration of renewable energy technologies elevates the economic viability of the area. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services    | The initiative significantly focuses on reducing carbon emissions and enhancing environmental quality through deep energy retrofits and solar installations, contributing to improved biodiversity and ecosystem services within the urban setting.                                                      |
 | Resilience x Living and working environment                                          | This initiative is designed to bolster the resilience of the urban environment by retrofitting buildings for energy efficiency and implementing smart technology, which helps prepare the community for future climate challenges.                                                                       |
-| Social cohesion x Living together, interdependence and mutuality                     | The project promotes a sense of community through resident engagement and participation in sustainability measures, fostering social ties and cooperation among residents.                                                                                                                               |
-| Well-being x Health and care in the community                                        | By improving indoor comfort and reducing energy costs, the initiative directly contributes to the well-being and quality of life for residents in the area.                                                                                                                                              |
-| Attractiveness x Culture and community identity                                      | The Positive Energy Block respects and promotes local identity by engaging residents in the design process, reinforcing cultural values while adapting to modern sustainability goals.                                                                                                                   |
-| Resilience x Safety and security                                                     | The improved infrastructure and smart technologies implemented in the area enhance local safety and security, crucial for a resilient urban environment.                                                                                                                                                 |
 | Preservation and improvement of environment x Governance, empowerment and engagement | The initiative ensures effective governance through stakeholder engagement and participatory design, creating transparency in decision-making and reinforcing the community's stewardship of local environmental issues.                                                                                 |
+| Well-being x Health and care in the community                                        | By improving indoor comfort and reducing energy costs, the initiative directly contributes to the well-being and quality of life for residents in the area.                                                                                                                                              |
+| Resilience x Safety and security                                                     | The improved infrastructure and smart technologies implemented in the area enhance local safety and security, crucial for a resilient urban environment.                                                                                                                                                 |
+| Attractiveness x Culture and community identity                                      | The Positive Energy Block respects and promotes local identity by engaging residents in the design process, reinforcing cultural values while adapting to modern sustainability goals.                                                                                                                   |
+| Social cohesion x Living together, interdependence and mutuality                     | The project promotes a sense of community through resident engagement and participation in sustainability measures, fostering social ties and cooperation among residents.                                                                                                                               |
 
 # Executive summary## mySMARTLife – Positive Energy Block Demonstration
 

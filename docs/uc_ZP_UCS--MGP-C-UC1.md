@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMGPCUC1"
 has_children: true
-nav_order: 16
+nav_order: 21
 ---
 
 
@@ -10,10 +10,10 @@ nav_order: 16
 
 # Related use cases found online
 
-* [Madrid Nuevo Norte Urban Regeneration](activities_ZP_UCS--MGP-C-UC1_1.md)
-* [Orcasitas Community Energy-Efficient Renovation](activities_ZP_UCS--MGP-C-UC1_2.md)
 * [Lyon Confluence Smart District](activities_ZP_UCS--MGP-C-UC1_3.md)
+* [Orcasitas Community Energy-Efficient Renovation](activities_ZP_UCS--MGP-C-UC1_2.md)
 * [Aspern Smart City Demonstration (Smarter Together)](activities_ZP_UCS--MGP-C-UC1_4.md)
+* [Madrid Nuevo Norte Urban Regeneration](activities_ZP_UCS--MGP-C-UC1_1.md)
 * [Milan Porta Romana Sharing Cities (Horizon 2020: Sharing Cities)](activities_ZP_UCS--MGP-C-UC1_5.md)
 
 

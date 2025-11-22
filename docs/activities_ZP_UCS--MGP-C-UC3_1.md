@@ -3,7 +3,7 @@ layout: default
 title: "Stockholm's Clean Vehicles Initiative"
 parent: ZPUCSMGPCUC3
 has_children: true
-nav_order: 120
+nav_order: 42
 ---
 
 
@@ -13,15 +13,15 @@ nav_order: 120
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The initiative strives to transform Stockholm's transportation system and stimulate local economic opportunities through the promotion of electric vehicles and charging infrastructure, creating a vibrant and appealing urban environment. |
-| Resilience x Safety and security                                                  | The initiative enhances resilience against climate change and potential disruptions by prioritizing the transition to electric vehicles while ensuring the stability of the electrical grid.                                                 |
-| Responsible resource use x Community smart infrastructures                        | Stockholm's investment in electric vehicle charging stations and smart grid technologies exemplifies responsible resource use through the establishment of efficient energy infrastructures and the promotion of renewable energy.           |
-| Social cohesion x Health and care in the community                                | By improving air quality and reducing pollution, the initiative addresses public health concerns, fostering a sense of community well-being and promoting social equity.                                                                     |
-| Well-being x Health and care in the community                                     | The initiative encourages a healthier lifestyle in urban environments, contributing to the mental and physical well-being of citizens by reducing exposure to harmful vehicle emissions.                                                     |
 | Attractiveness x Culture and community identity                                   | Improving transportation infrastructure aligns with cultural values of sustainability and innovation, enhancing the overall community identity associated with Stockholm's reputation as a green city.                                       |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative engages various community stakeholders and aims to foster collaborative relationships between residents, businesses, and local authorities, thus building strong community bonds.                                             |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project emphasizes reducing vehicular pollution, which indirectly contributes to preserving and enhancing urban biodiversity and ecosystem services.                                                                                     |
 | Resilience x Governance, empowerment and engagement                               | Inclusive governance mechanisms engage multiple stakeholders in decision-making, demonstrating a proactive approach to community engagement and resilience-building around sustainability initiatives.                                       |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project emphasizes reducing vehicular pollution, which indirectly contributes to preserving and enhancing urban biodiversity and ecosystem services.                                                                                     |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative engages various community stakeholders and aims to foster collaborative relationships between residents, businesses, and local authorities, thus building strong community bonds.                                             |
+| Well-being x Health and care in the community                                     | The initiative encourages a healthier lifestyle in urban environments, contributing to the mental and physical well-being of citizens by reducing exposure to harmful vehicle emissions.                                                     |
+| Resilience x Safety and security                                                  | The initiative enhances resilience against climate change and potential disruptions by prioritizing the transition to electric vehicles while ensuring the stability of the electrical grid.                                                 |
+| Social cohesion x Health and care in the community                                | By improving air quality and reducing pollution, the initiative addresses public health concerns, fostering a sense of community well-being and promoting social equity.                                                                     |
+| Responsible resource use x Community smart infrastructures                        | Stockholm's investment in electric vehicle charging stations and smart grid technologies exemplifies responsible resource use through the establishment of efficient energy infrastructures and the promotion of renewable energy.           |
+| Attractiveness x Economy and sustainable production and consumption               | The initiative strives to transform Stockholm's transportation system and stimulate local economic opportunities through the promotion of electric vehicles and charging infrastructure, creating a vibrant and appealing urban environment. |
 
 # Executive summary## Stockholm's Clean Vehicles Initiative
 

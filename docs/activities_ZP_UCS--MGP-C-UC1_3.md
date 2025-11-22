@@ -3,7 +3,7 @@ layout: default
 title: "Lyon Confluence Smart District"
 parent: ZPUCSMGPCUC1
 has_children: true
-nav_order: 37
+nav_order: 52
 ---
 
 
@@ -14,15 +14,15 @@ nav_order: 37
 | col1                                                                              | Justification                                                                                                                                                                                                                                   |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Culture and community identity                                   | The Lyon Confluence Smart District enhances its appeal by integrating cultural elements, respecting local heritage, and promoting social inclusion. It aims to create a vibrant community space that attracts diverse residents and businesses. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | This initiative emphasizes environmental stewardship through extensive soil remediation, increasing green spaces, and restoring biodiversity. By enhancing ecosystem services, it contribute to the ecological health of the urban area.        |
-| Resilience x Health and care in the community                                     | The initiative prepares the community for future challenges by focusing on health promotions, well-being, and connectivity among residents, thereby enhancing the community's resilience against social and environmental stresses.             |
 | Responsible resource use x Economy and sustainable production and consumption     | Lyon Confluence promotes sustainable practices by integrating smart resource management, energy efficiency, and sustainable consumption patterns, thus aiming for a circular economy in the neighborhood.                                       |
-| Social cohesion x Living together, interdependence and mutuality                  | The project fosters community engagement and participatory governance, aiming for a socio-economically mixed community that encourages collaboration and mutual support among residents.                                                        |
-| Well-being x Education and capacity building                                      | The initiative enhances well-being by promoting access to education, healthy environments, and community programs, ensuring residents have the skills and knowledge to thrive in the new community space.                                       |
 | Attractiveness x Governance, empowerment and engagement                           | The effective governance model in Lyon Confluence emphasizes stakeholder engagement in decision-making, which enhances community ownership and empowerment, making the area more attractive for residents and businesses alike.                 |
-| Preservation and improvement of environment x Community smart infrastructures     | Innovative smart infrastructures enhance environmental quality by improving utility services, reducing energy consumption, and promoting digital connectivity for better management of local resources.                                         |
-| Resilience x Living and working environment                                       | The project aims to create a resilient living and working environment through enhanced infrastructure, sustainability measures, and community support systems that meet the needs of diverse user groups.                                       |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | This initiative emphasizes environmental stewardship through extensive soil remediation, increasing green spaces, and restoring biodiversity. By enhancing ecosystem services, it contribute to the ecological health of the urban area.        |
 | Responsible resource use x Mobility                                               | The district's design focuses on sustainable mobility options, enhancing the accessibility and reliability of transport systems, thus integrating transport with responsible resource use in urban planning.                                    |
+| Social cohesion x Living together, interdependence and mutuality                  | The project fosters community engagement and participatory governance, aiming for a socio-economically mixed community that encourages collaboration and mutual support among residents.                                                        |
+| Resilience x Living and working environment                                       | The project aims to create a resilient living and working environment through enhanced infrastructure, sustainability measures, and community support systems that meet the needs of diverse user groups.                                       |
+| Resilience x Health and care in the community                                     | The initiative prepares the community for future challenges by focusing on health promotions, well-being, and connectivity among residents, thereby enhancing the community's resilience against social and environmental stresses.             |
+| Preservation and improvement of environment x Community smart infrastructures     | Innovative smart infrastructures enhance environmental quality by improving utility services, reducing energy consumption, and promoting digital connectivity for better management of local resources.                                         |
+| Well-being x Education and capacity building                                      | The initiative enhances well-being by promoting access to education, healthy environments, and community programs, ensuring residents have the skills and knowledge to thrive in the new community space.                                       |
 
 # Executive summary## Lyon Confluence Smart District
 

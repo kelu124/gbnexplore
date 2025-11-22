@@ -3,7 +3,7 @@ layout: default
 title: "HABITA-RES Urban Neighborhood Energy Visualization Tool"
 parent: ZPUCSMDCBUC1
 has_children: true
-nav_order: 17
+nav_order: 84
 ---
 
 
@@ -13,16 +13,16 @@ nav_order: 17
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The HABITA-RES tool enhances the attractiveness of neighborhoods by promoting energy efficiency improvements, which can lead to lower energy costs and better living conditions. This makes areas more appealing to current and potential residents and businesses. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | By addressing environmental quality and energy performance, HABITA-RES contributes to the overall improvement of the urban environment, potentially preserving local biodiversity by promoting energy-efficient upgrades and reducing pollution.                    |
 | Resilience x Economy and sustainable production and consumption                   | The initiative aims to enhance the resilience of vulnerable neighborhoods by reducing energy dependency and costs, thereby preparing these communities for economic shocks related to energy transitions and climate change.                                        |
+| Attractiveness x Economy and sustainable production and consumption               | The HABITA-RES tool enhances the attractiveness of neighborhoods by promoting energy efficiency improvements, which can lead to lower energy costs and better living conditions. This makes areas more appealing to current and potential residents and businesses. |
 | Responsible resource use x Living and working environment                         | HABITA-RES promotes responsible use of energy resources within the neighborhood context by targeting inefficient buildings for refurbishment, which aligns with sustainable practices and efficient resource management.                                            |
-| Social cohesion x Living together, interdependence and mutuality                  | By empowering residents with access to data and inviting their participation in the decision-making process, the project fosters a sense of community and mutual support, thereby strengthening social ties.                                                        |
 | Well-being x Health and care in the community                                     | The project directly targets improvements in indoor environmental quality and energy performance, which are critical factors for enhancing residents' health and overall well-being.                                                                                |
 | Attractiveness x Safety and security                                              | While the main focus is on energy efficiency, the enhancements in living conditions may indirectly contribute to perceived safety and security by creating more comfortable and engaging environments.                                                              |
 | Well-being x Culture and community identity                                       | The tool’s capacity to engage residents in energy discussions fosters cultural dialogue around sustainability, aiding the community's identity and responsiveness to local needs.                                                                                   |
-| Social cohesion x Education and capacity building                                 | By providing a platform for education on energy efficiency and encouraging residents’ involvement in monitoring their conditions, the project enhances community knowledge and skills.                                                                              |
 | Resilience x Governance, empowerment and engagement                               | The participatory design of HABITA-RES empowers community members by involving them in decision-making processes, which is crucial for building social resilience and engaging with governance activities.                                                          |
+| Social cohesion x Education and capacity building                                 | By providing a platform for education on energy efficiency and encouraging residents’ involvement in monitoring their conditions, the project enhances community knowledge and skills.                                                                              |
+| Social cohesion x Living together, interdependence and mutuality                  | By empowering residents with access to data and inviting their participation in the decision-making process, the project fosters a sense of community and mutual support, thereby strengthening social ties.                                                        |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | By addressing environmental quality and energy performance, HABITA-RES contributes to the overall improvement of the urban environment, potentially preserving local biodiversity by promoting energy-efficient upgrades and reducing pollution.                    |
 
 # Executive summary## HABITA-RES Urban Neighborhood Energy Visualization Tool
 

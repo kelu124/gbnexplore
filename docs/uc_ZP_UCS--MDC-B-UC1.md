@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMDCBUC1"
 has_children: true
-nav_order: 12
+nav_order: 28
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 12
 
 # Related use cases found online
 
-* [Casa Sophia – Positive Energy Smart Home](activities_ZP_UCS--MDC-B-UC1_1.md)
-* [Orcasitas Community Energy Renovation](activities_ZP_UCS--MDC-B-UC1_2.md)
 * [HABITA-RES Urban Neighborhood Energy Visualization Tool](activities_ZP_UCS--MDC-B-UC1_3.md)
-* [mySMARTLife – Smart City Lighthouse Project](activities_ZP_UCS--MDC-B-UC1_4.md)
 * [Sharing Cities – Smart District Demonstration (Milan)](activities_ZP_UCS--MDC-B-UC1_5.md)
+* [mySMARTLife – Smart City Lighthouse Project](activities_ZP_UCS--MDC-B-UC1_4.md)
+* [Orcasitas Community Energy Renovation](activities_ZP_UCS--MDC-B-UC1_2.md)
+* [Casa Sophia – Positive Energy Smart Home](activities_ZP_UCS--MDC-B-UC1_1.md)
 
 
 # Original text

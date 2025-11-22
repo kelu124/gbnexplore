@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSBRUBUC1"
 has_children: true
-nav_order: 32
+nav_order: 50
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 32
 
 # Related use cases found online
 
+* [Sharing Cities – Digital Energy Platform](activities_ZP_UCS--BRU-B-UC1_3.md)
 * [Smart Kalasatama – Digital Energy Community Platform](activities_ZP_UCS--BRU-B-UC1_1.md)
 * [Energent Energy Community Platform (Freiburg)](activities_ZP_UCS--BRU-B-UC1_2.md)
-* [Sharing Cities – Digital Energy Platform](activities_ZP_UCS--BRU-B-UC1_3.md)
-* [ATELIER: AmsTErdam and BiLbao cItizen drivEn smaRt cities](activities_ZP_UCS--BRU-B-UC1_4.md)
 * [POCITYF – Positive Energy Blocks Digital Platform](activities_ZP_UCS--BRU-B-UC1_5.md)
+* [ATELIER: AmsTErdam and BiLbao cItizen drivEn smaRt cities](activities_ZP_UCS--BRU-B-UC1_4.md)
 
 
 # Original text

@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSMGPBUC1"
 has_children: true
-nav_order: 54
+nav_order: 24
 ---
 
 
@@ -10,9 +10,9 @@ nav_order: 54
 
 # Related use cases found online
 
-* [Geothermal District Heating Network in Paris-Saclay](activities_ZP_UCS--MGP-B-UC1_1.md)
 * [Høje Taastrup 4th Generation District Heating Network (4GDH)](activities_ZP_UCS--MGP-B-UC1_2.md)
 * [Barrio La Pinada District Heating and Cooling Network](activities_ZP_UCS--MGP-B-UC1_3.md)
+* [Geothermal District Heating Network in Paris-Saclay](activities_ZP_UCS--MGP-B-UC1_1.md)
 * [Heerlen Mijnwater 5th Generation District Heating and Cooling (D2Grids Project)](activities_ZP_UCS--MGP-B-UC1_4.md)
 * [Vitoria-Gasteiz DHC Planning with the THERMOS Tool (Horizon 2020)](activities_ZP_UCS--MGP-B-UC1_5.md)
 

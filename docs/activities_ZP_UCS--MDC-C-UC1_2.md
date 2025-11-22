@@ -3,7 +3,7 @@ layout: default
 title: "Energy Systems Catapult Living Lab"
 parent: ZPUCSMDCCUC1
 has_children: true
-nav_order: 51
+nav_order: 83
 ---
 
 
@@ -13,13 +13,13 @@ nav_order: 51
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                        |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | By creating a pioneering real-world testing environment for energy systems, the Living Lab enhances economic vitality through support for clean energy SMEs and new market models, thereby increasing Birmingham's attractiveness to businesses and residents alike. |
-| Resilience x Safety and security                                                  | The Living Lab focuses on improving grid resilience and preparing communities to adapt to climate targets, increasing the overall resilience of Birmingham's energy infrastructure.                                                                                  |
-| Social cohesion x Living together, interdependence and mutuality                  | By empowering various households, including vulnerable groups, the Living Lab fosters social integration and community identity, encouraging participation in collective energy management efforts.                                                                  |
-| Well-being x Health and care in the community                                     | The Living Lab allows for improvements in energy efficiency, which can enhance living conditions and overall well-being by reducing energy costs and enabling more comfort in homes.                                                                                 |
-| Attractiveness x Culture and community identity                                   | The innovative approach of the Living Lab integrates community input and consumer research, thereby enhancing the cultural identity and experience of energy utilization within Birmingham.                                                                          |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | While not explicitly focused on biodiversity, the sustainable practices promoted can indirectly contribute to improved environmental conditions and services in the urban area.                                                                                      |
 | Resilience x Education and capacity building                                      | The Living Lab serves as an educational platform for households, enhancing community knowledge and capacities regarding sustainable energy practices and innovations.                                                                                                |
+| Attractiveness x Culture and community identity                                   | The innovative approach of the Living Lab integrates community input and consumer research, thereby enhancing the cultural identity and experience of energy utilization within Birmingham.                                                                          |
+| Social cohesion x Living together, interdependence and mutuality                  | By empowering various households, including vulnerable groups, the Living Lab fosters social integration and community identity, encouraging participation in collective energy management efforts.                                                                  |
+| Resilience x Safety and security                                                  | The Living Lab focuses on improving grid resilience and preparing communities to adapt to climate targets, increasing the overall resilience of Birmingham's energy infrastructure.                                                                                  |
+| Well-being x Health and care in the community                                     | The Living Lab allows for improvements in energy efficiency, which can enhance living conditions and overall well-being by reducing energy costs and enabling more comfort in homes.                                                                                 |
+| Attractiveness x Economy and sustainable production and consumption               | By creating a pioneering real-world testing environment for energy systems, the Living Lab enhances economic vitality through support for clean energy SMEs and new market models, thereby increasing Birmingham's attractiveness to businesses and residents alike. |
 | Social cohesion x Governance, empowerment and engagement                          | Through stakeholder engagement and participatory recruitment methods, the initiative fosters community empowerment and enhances governance structures, ensuring that households are actively involved in the energy transition.                                      |
 
 # Executive summary## Energy Systems Catapult Living Lab

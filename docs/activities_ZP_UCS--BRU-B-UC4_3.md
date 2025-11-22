@@ -3,7 +3,7 @@ layout: default
 title: "Bridge City – Regenerative Urban Development"
 parent: ZPUCSBRUBUC4
 has_children: true
-nav_order: 204
+nav_order: 184
 ---
 
 
@@ -13,15 +13,15 @@ nav_order: 204
 
 | col1                                                                              | Justification                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Living and working environment                                   | Bridge City prioritizes enhancing the living environment by incorporating multi-level green spaces and mixed-use buildings, aiming to improve the overall quality of life for residents and users. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative integrates innovative green infrastructure, aiming to restore biodiversity through vertical gardens and urban parks, enhancing local ecosystems.                                    |
-| Responsible resource use x Economy and sustainable production and consumption     | The use of circular resource practices and sustainable building materials reflects a commitment to resource efficiency and environmental stewardship.                                              |
-| Social cohesion x Culture and community identity                                  | Bridge City fosters inclusivity and community engagement through participatory planning processes, strengthening social ties and enhancing local identity.                                         |
 | Well-being x Health and care in the community                                     | The initiative promotes public health through the provision of green spaces and focuses on improving both social and environmental health within the community.                                    |
-| Attractiveness x Economy and sustainable production and consumption               | By boosting local businesses and increasing property values, the project enhances its attractiveness to residents and investors alike.                                                             |
-| Resilience x Governance, empowerment and engagement                               | The participatory governance model empowers stakeholders, enhancing the community’s resilience to economic and environmental shocks.                                                               |
-| Preservation and improvement of environment x Safety and security                 | Integrating well-designed green spaces and community features contributes to improved urban safety and a sense of security for residents.                                                          |
+| Social cohesion x Culture and community identity                                  | Bridge City fosters inclusivity and community engagement through participatory planning processes, strengthening social ties and enhancing local identity.                                         |
+| Responsible resource use x Economy and sustainable production and consumption     | The use of circular resource practices and sustainable building materials reflects a commitment to resource efficiency and environmental stewardship.                                              |
 | Social cohesion x Living together, interdependence and mutuality                  | Encouraging communal interactions through shared spaces fosters mutual support and strengthens community bonds.                                                                                    |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative integrates innovative green infrastructure, aiming to restore biodiversity through vertical gardens and urban parks, enhancing local ecosystems.                                    |
+| Attractiveness x Living and working environment                                   | Bridge City prioritizes enhancing the living environment by incorporating multi-level green spaces and mixed-use buildings, aiming to improve the overall quality of life for residents and users. |
+| Attractiveness x Economy and sustainable production and consumption               | By boosting local businesses and increasing property values, the project enhances its attractiveness to residents and investors alike.                                                             |
+| Preservation and improvement of environment x Safety and security                 | Integrating well-designed green spaces and community features contributes to improved urban safety and a sense of security for residents.                                                          |
+| Resilience x Governance, empowerment and engagement                               | The participatory governance model empowers stakeholders, enhancing the community’s resilience to economic and environmental shocks.                                                               |
 
 # Executive summary## Bridge City – Regenerative Urban Development
 

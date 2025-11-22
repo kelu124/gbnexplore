@@ -3,7 +3,7 @@ layout: default
 title: "Sponge Parks and Social Housing Energy Communities (EXHAUSTION Horizon Project)"
 parent: ZPUCSPTOBUC1
 has_children: true
-nav_order: 14
+nav_order: 17
 ---
 
 
@@ -13,16 +13,16 @@ nav_order: 14
 
 | col1                                                                                 | Justification                                                                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Culture and community identity                                      | The initiative fosters a strong sense of place through the development of sponge parks and community energy systems, thereby enhancing local identity and belonging in Porto’s social housing neighborhoods.  |
-| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project specifically addresses environmental challenges using nature-based solutions like sponge parks and urban forests that improve biodiversity and enhance ecosystem services in the urban landscape. |
 | Resilience x Safety and security                                                     | The initiative aims to increase resilience against climate risks such as urban flooding and heatwaves, ensuring that neighborhoods can adapt and recover from environmental shocks.                           |
-| Responsible resource use x Economy and sustainable production and consumption        | By retrofitting social housing and establishing community-run solar energy systems, the initiative promotes efficient resource use and sustainable practices in energy generation and consumption.            |
-| Social cohesion x Living together, interdependence and mutuality                     | The inclusive decision-making process engages residents in co-designing their community, fostering social bonds and mutual support among diverse groups in social housing.                                    |
-| Well-being x Health and care in the community                                        | The project enhances living conditions by improving energy efficiency and providing green spaces, thus promoting both mental and physical well-being among residents.                                         |
+| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project specifically addresses environmental challenges using nature-based solutions like sponge parks and urban forests that improve biodiversity and enhance ecosystem services in the urban landscape. |
 | Resilience x Community smart infrastructures                                         | The deployment of smart, digital platforms for energy management works to enhance community infrastructure resilience through real-time monitoring and adaptive planning.                                     |
-| Attractiveness x Living and working environment                                      | The initiative improves the quality of the urban living environment with green architecture and community spaces, making Porto more attractive for residents and businesses alike.                            |
+| Well-being x Health and care in the community                                        | The project enhances living conditions by improving energy efficiency and providing green spaces, thus promoting both mental and physical well-being among residents.                                         |
+| Social cohesion x Living together, interdependence and mutuality                     | The inclusive decision-making process engages residents in co-designing their community, fostering social bonds and mutual support among diverse groups in social housing.                                    |
+| Responsible resource use x Economy and sustainable production and consumption        | By retrofitting social housing and establishing community-run solar energy systems, the initiative promotes efficient resource use and sustainable practices in energy generation and consumption.            |
 | Preservation and improvement of environment x Governance, empowerment and engagement | The governance model facilitates active engagement from community members, encouraging their involvement in environmental stewardship and decision-making processes.                                          |
+| Attractiveness x Culture and community identity                                      | The initiative fosters a strong sense of place through the development of sponge parks and community energy systems, thereby enhancing local identity and belonging in Porto’s social housing neighborhoods.  |
 | Social cohesion x Education and capacity building                                    | The initiative includes educational components that empower residents with skills and knowledge for sustained community engagement and resilience.                                                            |
+| Attractiveness x Living and working environment                                      | The initiative improves the quality of the urban living environment with green architecture and community spaces, making Porto more attractive for residents and businesses alike.                            |
 
 # Executive summary## Sponge Parks and Social Housing Energy Communities (EXHAUSTION Horizon Project)
 

@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSDUBCUC2"
 has_children: true
-nav_order: 39
+nav_order: 37
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 39
 
 # Related use cases found online
 
-* [People-Counting Sensors: Enhancing Building Efficiency with GDPR Compliance at TU Dublin](activities_ZP_UCS--DUB-C-UC2_1.md)
-* [Ethos Engineering Living Lab](activities_ZP_UCS--DUB-C-UC2_2.md)
-* [Hub Criativo do Beato Living Lab](activities_ZP_UCS--DUB-C-UC2_3.md)
 * [The Edge Amsterdam: BREEAM-NL Smart Building Pilot](activities_ZP_UCS--DUB-C-UC2_4.md)
+* [Hub Criativo do Beato Living Lab](activities_ZP_UCS--DUB-C-UC2_3.md)
 * [```](activities_ZP_UCS--DUB-C-UC2_5.md)
+* [Ethos Engineering Living Lab](activities_ZP_UCS--DUB-C-UC2_2.md)
+* [People-Counting Sensors: Enhancing Building Efficiency with GDPR Compliance at TU Dublin](activities_ZP_UCS--DUB-C-UC2_1.md)
 
 
 # Original text

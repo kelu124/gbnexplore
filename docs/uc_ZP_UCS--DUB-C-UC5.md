@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSDUBCUC5"
 has_children: true
-nav_order: 37
+nav_order: 34
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 37
 
 # Related use cases found online
 
-* [I-CHANGE Milan Living Lab](activities_ZP_UCS--DUB-C-UC5_1.md)
-* [Trinity College Dublin Living Lab – Air Quality Monitoring](activities_ZP_UCS--DUB-C-UC5_2.md)
-* [SCORE Coastal City Living Lab – Rotterdam](activities_ZP_UCS--DUB-C-UC5_3.md)
-* [```](activities_ZP_UCS--DUB-C-UC5_4.md)
 * [mySMARTLife: Urban Data Platform for Smart City Management](activities_ZP_UCS--DUB-C-UC5_5.md)
+* [```](activities_ZP_UCS--DUB-C-UC5_4.md)
+* [Trinity College Dublin Living Lab – Air Quality Monitoring](activities_ZP_UCS--DUB-C-UC5_2.md)
+* [I-CHANGE Milan Living Lab](activities_ZP_UCS--DUB-C-UC5_1.md)
+* [SCORE Coastal City Living Lab – Rotterdam](activities_ZP_UCS--DUB-C-UC5_3.md)
 
 
 # Original text

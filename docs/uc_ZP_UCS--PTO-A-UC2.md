@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSPTOAUC2"
 has_children: true
-nav_order: 41
+nav_order: 13
 ---
 
 
@@ -10,11 +10,11 @@ nav_order: 41
 
 # Related use cases found online
 
-* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-A-UC2_1.md)
 * [FUN Porto Urban Forest & BioSpots Network](activities_ZP_UCS--PTO-A-UC2_2.md)
-* [LIFE-myBUILDINGisGREEN Project: Falcão Primary School](activities_ZP_UCS--PTO-A-UC2_3.md)
-* [Amsterdam Zuidoost Energy Community (ATELIER Project)](activities_ZP_UCS--PTO-A-UC2_4.md)
+* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-A-UC2_1.md)
 * [La Pinada Eco-Neighbourhood (MAKING-CITY)](activities_ZP_UCS--PTO-A-UC2_5.md)
+* [Amsterdam Zuidoost Energy Community (ATELIER Project)](activities_ZP_UCS--PTO-A-UC2_4.md)
+* [LIFE-myBUILDINGisGREEN Project: Falcão Primary School](activities_ZP_UCS--PTO-A-UC2_3.md)
 
 
 # Original text

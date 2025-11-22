@@ -3,7 +3,7 @@ layout: default
 title: "IRIS Smart Cities – Utrecht Demo Site (Horizon 2020 Project)"
 parent: ZPUCSAARBUC1
 has_children: true
-nav_order: 196
+nav_order: 217
 ---
 
 
@@ -13,14 +13,14 @@ nav_order: 196
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Well-being x Education and capacity building                                      | The initiative enhances community well-being by including residents in planning and providing educational opportunities around sustainability and smart technologies, improving overall quality of life.                                            |
 | Attractiveness x Economy and sustainable production and consumption               | The project has focused on transforming Kanaleneiland-Zuid into a sustainable urban area by improving energy efficiency, promoting renewable energy, and providing economic development opportunities while involving residents in decision-making. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative aims to enhance environmental quality through improved air quality monitoring, urban greening, and reducing carbon emissions, thereby fostering biodiversity and ecosystem services.                                                 |
-| Preservation and improvement of environment x Health and care in the community    | By retrofitting buildings for energy efficiency and enhancing green spaces, the project contributes to better living conditions, health outcomes, and overall community well-being.                                                                 |
-| Resilience x Community smart infrastructures                                      | The integration of smart street lighting and energy systems demonstrates the initiative's commitment to creating adaptive, resilient urban infrastructures that can manage ongoing environmental and social challenges.                             |
 | Responsible resource use x Living and working environment                         | The project promotes responsible resource use through energy-efficient building retrofits and community engagement in resource management practices, contributing to a sustainable living and working environment.                                  |
 | Social cohesion x Living together, interdependence and mutuality                  | Through extensive community engagement and co-creation processes, the project promotes social integration and strengthens community bonds, ensuring diverse voices are heard in urban development.                                                  |
-| Well-being x Education and capacity building                                      | The initiative enhances community well-being by including residents in planning and providing educational opportunities around sustainability and smart technologies, improving overall quality of life.                                            |
+| Resilience x Community smart infrastructures                                      | The integration of smart street lighting and energy systems demonstrates the initiative's commitment to creating adaptive, resilient urban infrastructures that can manage ongoing environmental and social challenges.                             |
 | Attractiveness x Innovation, creativity and research                              | The project showcases innovative solutions like digital twin applications and real-time monitoring, driving research and creativity in sustainable urban development.                                                                               |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative aims to enhance environmental quality through improved air quality monitoring, urban greening, and reducing carbon emissions, thereby fostering biodiversity and ecosystem services.                                                 |
+| Preservation and improvement of environment x Health and care in the community    | By retrofitting buildings for energy efficiency and enhancing green spaces, the project contributes to better living conditions, health outcomes, and overall community well-being.                                                                 |
 | Well-being x Safety and security                                                  | By addressing traffic safety concerns and enhancing public spaces, the initiative contributes to a greater sense of safety and security in the community.                                                                                           |
 | Resilience x Governance, empowerment and engagement                               | The project emphasizes participatory design and transparent governance, empowering residents and stakeholders to engage actively in the urban development process.                                                                                  |
 

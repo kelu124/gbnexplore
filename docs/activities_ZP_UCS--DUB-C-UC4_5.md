@@ -3,7 +3,7 @@ layout: default
 title: "Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)"
 parent: ZPUCSDUBCUC4
 has_children: true
-nav_order: 129
+nav_order: 120
 ---
 
 
@@ -13,14 +13,14 @@ nav_order: 129
 
 | col1                                                                                 | Justification                                                                                                                                                                                                                                           |
 |:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption                  | The Porto Sustainable Neighbourhood Living Lab is designed to promote economic diversity and job creation through urban regeneration efforts and sustainable development, enhancing the neighbourhood's appeal and potential for attracting businesses. |
+| Well-being x Health and care in the community                                        | The focus on health metrics and lifestyle improvement through energy efficiency and community engagement indicates a strong commitment to enhancing residents' physical and mental well-being.                                                          |
 | Preservation and improvement of environment x Biodiversity and ecosystem services    | The initiative's focus on creating green spaces and improving energy efficiency reflects an active commitment to environmental preservation and improving ecosystem services within the urban setting.                                                  |
 | Responsible resource use x Living and working environment                            | Through initiatives like energy efficiency monitoring and the deployment of smart technologies, the project promotes responsible consumption of resources and aims for a higher quality living and working environment.                                 |
 | Social cohesion x Living together, interdependence and mutuality                     | Community engagement methods used in the Living Lab foster interaction among diverse community members, building social bonds and promoting inclusivity and understanding across various demographic groups.                                            |
-| Well-being x Health and care in the community                                        | The focus on health metrics and lifestyle improvement through energy efficiency and community engagement indicates a strong commitment to enhancing residents' physical and mental well-being.                                                          |
 | Attractiveness x Living and working environment                                      | By retrofitting buildings and improving urban infrastructure, the project enhances the living and working environment, contributing to the overall attractiveness of the neighbourhood.                                                                 |
 | Preservation and improvement of environment x Governance, empowerment and engagement | The governance framework encourages community participation and accountability, which is vital for implementing environmental preservation strategies effectively.                                                                                      |
 | Resilience x Innovation, creativity and research                                     | The initiative emphasizes the need for innovative solutions and creative approaches in urban planning and technological integration to enhance resilience in the neighbourhood.                                                                         |
+| Attractiveness x Economy and sustainable production and consumption                  | The Porto Sustainable Neighbourhood Living Lab is designed to promote economic diversity and job creation through urban regeneration efforts and sustainable development, enhancing the neighbourhood's appeal and potential for attracting businesses. |
 | Social cohesion x Culture and community identity                                     | Promoting local cultural identity and social inclusion through community engagement initiatives helps strengthen the sense of community and collective identity among residents.                                                                        |
 
 # Executive summary## Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)

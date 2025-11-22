@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSDUBBUC3"
 has_children: true
-nav_order: 27
+nav_order: 39
 ---
 
 
@@ -10,8 +10,8 @@ nav_order: 27
 
 # Related use cases found online
 
-* [Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)](activities_ZP_UCS--DUB-B-UC3_1.md)
 * [Seestadt Aspern Smart City District](activities_ZP_UCS--DUB-B-UC3_2.md)
+* [Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)](activities_ZP_UCS--DUB-B-UC3_1.md)
 * [EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)](activities_ZP_UCS--DUB-B-UC3_3.md)
 * [SPARCS Espoo Positive Energy District](activities_ZP_UCS--DUB-B-UC3_4.md)
 * [RESPONSE Dijon – Positive Energy Block](activities_ZP_UCS--DUB-B-UC3_5.md)

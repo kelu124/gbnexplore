@@ -2,7 +2,7 @@
 layout: default
 title: "ZPUCSPTOCUC1"
 has_children: true
-nav_order: 55
+nav_order: 10
 ---
 
 
@@ -12,9 +12,9 @@ nav_order: 55
 
 * [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-C-UC1_1.md)
 * [Falcão Primary School Green Roofs – LIFE-myBUILDINGisGREEN](activities_ZP_UCS--PTO-C-UC1_2.md)
-* [Praça de Lisboa Olive Grove Green Roof & Porto Fifth Façade Project](activities_ZP_UCS--PTO-C-UC1_3.md)
 * [Lyon Confluence Smart District](activities_ZP_UCS--PTO-C-UC1_4.md)
 * [H22 – The Making of a Smarter City](activities_ZP_UCS--PTO-C-UC1_5.md)
+* [Praça de Lisboa Olive Grove Green Roof & Porto Fifth Façade Project](activities_ZP_UCS--PTO-C-UC1_3.md)
 
 
 # Original text

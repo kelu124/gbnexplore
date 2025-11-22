@@ -3,7 +3,7 @@ layout: default
 title: "UCM Complutense University District Heating Network Renovation"
 parent: ZPUCSMGPBUC3
 has_children: true
-nav_order: 97
+nav_order: 60
 ---
 
 
@@ -13,15 +13,15 @@ nav_order: 97
 
 | col1                                                                              | Justification                                                                                                                                                                                                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Responsible resource use x Economy and sustainable production and consumption     | The project emphasizes energy efficiency and aims to reduce operational costs while integrating renewable energy sources, supporting sustainable production and consumption patterns.                                                                                 |
+| Well-being x Safety and security                                                  | This initiative will create a safer and more comfortable environment for students and staff by ensuring reliable heating and reducing the risk of heating outages and related health issues.                                                                          |
 | Attractiveness x Living and working environment                                   | The UCM Complutense University District Heating Network Renovation project aims to enhance the living and working environment on campus by improving heating efficiency and reducing emissions, which contributes to a higher quality of life for students and staff. |
 | Resilience x Health and care in the community                                     | The renovation not only aims to improve the infrastructure's resilience to climate impacts but also promotes health and well-being through improved thermal comfort and reduced air pollution.                                                                        |
-| Responsible resource use x Economy and sustainable production and consumption     | The project emphasizes energy efficiency and aims to reduce operational costs while integrating renewable energy sources, supporting sustainable production and consumption patterns.                                                                                 |
-| Social cohesion x Community smart infrastructures                                 | By improving the heating system for over 75,000 users, the project promotes social integration through enhanced comfort and reliable services for diverse campus users.                                                                                               |
-| Well-being x Safety and security                                                  | This initiative will create a safer and more comfortable environment for students and staff by ensuring reliable heating and reducing the risk of heating outages and related health issues.                                                                          |
-| Attractiveness x Innovation, creativity and research                              | The project incorporates advanced technologies, such as pre-insulated pipes and digital control systems, which enhance the attractiveness of the campus environment while contributing to innovative practices in energy management.                                  |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | Though the focus is primarily on energy systems, improving energy efficiency indirectly contributes to better environmental conditions, which can benefit local biodiversity by reducing emissions that affect air quality.                                           |
 | Resilience x Governance, empowerment and engagement                               | By engaging various stakeholders, including the university and local government, the project exemplifies effective governance, enhancing resilience through community involvement in climate action.                                                                  |
 | Responsible resource use x Living and working environment                         | The focus on modernizing the heating network shows a commitment to responsible resource use, particularly in reducing reliance on fossil fuels while enhancing the quality of the working environment on campus.                                                      |
+| Attractiveness x Innovation, creativity and research                              | The project incorporates advanced technologies, such as pre-insulated pipes and digital control systems, which enhance the attractiveness of the campus environment while contributing to innovative practices in energy management.                                  |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | Though the focus is primarily on energy systems, improving energy efficiency indirectly contributes to better environmental conditions, which can benefit local biodiversity by reducing emissions that affect air quality.                                           |
+| Social cohesion x Community smart infrastructures                                 | By improving the heating system for over 75,000 users, the project promotes social integration through enhanced comfort and reliable services for diverse campus users.                                                                                               |
 
 # Executive summary## UCM Complutense University District Heating Network Renovation
 
