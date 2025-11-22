@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Kalasatama – Digital Energy Community Platform
-parent: ZP_UCS--BRU-B-UC1
+parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 110
 ---

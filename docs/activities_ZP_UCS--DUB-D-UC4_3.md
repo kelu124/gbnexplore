@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EnergyVille Smart Building Living Lab
-parent: ZP_UCS--DUB-D-UC4
+parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 27
 ---

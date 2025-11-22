@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ATELIER: AmsTErdam and BiLbao cItizen drivEn smaRt cities
-parent: ZP_UCS--BRU-B-UC1
+parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 113
 ---

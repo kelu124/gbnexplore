@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRI4Cities – Smart Readiness Indicator Demonstration in Vienna
-parent: ZP_UCS--MGP-C-UC2
+parent: ZPUCSMGPCUC2
 has_children: true
 nav_order: 179
 ---

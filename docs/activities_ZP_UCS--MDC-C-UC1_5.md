@@ -1,7 +1,7 @@
 ---
 layout: default
 title: i-STENTORE Living Lab for Smart Energy Storage Deployment (Horizon Europe Project)
-parent: ZP_UCS--MDC-C-UC1
+parent: ZPUCSMDCCUC1
 has_children: true
 nav_order: 54
 ---

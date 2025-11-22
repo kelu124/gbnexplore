@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FUN Porto Urban Forest & BioSpots Network
-parent: ZP_UCS--PTO-A-UC2
+parent: ZPUCSPTOAUC2
 has_children: true
 nav_order: 156
 ---

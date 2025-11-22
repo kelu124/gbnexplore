@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)
-parent: ZP_UCS--BRU-A-UC2
+parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 58
 ---

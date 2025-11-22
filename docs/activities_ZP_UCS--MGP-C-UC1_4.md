@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aspern Smart City Demonstration (Smarter Together)
-parent: ZP_UCS--MGP-C-UC1
+parent: ZPUCSMGPCUC1
 has_children: true
 nav_order: 38
 ---

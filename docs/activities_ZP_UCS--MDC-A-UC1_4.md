@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staying Green: Madrid’s Urban Green Space Monitoring
-parent: ZP_UCS--MDC-A-UC1
+parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 73
 ---

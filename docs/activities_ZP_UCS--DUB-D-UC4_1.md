@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartEnCity – Vitoria-Gasteiz Smart District
-parent: ZP_UCS--DUB-D-UC4
+parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: I-CHANGE Milan Living Lab
-parent: ZP_UCS--DUB-C-UC5
+parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 135
 ---

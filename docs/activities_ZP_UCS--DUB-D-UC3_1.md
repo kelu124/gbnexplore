@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amsterdam Smart Energy Grid
-parent: ZP_UCS--DUB-D-UC3
+parent: ZPUCSDUBDUC3
 has_children: true
 nav_order: 30
 ---

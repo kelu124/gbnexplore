@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tallaght District Heating Using Data Center Waste Heat
-parent: ZP_UCS--DUB-A-UC3
+parent: ZPUCSDUBAUC3
 has_children: true
 nav_order: 84
 ---

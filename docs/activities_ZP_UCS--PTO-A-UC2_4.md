@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amsterdam Zuidoost Energy Community (ATELIER Project)
-parent: ZP_UCS--PTO-A-UC2
+parent: ZPUCSPTOAUC2
 has_children: true
 nav_order: 158
 ---

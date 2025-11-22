@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Districlima: Barcelona District Heating and Cooling Network (Forum and 22@ Districts)
-parent: ZP_UCS--MGP-B-UC2
+parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 182
 ---

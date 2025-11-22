@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CO-SHAPE: Co-Shaping Areas in Peri-Urban Environments
-parent: ZP_UCS--AAR-A-UC2
+parent: ZPUCSAARAUC2
 has_children: true
 nav_order: 109
 ---

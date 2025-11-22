@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)
-parent: ZP_UCS--PRG-A-UC4
+parent: ZPUCSPRGAUC4
 has_children: true
 nav_order: 104
 ---

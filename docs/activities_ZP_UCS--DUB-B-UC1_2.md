@@ -1,7 +1,7 @@
 ---
 layout: default
 title: eParkomat EV and Smart Parking System
-parent: ZP_UCS--DUB-B-UC1
+parent: ZPUCSDUBBUC1
 has_children: true
 nav_order: 229
 ---

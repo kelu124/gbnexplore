@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ethos Engineering Living Lab
-parent: ZP_UCS--DUB-D-UC2
+parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 213
 ---

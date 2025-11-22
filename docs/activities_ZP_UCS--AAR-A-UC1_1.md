@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TRÆ – Tall Timber Office Building
-parent: ZP_UCS--AAR-A-UC1
+parent: ZPUCSAARAUC1
 has_children: true
 nav_order: 186
 ---

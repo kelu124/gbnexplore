@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barcelona Smart Waste City Project
-parent: ZP_UCS--DUB-A-UC4
+parent: ZPUCSDUBAUC4
 has_children: true
 nav_order: 161
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Cities: Interoperable Digital Twins for Smart Energy Neighbourhoods
-parent: ZP_UCS--BRU-B-UC4
+parent: ZPUCSBRUBUC4
 has_children: true
 nav_order: 205
 ---

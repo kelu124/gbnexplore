@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZP_UCS--MGP-C-UC1
+title: ZPUCSMGPCUC1
 has_children: true
 nav_order: 16
 ---

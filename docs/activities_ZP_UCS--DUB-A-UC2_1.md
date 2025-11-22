@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amsterdam Smart Building Digital Twin (SRI Pilot)
-parent: ZP_UCS--DUB-A-UC2
+parent: ZPUCSDUBAUC2
 has_children: true
 nav_order: 197
 ---

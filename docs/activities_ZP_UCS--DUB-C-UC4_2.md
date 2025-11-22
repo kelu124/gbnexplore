@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aarhus Smart Building Elevator Usage Analytics
-parent: ZP_UCS--DUB-C-UC4
+parent: ZPUCSDUBCUC4
 has_children: true
 nav_order: 126
 ---

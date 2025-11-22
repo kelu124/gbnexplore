@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Residential Building in Prague Monitors Energy Consumption via M-Bus
-parent: ZP_UCS--PRG-A-UC1
+parent: ZPUCSPRGAUC1
 has_children: true
 nav_order: 115
 ---

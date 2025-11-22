@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Cities – Smart Urban Energy Platform
-parent: ZP_UCS--BRU-B-UC2
+parent: ZPUCSBRUBUC2
 has_children: true
 nav_order: 24
 ---

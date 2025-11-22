@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dublin Green Building Neighbourhood (PROBONO Project)
-parent: ZP_UCS--AAR-A-UC3
+parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 44
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZP_UCS--AAR-A-UC3
+title: ZPUCSAARAUC3
 has_children: true
 nav_order: 17
 ---

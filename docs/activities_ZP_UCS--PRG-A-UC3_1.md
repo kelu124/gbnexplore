@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EDGE Olympic – Smart Climate Control and Air Quality Monitoring
-parent: ZP_UCS--PRG-A-UC3
+parent: ZPUCSPRGAUC3
 has_children: true
 nav_order: 76
 ---

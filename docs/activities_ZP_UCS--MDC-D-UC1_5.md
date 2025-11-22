@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mySMARTLife – Positive Energy Block Demonstration
-parent: ZP_UCS--MDC-D-UC1
+parent: ZPUCSMDCDUC1
 has_children: true
 nav_order: 81
 ---

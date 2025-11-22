@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Cities: Smart Parking and e-Mobility Pilot (Horizon 2020 Project)
-parent: ZP_UCS--DUB-B-UC1
+parent: ZPUCSDUBBUC1
 has_children: true
 nav_order: 232
 ---

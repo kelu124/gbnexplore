@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dublin City Air and Noise Monitoring Initiative
-parent: ZP_UCS--DUB-A-UC1
+parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 167
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)
-parent: ZP_UCS--DUB-C-UC4
+parent: ZPUCSDUBCUC4
 has_children: true
 nav_order: 129
 ---

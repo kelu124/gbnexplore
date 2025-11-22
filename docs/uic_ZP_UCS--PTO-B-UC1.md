@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZP_UCS--PTO-B-UC1
+title: ZPUCSPTOBUC1
 has_children: true
 nav_order: 11
 ---

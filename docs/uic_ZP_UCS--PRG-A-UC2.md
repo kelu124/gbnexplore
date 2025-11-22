@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZP_UCS--PRG-A-UC2
+title: ZPUCSPRGAUC2
 has_children: true
 nav_order: 53
 ---

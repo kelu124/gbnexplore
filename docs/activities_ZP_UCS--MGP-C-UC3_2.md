@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smarter Together – Smart Mobility Solutions
-parent: ZP_UCS--MGP-C-UC3
+parent: ZPUCSMGPCUC3
 has_children: true
 nav_order: 121
 ---

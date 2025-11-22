@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energent Energy Community Platform (Freiburg)
-parent: ZP_UCS--BRU-B-UC1
+parent: ZPUCSBRUBUC1
 has_children: true
 nav_order: 111
 ---

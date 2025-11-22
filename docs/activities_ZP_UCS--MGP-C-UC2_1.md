@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart EV Charging and District Energy Optimization in Buiksloterham
-parent: ZP_UCS--MGP-C-UC2
+parent: ZPUCSMGPCUC2
 has_children: true
 nav_order: 176
 ---

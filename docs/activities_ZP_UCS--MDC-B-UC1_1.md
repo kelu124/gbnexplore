@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Casa Sophia – Positive Energy Smart Home
-parent: ZP_UCS--MDC-B-UC1
+parent: ZPUCSMDCBUC1
 has_children: true
 nav_order: 15
 ---

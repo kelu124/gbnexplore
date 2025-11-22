@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Living Lab BIPV - Helmholtz-Zentrum Berlin
-parent: ZP_UCS--DUB-D-UC2
+parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 214
 ---

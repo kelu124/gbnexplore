@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manchester Civic Quarter Heat Network
-parent: ZP_UCS--MGP-B-UC2
+parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 181
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Green Roof Monitoring Project
-parent: ZP_UCS--DUB-A-UC1
+parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 168
 ---

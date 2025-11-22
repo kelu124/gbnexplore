@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy Systems Catapult Living Lab
-parent: ZP_UCS--MDC-C-UC1
+parent: ZPUCSMDCCUC1
 has_children: true
 nav_order: 51
 ---

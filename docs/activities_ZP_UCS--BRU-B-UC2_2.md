@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GreenBizz Energy Community
-parent: ZP_UCS--BRU-B-UC2
+parent: ZPUCSBRUBUC2
 has_children: true
 nav_order: 21
 ---

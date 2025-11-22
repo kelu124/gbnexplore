@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Cities – Smart Building Neighborhood Monitoring (Milan, Italy)
-parent: ZP_UCS--DUB-A-UC1
+parent: ZPUCSDUBAUC1
 has_children: true
 nav_order: 170
 ---

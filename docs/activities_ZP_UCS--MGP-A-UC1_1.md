@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triple – Eco-Carbon Neutral Co-Working and Event Space
-parent: ZP_UCS--MGP-A-UC1
+parent: ZPUCSMGPAUC1
 has_children: true
 nav_order: 93
 ---

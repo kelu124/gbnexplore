@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)
-parent: ZP_UCS--MDC-A-UC1
+parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 74
 ---

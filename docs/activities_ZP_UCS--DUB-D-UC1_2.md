@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ethos Engineering Living Lab Digital Twin
-parent: ZP_UCS--DUB-D-UC1
+parent: ZPUCSDUBDUC1
 has_children: true
 nav_order: 6
 ---

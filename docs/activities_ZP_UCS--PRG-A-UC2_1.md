@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Energy Management at De Ceuvel
-parent: ZP_UCS--PRG-A-UC2
+parent: ZPUCSPRGAUC2
 has_children: true
 nav_order: 217
 ---

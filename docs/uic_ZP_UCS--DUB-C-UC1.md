@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZP_UCS--DUB-C-UC1
+title: ZPUCSDUBCUC1
 has_children: true
 nav_order: 58
 ---

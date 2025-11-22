@@ -1,7 +1,7 @@
 ---
 layout: default
 title: oPEN Lab – Positive Energy Neighbourhoods in Tartu, Pamplona, and Genk
-parent: ZP_UCS--AAR-A-UC4
+parent: ZPUCSAARAUC4
 has_children: true
 nav_order: 63
 ---

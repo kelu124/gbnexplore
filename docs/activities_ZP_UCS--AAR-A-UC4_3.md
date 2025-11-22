@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Green Hub House – Experimental Urban and Climate-Friendly Community
-parent: ZP_UCS--AAR-A-UC4
+parent: ZPUCSAARAUC4
 has_children: true
 nav_order: 62
 ---

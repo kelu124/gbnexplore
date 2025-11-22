@@ -1,7 +1,7 @@
 ---
 layout: default
 title: THERMOS Project: District Heating & Cooling Planning Tools (Horizon 2020)
-parent: ZP_UCS--MGP-B-UC3
+parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 98
 ---

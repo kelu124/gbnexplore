@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vitoria-Gasteiz DHC Planning with the THERMOS Tool (Horizon 2020)
-parent: ZP_UCS--MGP-B-UC1
+parent: ZPUCSMGPBUC1
 has_children: true
 nav_order: 222
 ---

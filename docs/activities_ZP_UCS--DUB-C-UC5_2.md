@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trinity College Dublin Living Lab – Air Quality Monitoring
-parent: ZP_UCS--DUB-C-UC5
+parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 136
 ---

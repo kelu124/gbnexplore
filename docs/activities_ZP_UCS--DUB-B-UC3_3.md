@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)
-parent: ZP_UCS--DUB-B-UC3
+parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 90
 ---

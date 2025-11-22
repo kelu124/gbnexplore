@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sharing Cities: Smart City Digital Twin for Neighborhood Sustainability
-parent: ZP_UCS--DUB-A-UC2
+parent: ZPUCSDUBAUC2
 has_children: true
 nav_order: 201
 ---

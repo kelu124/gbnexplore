@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IRIS Smart Cities – Positive Energy Districts
-parent: ZP_UCS--DUB-D-UC4
+parent: ZPUCSDUBDUC4
 has_children: true
 nav_order: 29
 ---

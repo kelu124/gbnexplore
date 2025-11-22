@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartWaste – Smart Waste Management in Stavanger (Horizon 2020 Project)
-parent: ZP_UCS--DUB-A-UC4
+parent: ZPUCSDUBAUC4
 has_children: true
 nav_order: 164
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Natural Wood in Affordable Housing at the Puente de Vallecas Eco-Neighborhood (SFJ6 Project)
-parent: ZP_UCS--MGP-C-UC2
+parent: ZPUCSMGPCUC2
 has_children: true
 nav_order: 177
 ---

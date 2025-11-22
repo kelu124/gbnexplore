@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Casa Sophia: Automating Spain’s Most Eco-Friendly Home
-parent: ZP_UCS--MDC-A-UC1
+parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 70
 ---

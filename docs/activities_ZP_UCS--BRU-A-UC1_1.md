@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tivoli GreenCity Sustainable Neighbourhood
-parent: ZP_UCS--BRU-A-UC1
+parent: ZPUCSBRUAUC1
 has_children: true
 nav_order: 150
 ---

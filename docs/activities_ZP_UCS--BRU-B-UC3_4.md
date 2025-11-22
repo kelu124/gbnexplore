@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RESPONSE Project – Positive Energy Neighbourhoods
-parent: ZP_UCS--BRU-B-UC3
+parent: ZPUCSBRUBUC3
 has_children: true
 nav_order: 133
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FLEXYNETS – Intelligent District Heating and Cooling Networks
-parent: ZP_UCS--MGP-B-UC2
+parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 184
 ---

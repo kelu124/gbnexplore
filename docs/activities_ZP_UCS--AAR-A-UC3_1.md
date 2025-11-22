@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Green Hub House
-parent: ZP_UCS--AAR-A-UC3
+parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 40
 ---

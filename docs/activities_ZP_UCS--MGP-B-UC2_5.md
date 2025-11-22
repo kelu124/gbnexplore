@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3G to 5G District Heating and Cooling Networks (NetZeroCities / Horizon Project)
-parent: ZP_UCS--MGP-B-UC2
+parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 185
 ---

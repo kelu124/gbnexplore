@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SPARCS Espoo Positive Energy District
-parent: ZP_UCS--DUB-B-UC3
+parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 91
 ---

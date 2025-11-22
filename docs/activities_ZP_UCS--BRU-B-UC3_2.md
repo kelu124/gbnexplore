@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tivoli GreenCity
-parent: ZP_UCS--BRU-B-UC3
+parent: ZPUCSBRUBUC3
 has_children: true
 nav_order: 131
 ---

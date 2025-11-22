@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Waste Reduction in Canteens (Gothenburg, Sweden)
-parent: ZP_UCS--DUB-C-UC1
+parent: ZPUCSDUBCUC1
 has_children: true
 nav_order: 239
 ---

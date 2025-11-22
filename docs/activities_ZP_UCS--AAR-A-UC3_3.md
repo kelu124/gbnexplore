@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spørring Circular Energy Park (CO-SHAPE Project)
-parent: ZP_UCS--AAR-A-UC3
+parent: ZPUCSAARAUC3
 has_children: true
 nav_order: 42
 ---

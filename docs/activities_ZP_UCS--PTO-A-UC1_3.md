@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Praça de Lisboa Green Roof & Fifth Façade Project
-parent: ZP_UCS--PTO-A-UC1
+parent: ZPUCSPTOAUC1
 has_children: true
 nav_order: 209
 ---

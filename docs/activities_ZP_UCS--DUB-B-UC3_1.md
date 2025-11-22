@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)
-parent: ZP_UCS--DUB-B-UC3
+parent: ZPUCSDUBBUC3
 has_children: true
 nav_order: 88
 ---

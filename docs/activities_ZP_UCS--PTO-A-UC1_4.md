@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Porto di Mare Eco-District (New European Bauhaus Project)
-parent: ZP_UCS--PTO-A-UC1
+parent: ZPUCSPTOAUC1
 has_children: true
 nav_order: 210
 ---

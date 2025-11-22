@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Móstoles Biomass District Heating Network
-parent: ZP_UCS--MGP-B-UC3
+parent: ZPUCSMGPBUC3
 has_children: true
 nav_order: 95
 ---

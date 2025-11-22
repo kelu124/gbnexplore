@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mySMARTLife: Urban Data Platform for Smart City Management
-parent: ZP_UCS--DUB-C-UC5
+parent: ZPUCSDUBCUC5
 has_children: true
 nav_order: 139
 ---

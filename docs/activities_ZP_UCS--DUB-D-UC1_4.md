@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy Living Lab (Provincia di Sassari, Italy)
-parent: ZP_UCS--DUB-D-UC1
+parent: ZPUCSDUBDUC1
 has_children: true
 nav_order: 8
 ---

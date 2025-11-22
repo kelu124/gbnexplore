@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Living Labs Brussels Retrofit Project
-parent: ZP_UCS--BRU-A-UC2
+parent: ZPUCSBRUAUC2
 has_children: true
 nav_order: 56
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barrio La Pinada District Heating & Cooling Network
-parent: ZP_UCS--MGP-B-UC2
+parent: ZPUCSMGPBUC2
 has_children: true
 nav_order: 183
 ---

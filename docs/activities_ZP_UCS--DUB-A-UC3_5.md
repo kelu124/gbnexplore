@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartEnCity – Vitoria-Gasteiz Green Neighborhood Retrofit
-parent: ZP_UCS--DUB-A-UC3
+parent: ZPUCSDUBAUC3
 has_children: true
 nav_order: 86
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Dome – Green Community House (Domen)
-parent: ZP_UCS--AAR-A-UC2
+parent: ZPUCSAARAUC2
 has_children: true
 nav_order: 108
 ---

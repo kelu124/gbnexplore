@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas
-parent: ZP_UCS--MDC-A-UC1
+parent: ZPUCSMDCAUC1
 has_children: true
 nav_order: 71
 ---

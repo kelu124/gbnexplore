@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cleanwatts Living Lab: AI-Powered Renewable Energy Communities
-parent: ZP_UCS--DUB-D-UC2
+parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 212
 ---

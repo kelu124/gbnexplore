@@ -1,7 +1,7 @@
 ---
 layout: default
 title: H22 – The Making of a Smarter City
-parent: ZP_UCS--PTO-C-UC1
+parent: ZPUCSPTOCUC1
 has_children: true
 nav_order: 227
 ---

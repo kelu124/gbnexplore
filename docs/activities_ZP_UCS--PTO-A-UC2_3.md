@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LIFE-myBUILDINGisGREEN Project: Falcão Primary School
-parent: ZP_UCS--PTO-A-UC2
+parent: ZPUCSPTOAUC2
 has_children: true
 nav_order: 157
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lyon Confluence Smart Mobility and Energy District
-parent: ZP_UCS--DUB-B-UC1
+parent: ZPUCSDUBBUC1
 has_children: true
 nav_order: 230
 ---

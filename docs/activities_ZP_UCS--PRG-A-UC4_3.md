@@ -1,7 +1,7 @@
 ---
 layout: default
 title: City Green Court
-parent: ZP_UCS--PRG-A-UC4
+parent: ZPUCSPRGAUC4
 has_children: true
 nav_order: 102
 ---

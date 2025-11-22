@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Thor Living Lab
-parent: ZP_UCS--DUB-B-UC2
+parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 234
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EU-DREAM: Effective Uptake of Digital Services to Repower European Consumers and Communities as Active Participants in Energy Transition and Markets
-parent: ZP_UCS--MDC-C-UC1
+parent: ZPUCSMDCCUC1
 has_children: true
 nav_order: 53
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Integrated Energy Lab (IE Lab), UCD Energy Institute
-parent: ZP_UCS--DUB-D-UC1
+parent: ZPUCSDUBDUC1
 has_children: true
 nav_order: 7
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CO-SHAPE – Peri-Urban Circular Energy Hub
-parent: ZP_UCS--AAR-B-UC1
+parent: ZPUCSAARBUC1
 has_children: true
 nav_order: 193
 ---

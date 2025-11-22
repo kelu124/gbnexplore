@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agra do Amial Renewable Energy Community
-parent: ZP_UCS--PTO-B-UC2
+parent: ZPUCSPTOBUC2
 has_children: true
 nav_order: 140
 ---

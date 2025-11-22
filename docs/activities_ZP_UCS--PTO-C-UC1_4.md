@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lyon Confluence Smart District
-parent: ZP_UCS--PTO-C-UC1
+parent: ZPUCSPTOCUC1
 has_children: true
 nav_order: 226
 ---

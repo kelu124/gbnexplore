@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale
-parent: ZP_UCS--DUB-B-UC2
+parent: ZPUCSDUBBUC2
 has_children: true
 nav_order: 235
 ---

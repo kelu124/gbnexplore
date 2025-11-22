@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oxygen Office Building – BAMB Pilot (Horizon 2020 Project)
-parent: ZP_UCS--BRU-A-UC1
+parent: ZPUCSBRUAUC1
 has_children: true
 nav_order: 154
 ---

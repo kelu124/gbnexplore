@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Edge Amsterdam: BREEAM-NL Smart Building Pilot
-parent: ZP_UCS--DUB-C-UC2
+parent: ZPUCSDUBCUC2
 has_children: true
 nav_order: 148
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lyon Confluence Smart Neighborhood (Smarter Together)
-parent: ZP_UCS--BRU-A-UC3
+parent: ZPUCSBRUAUC3
 has_children: true
 nav_order: 175
 ---

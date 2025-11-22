@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SSE Airtricity Smart Homes Living Lab (EU-DREAM Project)
-parent: ZP_UCS--DUB-D-UC2
+parent: ZPUCSDUBDUC2
 has_children: true
 nav_order: 216
 ---

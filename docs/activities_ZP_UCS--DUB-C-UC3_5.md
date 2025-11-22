@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mySMARTLife – Urban Data-Driven Sustainability Platform (Nantes, France)
-parent: ZP_UCS--DUB-C-UC3
+parent: ZPUCSDUBCUC3
 has_children: true
 nav_order: 69
 ---

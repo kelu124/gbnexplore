@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Madrid Nuevo Norte Sustainable Urban Development
-parent: ZP_UCS--MGP-C-UC2
+parent: ZPUCSMGPCUC2
 has_children: true
 nav_order: 178
 ---
