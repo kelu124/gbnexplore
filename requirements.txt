@@ -70,8 +70,9 @@ jupyterlab_widgets==3.0.15
 kiwisolver==1.4.9
 langchain==0.3.27
 langchain-community==0.3.29
-langchain-core==0.3.76
+langchain-core==0.3.79
 langchain-openai==0.3.33
+langchain-perplexity==0.1.2
 langchain-text-splitters==0.3.11
 langsmith==0.4.27
 lark==1.2.2
@@ -90,7 +91,7 @@ nest-asyncio==1.6.0
 notebook==7.4.5
 notebook_shim==0.2.4
 numpy==2.3.3
-openai==1.107.2
+openai==1.109.1
 openpyxl==3.1.5
 orjson==3.11.3
 overrides==7.7.0
@@ -98,7 +99,7 @@ packaging==25.0
 pandas==2.3.2
 pandocfilters==1.5.1
 parso==0.8.5
-pbn_37k @ git+https://github.com/kelu124/iso37101_bot.git@39cfe67715441dd4572e98034f0b286d522e56d9
+#pbn_37k @ git+https://github.com/kelu124/iso37101_bot.git@39cfe67715441dd4572e98034f0b286d522e56d9
 pexpect==4.9.0
 pillow==11.3.0
 platformdirs==4.4.0
