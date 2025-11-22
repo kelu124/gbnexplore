@@ -1,72 +1,75 @@
 
-## **Placemaking Maptivity**
+# Sustainable-City Use-Case Explorer
 
-### A collaborative game for shaping sustainable neighbourhoods
+*Connecting PROBONO use cases with real-world projects through automated LLM discovery.*
 
-**What it is**
-Placemaking Maptivity is an interactive, map-based game that helps people imagine and plan better, greener neighbourhoods. It turns complex ideas about sustainability into something you can see, touch, and discuss together.
+This tool takes the 49 sustainable-city use cases defined in the **PROBONO** project and extends them with fresh, comparable examples from around the world.
 
-Designed for citizens, planners, developers, and local authorities, the Placemaking Maptivity is a way to bring everyone to the same table — literally — to explore what a “smart and sustainable” place could look like.
-
+Each use case is sent to **Perplexity AI**, which returns up to five similar initiatives. Those findings are stored, published on a GitHub Page, and positioned on the **ISO 37101** matrix (12 purposes × 6 enablers) for quick visual orientation.
 
 
-**Why it exists**
-Cities today face huge sustainability challenges. Energy, transport, housing, green space, and social life are all connected, yet they’re often managed in silos. Maptivity bridges these gaps by helping different voices — experts and non-experts alike — find common ground and a shared vision for change.
+## What the tool actually does
+
+**1. Takes a PROBONO use case**
+Each one comes with a description and a location context.
+
+**2. Generates targeted search prompts**
+The prompt is filled programmatically (e.g. `{Place}`, `{use_case}`), then sent to the Perplexity model.
+
+**3. Collects 5 similar projects/initiatives**
+No rewriting, no embellishment — just what the model finds.
+
+**4. Stores the results**
+Structured dataframe for later reuse, analysis, or re-processing.
+
+**5. Publishes everything to a GitHub Page**
+Each use case gets its own page showing:
+
+* The original PROBONO description
+* The five discovered similar projects
+* The ISO 37101 position (matrix cell)
+
+**6. Maps items on the ISO 37101 framework**
+Every result is tagged to one of the **12 purposes** and one of the **6 enablers**, producing a 12×6 grid that acts as the project’s navigation layer.
+
+
+## Why this exists
+
+Cities, infrastructure teams, and sustainability groups often ask the same question:
+
+*“Who else has done something like this, and where?”*
+
+The PROBONO use-case catalogue is a strong starting point, but it becomes far more useful when connected to real examples.
+
+This tool automates that connection.
+
+
+## How the tool is organised
+
+* `pbn37k` → library used for the ISO37101 mapping.
+
+* `data/` → raw PROBONO use cases
+* `output`  → stored search results
+* `docs/` → GitHub Pages output (static HTML + generated content) 
 
 
 
-**How it works**
-The session feels like a creative workshop more than a meeting. Participants work around a large map or online board filled with cards representing real actions — such as creating a bike path, opening a community library, or improving building efficiency.
+## Running it
 
-Each card links to broader sustainability goals drawn from the **ISO 37101** international framework — covering areas such as environment, well-being, social cohesion, and responsible resource use.
-Through play, participants see how one small action can influence many aspects of urban life, and how collaboration leads to better results.
+See the notebook in here.
 
-Workshops move through four phases:
+## Outputs
 
-1. **Discover** – learn the basics of sustainable placemaking.
-2. **Map** – place cards and connect ideas.
-3. **Synthesize** – visualize relationships and patterns.
-4. **Act** – agree on priorities and next steps for real projects.
-
-
-
-**What makes it different**
-
-* **Playful but serious**: it’s a “serious game,” combining the creativity of play with the structure of professional planning.
-* **Inclusive**: no technical expertise needed; everyone can contribute ideas.
-* **Action-oriented**: each session ends with tangible insights and ideas for local improvement.
-* **Grounded in standards**: it brings the ISO 37101 sustainability framework to life in everyday language and visuals.
-
-
-
-**Why it matters**
-By turning sustainability into something people can co-create, Placemaking Maptivity helps neighbourhoods move from fragmented efforts to coordinated transformation.
-It empowers communities to understand their systems, connect their actions, and imagine futures that work — for people and the planet.
-
-
-## An example
-
-Following a game session, people will have place activitie and visions for their neighbourhoods. Here is an example of a report that could be generated automatically to summarize the outcomes of the session.
-
-![](images/gotham_review.png)
-
-On this map, **stars** represent the Vision of the Place, and Circles represent Activities proposed to improve the sustainability of the neighbourhood.
-
-A star aligned with a circle means that the activity contributes to achieving the vision.  When there's a circle but no star, it means the activity is beneficial but not directly linked to a specific vision.
-Conversely, a star without a circle indicates a vision that currently lacks a supporting activity.
-
-
-# Acknowledgments
-
-This project has received funding from the European Union’s Horizon 2020 Europe Research and Innovation programme
-under Grant Agreement No 101037075. This output reflects only the authors’ view, and the European Union
-cannot be held responsible for any use that may be made of the information contained therein.
+* **Structured dataset** of 49 use cases × 5 examples
+* **ISO 37101 matrix view** for each 
+* **Search history** for reproducibility, as a dump
+* **Reference list** of external projects and sources, through the links
 
 
 # Acknowledgements
 
-We gratefully acknowledge the funding support of the European Union
-Horizon 2020 research project PROBONO under grant agreement no.
+We gratefully acknowledge the funding support of the European Union 
+Horizon 2020 research project PROBONO under grant agreement no. 
 101037075. Thank you to the PROBONO team.
 
 # License
