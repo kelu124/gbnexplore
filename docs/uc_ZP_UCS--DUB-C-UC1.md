@@ -10,11 +10,11 @@ nav_order: 38
 
 # Related use cases found online
 
-* [Smart Waste Reduction in Canteens (Gothenburg, Sweden)](activities_ZP_UCS--DUB-C-UC1_2.md)
-* [Food Smart Schools Initiative](activities_ZP_UCS--DUB-C-UC1_1.md)
-* [Eco-Canteen Food Waste Management Initiative (Barcelona, Spain)](activities_ZP_UCS--DUB-C-UC1_3.md)
 * [Circular Canteen Management – Amsterdam, Netherlands (Horizon Europe Project: CityLoops)](activities_ZP_UCS--DUB-C-UC1_5.md)
 * [Green Canteen Digital Twin – Helsinki, Finland](activities_ZP_UCS--DUB-C-UC1_4.md)
+* [Eco-Canteen Food Waste Management Initiative (Barcelona, Spain)](activities_ZP_UCS--DUB-C-UC1_3.md)
+* [Food Smart Schools Initiative](activities_ZP_UCS--DUB-C-UC1_1.md)
+* [Smart Waste Reduction in Canteens (Gothenburg, Sweden)](activities_ZP_UCS--DUB-C-UC1_2.md)
 
 
 # Original text

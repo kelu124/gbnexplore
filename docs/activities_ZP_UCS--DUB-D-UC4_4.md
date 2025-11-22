@@ -3,7 +3,7 @@ layout: default
 title: "mySMARTLife Urban Digital Platform"
 parent: ZPUCSDUBDUC4
 has_children: true
-nav_order: 97
+nav_order: 98
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 97
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                        |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                        |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Health and care in the community                                     | The initiative addresses community resilience by improving energy management in public buildings, which indirectly strengthens health care environments due to better resource management, reduced emissions, and overall improved urban living conditions.                                          |
 | Social cohesion x Education and capacity building                                 | The initiative involves educational components and skill-building programs through citizen engagement platforms, promoting the capacity of the community to participate actively in sustainable practices.                                                                                           |
-| Responsible resource use x Living and working environment                         | By focusing on energy retrofitting and implementing smart resource management systems, the project promotes responsible usage of resources across various sectors, ultimately enhancing the living and working conditions in the urban context.                                                      |
-| Attractiveness x Economy and sustainable production and consumption               | The mySMARTLife initiative aims to make Nantes an attractive city through robust digital and mobility infrastructure that supports local businesses and consumers sustainably. It emphasizes attracting investments in green technologies and facilitating the economic activities of local markets. |
+| Preservation and improvement of environment x Safety and security                 | Environmental improvements and technological deployments contribute to enhanced safety and security in urban spaces, ensuring safer public areas through smart designs and sustainable practices.                                                                                                    |
 | Resilience x Governance, empowerment and engagement                               | The project emphasizes the need for effective governance and stakeholder engagement to adapt to the complex challenges of urban sustainability, ensuring that resilience planning includes community considerations.                                                                                 |
 | Attractiveness x Living and working environment                                   | Creating spaces with advanced urban infrastructure and improved public services enhances the attractiveness of Nantes for businesses and residents alike, making the living and working environment more inviting.                                                                                   |
-| Preservation and improvement of environment x Safety and security                 | Environmental improvements and technological deployments contribute to enhanced safety and security in urban spaces, ensuring safer public areas through smart designs and sustainable practices.                                                                                                    |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project incorporates environmental considerations by integrating renewable energy systems and improving urban infrastructure, which contributes to the overall improvement of the area's ecological health and biodiversity.                                                                     |
 | Well-being x Culture and community identity                                       | The initiative aims to enhance the quality of life for residents by promoting civic engagement and cultural vibrancy through innovative technologies, supporting a sense of belonging to the community.                                                                                              |
 | Social cohesion x Living together, interdependence and mutuality                  | The implementation of citizen engagement platforms and participatory planning fosters community interaction and collaboration, enhancing social bonds and interdependence among residents of Nantes.                                                                                                 |
+| Responsible resource use x Living and working environment                         | By focusing on energy retrofitting and implementing smart resource management systems, the project promotes responsible usage of resources across various sectors, ultimately enhancing the living and working conditions in the urban context.                                                      |
+| Resilience x Health and care in the community                                     | The initiative addresses community resilience by improving energy management in public buildings, which indirectly strengthens health care environments due to better resource management, reduced emissions, and overall improved urban living conditions.                                          |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project incorporates environmental considerations by integrating renewable energy systems and improving urban infrastructure, which contributes to the overall improvement of the area's ecological health and biodiversity.                                                                     |
+| Attractiveness x Economy and sustainable production and consumption               | The mySMARTLife initiative aims to make Nantes an attractive city through robust digital and mobility infrastructure that supports local businesses and consumers sustainably. It emphasizes attracting investments in green technologies and facilitating the economic activities of local markets. |
 
-# Executive summary## mySMARTLife Urban Digital Platform
+# Executive summary
+
+## mySMARTLife Urban Digital Platform
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

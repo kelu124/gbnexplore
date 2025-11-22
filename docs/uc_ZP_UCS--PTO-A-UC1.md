@@ -11,10 +11,10 @@ nav_order: 14
 # Related use cases found online
 
 * [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-A-UC1_1.md)
-* [LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof](activities_ZP_UCS--PTO-A-UC1_2.md)
+* [LIFE-myBUILDINGisGREEN: Horta das Figueiras School Green Roof](activities_ZP_UCS--PTO-A-UC1_5.md)
 * [Praça de Lisboa Green Roof & Fifth Façade Project](activities_ZP_UCS--PTO-A-UC1_3.md)
 * [Porto di Mare Eco-District (New European Bauhaus Project)](activities_ZP_UCS--PTO-A-UC1_4.md)
-* [LIFE-myBUILDINGisGREEN: Horta das Figueiras School Green Roof](activities_ZP_UCS--PTO-A-UC1_5.md)
+* [LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof](activities_ZP_UCS--PTO-A-UC1_2.md)
 
 
 # Original text

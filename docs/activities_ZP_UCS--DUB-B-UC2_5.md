@@ -3,7 +3,7 @@ layout: default
 title: "SSE Airtricity Living Lab (EU DREAM Project)"
 parent: ZPUCSDUBBUC2
 has_children: true
-nav_order: 148
+nav_order: 141
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 148
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart technologies for real-time energy monitoring underscores the initiative's commitment to modern infrastructure improvements that better serve the community's environmental objectives.                              |
+| Attractiveness x Economy and sustainable production and consumption               | The SSE Airtricity Living Lab aims to create a replicable model for advanced green building neighborhoods, enhancing the community’s economic attractiveness by supporting renewable energy usage and decreasing energy costs for residents. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project directly contributes to environmental goals by optimizing renewable energy consumption and focusing on reducing carbon emissions, thereby improving the neighborhood's overall environmental quality.                            |
+| Resilience x Health and care in the community                                     | The initiative enhances community resilience by empowering households to manage energy effectively, leading to better economic stability and mental well-being through reliable energy solutions.                                            |
+| Responsible resource use x Living and working environment                         | The project emphasizes sustainable consumption by integrating technologies that promote efficient energy usage, thus reinforcing responsible resource management within the living environment.                                              |
 | Social cohesion x Living together, interdependence and mutuality                  | By involving residents in co-creation approaches and promoting user engagement, the initiative fosters a sense of community and social interaction among participants.                                                                       |
 | Well-being x Education and capacity building                                      | The Living Lab enhances personal well-being by raising awareness about energy management and building trust in digital tools, contributing to both physical and mental health improvements for residents.                                    |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project directly contributes to environmental goals by optimizing renewable energy consumption and focusing on reducing carbon emissions, thereby improving the neighborhood's overall environmental quality.                            |
 | Attractiveness x Living and working environment                                   | With its focus on smart energy technology, the Living Lab strengthens the attractiveness of the neighborhood, promoting livability and quality of life features for residents through enhanced energy management.                            |
-| Responsible resource use x Living and working environment                         | The project emphasizes sustainable consumption by integrating technologies that promote efficient energy usage, thus reinforcing responsible resource management within the living environment.                                              |
-| Social cohesion x Culture and community identity                                  | The initiative respects community identity by engaging local residents in the energy transition process and valuing their feedback in the development of the Living Lab.                                                                     |
-| Attractiveness x Economy and sustainable production and consumption               | The SSE Airtricity Living Lab aims to create a replicable model for advanced green building neighborhoods, enhancing the community’s economic attractiveness by supporting renewable energy usage and decreasing energy costs for residents. |
-| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart technologies for real-time energy monitoring underscores the initiative's commitment to modern infrastructure improvements that better serve the community's environmental objectives.                              |
 | Resilience x Mobility                                                             | The project's developments in home energy services indirectly contribute to improving mobility within the neighborhood by facilitating electric vehicle usage and charging infrastructure.                                                   |
-| Resilience x Health and care in the community                                     | The initiative enhances community resilience by empowering households to manage energy effectively, leading to better economic stability and mental well-being through reliable energy solutions.                                            |
+| Social cohesion x Culture and community identity                                  | The initiative respects community identity by engaging local residents in the energy transition process and valuing their feedback in the development of the Living Lab.                                                                     |
 
-# Executive summary## SSE Airtricity Living Lab (EU DREAM Project)
+# Executive summary
+
+## SSE Airtricity Living Lab (EU DREAM Project)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

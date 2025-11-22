@@ -10,11 +10,11 @@ nav_order: 53
 
 # Related use cases found online
 
-* [Oxygen Office Building – BAMB Pilot (Horizon 2020 Project)](activities_ZP_UCS--BRU-A-UC1_5.md)
-* [Bridge City – Regenerative Development](activities_ZP_UCS--BRU-A-UC1_3.md)
 * [Transforming Collectivity – Community Housing for Socially Empowered Living](activities_ZP_UCS--BRU-A-UC1_4.md)
-* [Tivoli GreenCity Sustainable Neighbourhood](activities_ZP_UCS--BRU-A-UC1_1.md)
+* [Bridge City – Regenerative Development](activities_ZP_UCS--BRU-A-UC1_3.md)
+* [Oxygen Office Building – BAMB Pilot (Horizon 2020 Project)](activities_ZP_UCS--BRU-A-UC1_5.md)
 * [Buildings As Material Banks (BAMB)](activities_ZP_UCS--BRU-A-UC1_2.md)
+* [Tivoli GreenCity Sustainable Neighbourhood](activities_ZP_UCS--BRU-A-UC1_1.md)
 
 
 # Original text

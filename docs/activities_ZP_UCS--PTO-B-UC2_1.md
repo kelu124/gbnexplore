@@ -3,7 +3,7 @@ layout: default
 title: "Agra do Amial Renewable Energy Community"
 parent: ZPUCSPTOBUC2
 has_children: true
-nav_order: 10
+nav_order: 13
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 10
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                            |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                            |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Agra do Amial REC is designed to directly improve energy affordability and promote economic diversity by reducing electric bills for residents, which encourages local economic activities and supports the community's financial resilience.        |
-| Attractiveness x Living together, interdependence and mutuality                   | By enabling collective self-consumption and community-driven management of energy resources, the REC fosters interdependence among residents, leading to stronger community ties.                                                                        |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | While not a primary focus, the project contributes to environmental resilience by utilizing renewable energy which indirectly helps maintain local ecosystems by reducing pollution and carbon footprint.                                                |
 | Resilience x Innovation, creativity and research                                  | The REC serves as a testing ground for innovative renewable energy solutions within an urban context, paving the way for similar projects in other neighborhoods.                                                                                        |
-| Social cohesion x Culture and community identity                                  | The initiative strengthens community identity by fostering local engagement and ensuring that the energy transition is inclusive and respects the social fabric of the neighborhood.                                                                     |
-| Responsible resource use x Living and working environment                         | The solar community aims to optimize the use of local resources, such as rooftop spaces on residential buildings, to generate renewable energy responsibly and sustainably.                                                                              |
+| Attractiveness x Economy and sustainable production and consumption               | The Agra do Amial REC is designed to directly improve energy affordability and promote economic diversity by reducing electric bills for residents, which encourages local economic activities and supports the community's financial resilience.        |
 | Resilience x Health and care in the community                                     | By addressing energy poverty and increasing access to renewable energy, the initiative supports the health and well-being of community members by ensuring access to consistent energy supply, which is vital for maintaining quality living conditions. |
-| Well-being x Living and working environment                                       | Enhancing residents' quality of life by reducing energy bills and providing reliable energy sources directly correlates to improved well-being and living conditions in the neighborhood.                                                                |
+| Responsible resource use x Living and working environment                         | The solar community aims to optimize the use of local resources, such as rooftop spaces on residential buildings, to generate renewable energy responsibly and sustainably.                                                                              |
 | Social cohesion x Governance, empowerment and engagement                          | The project encourages community involvement and participatory governance, ensuring that residents have a voice in decision-making processes related to their energy usage and community management.                                                     |
+| Well-being x Living and working environment                                       | Enhancing residents' quality of life by reducing energy bills and providing reliable energy sources directly correlates to improved well-being and living conditions in the neighborhood.                                                                |
+| Attractiveness x Living together, interdependence and mutuality                   | By enabling collective self-consumption and community-driven management of energy resources, the REC fosters interdependence among residents, leading to stronger community ties.                                                                        |
+| Social cohesion x Culture and community identity                                  | The initiative strengthens community identity by fostering local engagement and ensuring that the energy transition is inclusive and respects the social fabric of the neighborhood.                                                                     |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | While not a primary focus, the project contributes to environmental resilience by utilizing renewable energy which indirectly helps maintain local ecosystems by reducing pollution and carbon footprint.                                                |
 
-# Executive summary## Agra do Amial Renewable Energy Community
+# Executive summary
+
+## Agra do Amial Renewable Energy Community
 
 ---
 

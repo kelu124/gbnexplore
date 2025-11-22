@@ -10,11 +10,11 @@ nav_order: 47
 
 # Related use cases found online
 
-* [Buildings as Material Banks (BAMB) – Circular Building Digital Twins](activities_ZP_UCS--BRU-B-UC4_2.md)
-* [Tivoli GreenCity – Sustainable Neighbourhood Impact Evaluation](activities_ZP_UCS--BRU-B-UC4_1.md)
 * [Bridge City – Regenerative Urban Development](activities_ZP_UCS--BRU-B-UC4_3.md)
+* [Tivoli GreenCity – Sustainable Neighbourhood Impact Evaluation](activities_ZP_UCS--BRU-B-UC4_1.md)
 * [Sharing Cities: Interoperable Digital Twins for Smart Energy Neighbourhoods](activities_ZP_UCS--BRU-B-UC4_4.md)
 * [mySMARTLife – Interconnected Smart Districts (Horizon 2020 Project)](activities_ZP_UCS--BRU-B-UC4_5.md)
+* [Buildings as Material Banks (BAMB) – Circular Building Digital Twins](activities_ZP_UCS--BRU-B-UC4_2.md)
 
 
 # Original text

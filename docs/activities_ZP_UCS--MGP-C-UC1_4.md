@@ -3,7 +3,7 @@ layout: default
 title: "Aspern Smart City Demonstration (Smarter Together)"
 parent: ZPUCSMGPCUC1
 has_children: true
-nav_order: 54
+nav_order: 53
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 54
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                         |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Responsible resource use x Living and working environment                         | The project promotes responsible resource use by implementing high-efficiency buildings and renewable energy systems, ensuring that resources are managed sustainably, and that community needs are met through quality living and working conditions.                                                                |
-| Resilience x Health and care in the community                                     | With an emphasis on preparing for climate change and promoting social well-being, the initiative enhances community resilience by ensuring equitable access to health services and creating supportive environments for physical and mental well-being.                                                               |
-| Well-being x Education and capacity building                                      | By providing training programs, knowledge-sharing platforms, and fostering an environment conducive to personal development, the project significantly enhances the well-being of the community, focusing on quality of life outcomes.                                                                                |
 | Attractiveness x Economy and sustainable production and consumption               | The Aspern Smart City Demonstration emphasizes the attractiveness of the area by promoting sustainable local businesses, encouraging responsible consumption patterns, and providing diverse employment opportunities. The integration of mixed-use spaces fosters economic vitality and enhances community identity. |
-| Attractiveness x Innovation, creativity and research                              | The initiative fosters an innovative environment by integrating cutting-edge technology and research, attracting businesses and creative solutions that enhance the overall attractiveness of the community.                                                                                                          |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative prioritizes environmental stewardship by incorporating green spaces, water management practices, and biodiversity protection measures. This aligns with the goal of enhancing local ecosystems while ensuring safe and pleasant living conditions.                                                     |
-| Social cohesion x Culture and community identity                                  | The Aspern Smart City Demonstration supports local cultural identity and diversity through inclusive planning processes and by providing public spaces that respect and celebrate the community's heritage.                                                                                                           |
+| Resilience x Health and care in the community                                     | With an emphasis on preparing for climate change and promoting social well-being, the initiative enhances community resilience by ensuring equitable access to health services and creating supportive environments for physical and mental well-being.                                                               |
+| Responsible resource use x Living and working environment                         | The project promotes responsible resource use by implementing high-efficiency buildings and renewable energy systems, ensuring that resources are managed sustainably, and that community needs are met through quality living and working conditions.                                                                |
+| Well-being x Education and capacity building                                      | By providing training programs, knowledge-sharing platforms, and fostering an environment conducive to personal development, the project significantly enhances the well-being of the community, focusing on quality of life outcomes.                                                                                |
+| Attractiveness x Innovation, creativity and research                              | The initiative fosters an innovative environment by integrating cutting-edge technology and research, attracting businesses and creative solutions that enhance the overall attractiveness of the community.                                                                                                          |
 | Preservation and improvement of environment x Community smart infrastructures     | By deploying smart infrastructures, including advanced energy systems and urban data platforms, the project actively contributes to the preservation and enhancement of environmental quality, aiming for sustainable urban development.                                                                              |
 | Resilience x Mobility                                                             | The implications for mobility are critical, as the project enhances transport options and accessibility while addressing climate resilience by potentially reducing traffic congestion and improving overall community mobility.                                                                                      |
+| Social cohesion x Culture and community identity                                  | The Aspern Smart City Demonstration supports local cultural identity and diversity through inclusive planning processes and by providing public spaces that respect and celebrate the community's heritage.                                                                                                           |
 | Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social cohesion by encouraging civic participation through participatory labs, engaging residents in decision-making, and addressing issues of equity and inclusion, thus enhancing the community's sense of belonging.                                                                        |
 
-# Executive summary## Aspern Smart City Demonstration (Smarter Together)
+# Executive summary
+
+## Aspern Smart City Demonstration (Smarter Together)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

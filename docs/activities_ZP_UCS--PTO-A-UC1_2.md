@@ -3,7 +3,7 @@ layout: default
 title: "LIFE-myBUILDINGisGREEN  Falcão Primary School Green Roof"
 parent: ZPUCSPTOAUC1
 has_children: true
-nav_order: 26
+nav_order: 28
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 26
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                             |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                             |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project has introduced over 25 new plant and animal species, significantly enhancing local biodiversity. The installation of green roofs contributes to ecological restoration and biodiversity while minimizing negative environmental impact.                       |
-| Resilience x Health and care in the community                                     | By reducing indoor temperatures and improving comfort conditions, the initiative directly supports the health and well-being of students and staff, preparing them for the increasing challenges posed by climate change.                                                 |
 | Attractiveness x Culture and community identity                                   | The initiative enhances the attractiveness of the Falcão Primary School by installing green roofs and facades, which not only improves aesthetic appeal but also strengthens community identity through innovation in sustainable architecture relevant to local culture. |
-| Social cohesion x Living together, interdependence and mutuality                  | The educational programming involving students in biodiversity monitoring fosters a sense of community and cooperation, promoting interdependence and engagement among families and local stakeholders.                                                                   |
-| Well-being x Health and care in the community                                     | The project’s improvements in thermal comfort, outdoor learning environments, and community engagement contribute significantly to the overall well-being of students by enhancing their learning experience and mental health.                                           |
-| Attractiveness x Mobility                                                         | The enhanced green infrastructure indirectly promotes a more attractive environment for pedestrians and local residents, thus improving overall mobility in and around the school area.                                                                                   |
-| Preservation and improvement of environment x Community smart infrastructures     | The supportive infrastructure, including green roofs for stormwater management, demonstrates a commitment to sustainability in urban design, contributing to community smart infrastructure.                                                                              |
-| Resilience x Governance, empowerment and engagement                               | The project's governance model fosters stakeholder engagement, ensuring community involvement in decision-making processes that enhance the resilience of educational infrastructures.                                                                                    |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project has introduced over 25 new plant and animal species, significantly enhancing local biodiversity. The installation of green roofs contributes to ecological restoration and biodiversity while minimizing negative environmental impact.                       |
 | Well-being x Education and capacity building                                      | Integrating NBS into the curriculum not only raises awareness but also builds skills among students, thereby enhancing educational outcomes related to sustainability.                                                                                                    |
+| Resilience x Governance, empowerment and engagement                               | The project's governance model fosters stakeholder engagement, ensuring community involvement in decision-making processes that enhance the resilience of educational infrastructures.                                                                                    |
+| Preservation and improvement of environment x Community smart infrastructures     | The supportive infrastructure, including green roofs for stormwater management, demonstrates a commitment to sustainability in urban design, contributing to community smart infrastructure.                                                                              |
+| Attractiveness x Mobility                                                         | The enhanced green infrastructure indirectly promotes a more attractive environment for pedestrians and local residents, thus improving overall mobility in and around the school area.                                                                                   |
+| Well-being x Health and care in the community                                     | The project’s improvements in thermal comfort, outdoor learning environments, and community engagement contribute significantly to the overall well-being of students by enhancing their learning experience and mental health.                                           |
+| Social cohesion x Living together, interdependence and mutuality                  | The educational programming involving students in biodiversity monitoring fosters a sense of community and cooperation, promoting interdependence and engagement among families and local stakeholders.                                                                   |
 | Responsible resource use x Economy and sustainable production and consumption     | The initiative integrates renewable energy through solar PV panels and promotes sustainable practices in resource management, contributing to the efficient use of energy resources within the school.                                                                    |
+| Resilience x Health and care in the community                                     | By reducing indoor temperatures and improving comfort conditions, the initiative directly supports the health and well-being of students and staff, preparing them for the increasing challenges posed by climate change.                                                 |
 
-# Executive summary## LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof
+# Executive summary
+
+## LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

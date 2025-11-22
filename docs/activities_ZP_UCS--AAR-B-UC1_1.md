@@ -3,7 +3,7 @@ layout: default
 title: "READY Project Demo Site – Aarhus"
 parent: ZPUCSAARBUC1
 has_children: true
-nav_order: 218
+nav_order: 214
 ---
 
 
@@ -11,7 +11,7 @@ nav_order: 218
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                                                           |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                                                           |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Economy and sustainable production and consumption               | The READY Project enhances the attractiveness of Aarhus by showcasing innovative sustainable architecture and urban planning. By integrating renewable energy systems and energy-efficient technologies, the project not only enhances the quality of life but also stimulates local economic activity through job creation and local business support. |
 | Social cohesion x Living together, interdependence and mutuality                  | The READY Project emphasizes community engagement and participatory governance, which fosters social cohesion among residents. By involving diverse stakeholder groups in the decision-making process, the initiative promotes interdependence and mutual support.                                                                                      |
@@ -21,7 +21,9 @@ nav_order: 218
 | Preservation and improvement of environment x Biodiversity and ecosystem services | By integrating green technologies and planning for sustainable urban regeneration, the initiative contributes to preserving and improving local biodiversity and ecosystem services.                                                                                                                                                                    |
 | Resilience x Innovation, creativity and research                                  | The project is positioned as a model for innovation in urban practices, incorporating cutting-edge technologies and collaborative approaches that foster a culture of research and creativity among stakeholders.                                                                                                                                       |
 
-# Executive summary## READY Project Demo Site – Aarhus
+# Executive summary
+
+## READY Project Demo Site – Aarhus
 
 ---
 

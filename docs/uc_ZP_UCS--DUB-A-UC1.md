@@ -10,12 +10,12 @@ nav_order: 45
 
 # Related use cases found online
 
-* [IRIS Smart Cities – Utrecht Lighthouse Demonstration](activities_ZP_UCS--DUB-A-UC1_5.md)
 * [Sharing Cities – Smart Building Neighborhood Monitoring (Milan, Italy)](activities_ZP_UCS--DUB-A-UC1_6.md)
-* [Dublin City Air and Noise Monitoring Initiative](activities_ZP_UCS--DUB-A-UC1_3.md)
+* [IRIS Smart Cities – Utrecht Lighthouse Demonstration](activities_ZP_UCS--DUB-A-UC1_5.md)
 * [Smart Green Roof Monitoring Project](activities_ZP_UCS--DUB-A-UC1_4.md)
-* [Urban Sense: Monitoring Greenhouse Gas Emissions in Real Time Across Dublin](activities_ZP_UCS--DUB-A-UC1_1.md)
+* [Dublin City Air and Noise Monitoring Initiative](activities_ZP_UCS--DUB-A-UC1_3.md)
 * [Public Building Energy Monitoring at Wood Quay Civic Offices](activities_ZP_UCS--DUB-A-UC1_2.md)
+* [Urban Sense: Monitoring Greenhouse Gas Emissions in Real Time Across Dublin](activities_ZP_UCS--DUB-A-UC1_1.md)
 
 
 # Original text

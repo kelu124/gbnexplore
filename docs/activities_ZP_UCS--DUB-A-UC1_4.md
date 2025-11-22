@@ -3,7 +3,7 @@ layout: default
 title: "Smart Green Roof Monitoring Project"
 parent: ZPUCSDUBAUC1
 has_children: true
-nav_order: 174
+nav_order: 167
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 174
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                                                          |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                                                          |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Economy and sustainable production and consumption               | The Smart Green Roof Monitoring Project enhances the attractiveness of Dublin by promoting local sustainable businesses, as it involves the integration of green roofs as essential features in urban developments. This approach fosters economic diversity and supports the growth of employment opportunities associated with green infrastructure. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project's focus on green roofs directly supports the preservation and improvement of local biodiversity through the introduction of vegetation and the creation of new habitats. This initiative not only enhances urban biodiversity but also contributes to the ecological performance of the urban environment.                                 |
+| Resilience x Living and working environment                                       | By addressing stormwater management and reducing urban flooding risks, this project enhances the resilience of Dublin's neighborhoods. The implementation of green roofs improves the capacity of city infrastructures to withstand climate-related stressors, thereby improving living conditions and the overall environment.                        |
+| Responsible resource use x Living and working environment                         | The integration of smart green roof technology promotes responsible resource use, particularly in water management. By utilizing real-time data for stormwater retention, the project encourages efficient water use and waste management, aligning with sustainable urban practices.                                                                  |
+| Social cohesion x Culture and community identity                                  | This initiative encourages community identity by promoting awareness of green infrastructure and environmental stewardship. As residents engage with the benefits of urban greening, it fosters a sense of belonging and pride within the community, enhancing social cohesion.                                                                        |
 | Well-being x Health and care in the community                                     | The implementation of green roofs contributes to improved urban well-being by providing green spaces that positively impact mental health and community aesthetics. This initiative enhances the quality of life for residents by creating healthier living environments and reducing heat stress.                                                     |
 | Attractiveness x Culture and community identity                                   | The aesthetic and functional qualities of the green roofs enhance the attractiveness of buildings in Dublin, generate interest in urban greening, and foster community appreciation for innovative environmental practices.                                                                                                                            |
-| Responsible resource use x Living and working environment                         | The integration of smart green roof technology promotes responsible resource use, particularly in water management. By utilizing real-time data for stormwater retention, the project encourages efficient water use and waste management, aligning with sustainable urban practices.                                                                  |
 | Preservation and improvement of environment x Health and care in the community    | The initiative aims to improve environmental conditions through the installation of green roofs, which aid in reducing temperatures and enhancing air quality, contributing to better health outcomes for the community.                                                                                                                               |
 | Resilience x Safety and security                                                  | The project directly contributes to urban safety through enhanced flood risk management. By improving stormwater management systems, it reduces risks associated with flooding, thereby ensuring safer environments for residents.                                                                                                                     |
-| Social cohesion x Culture and community identity                                  | This initiative encourages community identity by promoting awareness of green infrastructure and environmental stewardship. As residents engage with the benefits of urban greening, it fosters a sense of belonging and pride within the community, enhancing social cohesion.                                                                        |
-| Resilience x Living and working environment                                       | By addressing stormwater management and reducing urban flooding risks, this project enhances the resilience of Dublin's neighborhoods. The implementation of green roofs improves the capacity of city infrastructures to withstand climate-related stressors, thereby improving living conditions and the overall environment.                        |
 
-# Executive summary## Smart Green Roof Monitoring Project
+# Executive summary
+
+## Smart Green Roof Monitoring Project
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

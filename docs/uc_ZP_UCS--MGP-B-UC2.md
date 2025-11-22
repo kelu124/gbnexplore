@@ -10,11 +10,11 @@ nav_order: 23
 
 # Related use cases found online
 
-* [Districlima: Barcelona District Heating and Cooling Network (Forum and 22@ Districts)](activities_ZP_UCS--MGP-B-UC2_2.md)
-* [Manchester Civic Quarter Heat Network](activities_ZP_UCS--MGP-B-UC2_1.md)
-* [Barrio La Pinada District Heating & Cooling Network](activities_ZP_UCS--MGP-B-UC2_3.md)
-* [FLEXYNETS – Intelligent District Heating and Cooling Networks](activities_ZP_UCS--MGP-B-UC2_4.md)
 * [3G to 5G District Heating and Cooling Networks (NetZeroCities / Horizon Project)](activities_ZP_UCS--MGP-B-UC2_5.md)
+* [FLEXYNETS – Intelligent District Heating and Cooling Networks](activities_ZP_UCS--MGP-B-UC2_4.md)
+* [Barrio La Pinada District Heating & Cooling Network](activities_ZP_UCS--MGP-B-UC2_3.md)
+* [Manchester Civic Quarter Heat Network](activities_ZP_UCS--MGP-B-UC2_1.md)
+* [Districlima: Barcelona District Heating and Cooling Network (Forum and 22@ Districts)](activities_ZP_UCS--MGP-B-UC2_2.md)
 
 
 # Original text

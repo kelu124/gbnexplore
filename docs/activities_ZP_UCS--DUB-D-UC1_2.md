@@ -3,7 +3,7 @@ layout: default
 title: "Ethos Engineering Living Lab Digital Twin"
 parent: ZPUCSDUBDUC1
 has_children: true
-nav_order: 114
+nav_order: 111
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 114
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                      |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Well-being x Governance, empowerment and engagement                               | The integrated approach to improve indoor environmental quality directly impacts the well-being of occupants, encouraging empowerment through participation in health-related initiatives.                                         |
 | Responsible resource use x Community smart infrastructures                        | The project incorporates smart technologies to enhance infrastructure efficiency, contributing to responsible resource management and data-driven facility operations.                                                             |
 | Preservation and improvement of environment x Safety and security                 | Improving indoor air quality contributes to creating a safe working environment, addressing the occupants’ concerns about health and safety.                                                                                       |
-| Attractiveness x Living and working environment                                   | The Living Lab serves as an attractive model for modern working environments, appealing to businesses and enhancing quality of life through innovative design and functionality.                                                   |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project aims to optimize energy efficiency and improve air quality through data collection and analysis, contributing to the preservation of the environment within urban contexts.                                            |
-| Resilience x Health and care in the community                                     | By enhancing occupant well-being and prioritizing air quality, the initiative builds resilience in the workplace against health crises, demonstrating adaptability to changing environmental conditions.                           |
-| Social cohesion x Culture and community identity                                  | The project fosters a healthy workplace culture and enhances community engagement through transparency in data sharing, contributing to social cohesion among staff and clients.                                                   |
 | Resilience x Education and capacity building                                      | The initiative emphasizes staff training and upskilling, which enhances the overall resilience of the organization and prepares it for future challenges.                                                                          |
-| Attractiveness x Innovation, creativity and research                              | The initiative focuses on integrating cutting-edge technologies like IoT and digital twins, showcasing innovation and driving the attractiveness of the workplace as a hub for progress and research in smart building management. |
+| Attractiveness x Living and working environment                                   | The Living Lab serves as an attractive model for modern working environments, appealing to businesses and enhancing quality of life through innovative design and functionality.                                                   |
+| Well-being x Governance, empowerment and engagement                               | The integrated approach to improve indoor environmental quality directly impacts the well-being of occupants, encouraging empowerment through participation in health-related initiatives.                                         |
+| Social cohesion x Culture and community identity                                  | The project fosters a healthy workplace culture and enhances community engagement through transparency in data sharing, contributing to social cohesion among staff and clients.                                                   |
 | Responsible resource use x Economy and sustainable production and consumption     | The initiative focuses on optimizing resource use in terms of energy and space, thus contributing to responsible resource management and supporting sustainability in operations.                                                  |
+| Resilience x Health and care in the community                                     | By enhancing occupant well-being and prioritizing air quality, the initiative builds resilience in the workplace against health crises, demonstrating adaptability to changing environmental conditions.                           |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project aims to optimize energy efficiency and improve air quality through data collection and analysis, contributing to the preservation of the environment within urban contexts.                                            |
+| Attractiveness x Innovation, creativity and research                              | The initiative focuses on integrating cutting-edge technologies like IoT and digital twins, showcasing innovation and driving the attractiveness of the workplace as a hub for progress and research in smart building management. |
 
-# Executive summary## Ethos Engineering Living Lab Digital Twin
+# Executive summary
+
+## Ethos Engineering Living Lab Digital Twin
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

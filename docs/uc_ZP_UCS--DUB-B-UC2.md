@@ -10,11 +10,11 @@ nav_order: 40
 
 # Related use cases found online
 
-* [Cleanwatts Living Lab: AI-powered Renewable Energy Communities](activities_ZP_UCS--DUB-B-UC2_1.md)
-* [IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale](activities_ZP_UCS--DUB-B-UC2_3.md)
-* [Open Thor Living Lab](activities_ZP_UCS--DUB-B-UC2_2.md)
-* [SSE Airtricity Living Lab (EU DREAM Project)](activities_ZP_UCS--DUB-B-UC2_5.md)
 * [Tallaght SmartGrid Testbed](activities_ZP_UCS--DUB-B-UC2_4.md)
+* [IREN Living Lab: Energy Flexibility and Interoperability at the Residential Scale](activities_ZP_UCS--DUB-B-UC2_3.md)
+* [SSE Airtricity Living Lab (EU DREAM Project)](activities_ZP_UCS--DUB-B-UC2_5.md)
+* [Cleanwatts Living Lab: AI-powered Renewable Energy Communities](activities_ZP_UCS--DUB-B-UC2_1.md)
+* [Open Thor Living Lab](activities_ZP_UCS--DUB-B-UC2_2.md)
 
 
 # Original text

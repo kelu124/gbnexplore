@@ -3,7 +3,7 @@ layout: default
 title: "POCITYF – Positive Energy Blocks Digital Platform"
 parent: ZPUCSBRUBUC1
 has_children: true
-nav_order: 200
+nav_order: 195
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 200
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                       |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Well-being x Health and care in the community                                     | By improving the energy efficiency of buildings and providing access to renewable energy, the project contributes to residents' well-being. Enhanced living conditions and community engagement initiatives directly support physical and mental health.                                                            |
 | Social cohesion x Governance, empowerment and engagement                          | POCITYF emphasizes community engagement, creating transparent structures and inviting participation in decision-making processes. This approach empowers residents and fosters a stronger sense of community.                                                                                                       |
-| Social cohesion x Living together, interdependence and mutuality                  | POCITYF fosters social cohesion through community engagement strategies that empower residents. Participatory design processes ensure that diverse voices are included, promoting a culture of shared responsibility and interdependence.                                                                           |
 | Resilience x Safety and security                                                  | The integration of smart technologies improves not just energy resilience but also enhances safety measures within the community. By monitoring energy consumption and providing efficient public services, the project contributes to a safer urban environment.                                                   |
-| Attractiveness x Culture and community identity                                   | POCITYF enhances the attractiveness of Évora by integrating advanced technologies and innovative solutions that respect its UNESCO World Heritage status. It fosters a sense of community identity through the implementation of culturally compatible infrastructure, promoting both social bonds and local pride. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on preserving the historic and environmental characteristics of Évora while introducing renewable energy solutions. By employing non-invasive technologies like invisible solar tiles, it aims to enhance urban biodiversity and support ecosystem services.                                 |
-| Resilience x Innovation, creativity and research                                  | POCITYF promotes resilience through the adoption of technological innovations, enabling real-time monitoring and optimization of energy systems. This capacity to adapt to changing demands enhances the community's ability to face environmental and economic challenges.                                         |
-| Responsible resource use x Economy and sustainable production and consumption     | The project implements sustainable energy management practices, focusing on reducing carbon emissions and optimizing resource use. Furthermore, the peer-to-peer energy trading model creates local economic opportunities and promotes responsible consumption patterns among residents.                           |
 | Preservation and improvement of environment x Living and working environment      | The project's emphasis on renewable energy and innovative retrofitting preserves Évora’s environmental integrity while enhancing the overall urban environment. This balance helps in maintaining the city's historical character while promoting sustainability.                                                   |
 | Attractiveness x Living and working environment                                   | The creation of positive energy blocks improves the working and living environment in Évora. Enhanced infrastructure and amenities not only attract residents and businesses but also promote a vibrant local economy.                                                                                              |
+| Well-being x Health and care in the community                                     | By improving the energy efficiency of buildings and providing access to renewable energy, the project contributes to residents' well-being. Enhanced living conditions and community engagement initiatives directly support physical and mental health.                                                            |
+| Social cohesion x Living together, interdependence and mutuality                  | POCITYF fosters social cohesion through community engagement strategies that empower residents. Participatory design processes ensure that diverse voices are included, promoting a culture of shared responsibility and interdependence.                                                                           |
+| Responsible resource use x Economy and sustainable production and consumption     | The project implements sustainable energy management practices, focusing on reducing carbon emissions and optimizing resource use. Furthermore, the peer-to-peer energy trading model creates local economic opportunities and promotes responsible consumption patterns among residents.                           |
+| Resilience x Innovation, creativity and research                                  | POCITYF promotes resilience through the adoption of technological innovations, enabling real-time monitoring and optimization of energy systems. This capacity to adapt to changing demands enhances the community's ability to face environmental and economic challenges.                                         |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on preserving the historic and environmental characteristics of Évora while introducing renewable energy solutions. By employing non-invasive technologies like invisible solar tiles, it aims to enhance urban biodiversity and support ecosystem services.                                 |
+| Attractiveness x Culture and community identity                                   | POCITYF enhances the attractiveness of Évora by integrating advanced technologies and innovative solutions that respect its UNESCO World Heritage status. It fosters a sense of community identity through the implementation of culturally compatible infrastructure, promoting both social bonds and local pride. |
 
-# Executive summary## POCITYF – Positive Energy Blocks Digital Platform
+# Executive summary
+
+## POCITYF – Positive Energy Blocks Digital Platform
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

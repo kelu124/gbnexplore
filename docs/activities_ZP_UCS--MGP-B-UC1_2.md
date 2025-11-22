@@ -3,7 +3,7 @@ layout: default
 title: "Høje Taastrup 4th Generation District Heating Network (4GDH)"
 parent: ZPUCSMGPBUC1
 has_children: true
-nav_order: 68
+nav_order: 71
 ---
 
 
@@ -11,18 +11,20 @@ nav_order: 68
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                         |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                         |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resilience x Education and capacity building                                      | The project promotes education and capacity building through its objectives and outcomes, supporting the community's understanding of sustainable practices and resilience to climate change.                                                                         |
 | Attractiveness x Economy and sustainable production and consumption               | The project enhances the attractiveness of Høje Taastrup by demonstrating a commitment to sustainable production and consumption through a district heating system that integrates renewable energy sources, providing reliable and lower-cost heating for residents. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on preserving and improving environmental conditions through the integration of large-scale solar thermal energy, which reduces reliance on fossil fuels, thereby supporting biodiversity and ecosystem services.                              |
-| Well-being x Health and care in the community                                     | The transition to a sustainable and efficient district heating system contributes to residents' well-being by lowering heating costs, improving air quality, and promoting healthy living conditions.                                                                 |
-| Social cohesion x Culture and community identity                                  | By engaging residents and incorporating local characteristics into the project, it strengthens community identity and culture while promoting sustainable development.                                                                                                |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social cohesion by enhancing community engagement through participatory planning and ensuring equitable access to energy resources for all residents, strengthening interdependencies.                                                         |
-| Attractiveness x Safety and security                                              | The initiative's enhanced infrastructure and reliable energy supply can improve the quality of life and perceived safety in the community, attracting more residents and businesses.                                                                                  |
-| Resilience x Education and capacity building                                      | The project promotes education and capacity building through its objectives and outcomes, supporting the community's understanding of sustainable practices and resilience to climate change.                                                                         |
 | Resilience x Living and working environment                                       | By retrofitting the district heating network to incorporate low-temperature operations and seasonal thermal storage, the project enhances the resilience of the energy supply and overall living environment in Høje Taastrup.                                        |
+| Well-being x Health and care in the community                                     | The transition to a sustainable and efficient district heating system contributes to residents' well-being by lowering heating costs, improving air quality, and promoting healthy living conditions.                                                                 |
+| Attractiveness x Safety and security                                              | The initiative's enhanced infrastructure and reliable energy supply can improve the quality of life and perceived safety in the community, attracting more residents and businesses.                                                                                  |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social cohesion by enhancing community engagement through participatory planning and ensuring equitable access to energy resources for all residents, strengthening interdependencies.                                                         |
+| Social cohesion x Culture and community identity                                  | By engaging residents and incorporating local characteristics into the project, it strengthens community identity and culture while promoting sustainable development.                                                                                                |
 
-# Executive summary## Høje Taastrup 4th Generation District Heating Network (4GDH)
+# Executive summary
+
+## Høje Taastrup 4th Generation District Heating Network (4GDH)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

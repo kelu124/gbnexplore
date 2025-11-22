@@ -10,11 +10,11 @@ nav_order: 41
 
 # Related use cases found online
 
-* [Zuidas Smart Mobility and EV Parking Management](activities_ZP_UCS--DUB-B-UC1_1.md)
-* [Lyon Confluence Smart Mobility and Energy District](activities_ZP_UCS--DUB-B-UC1_3.md)
-* [Sharing Cities: Smart Parking and e-Mobility Pilot (Horizon 2020 Project)](activities_ZP_UCS--DUB-B-UC1_5.md)
 * [eParkomat EV and Smart Parking System](activities_ZP_UCS--DUB-B-UC1_2.md)
+* [Lyon Confluence Smart Mobility and Energy District](activities_ZP_UCS--DUB-B-UC1_3.md)
+* [Zuidas Smart Mobility and EV Parking Management](activities_ZP_UCS--DUB-B-UC1_1.md)
 * [REMOURBAN: REgeneration MOdel for smart URBAN transformation (Nottingham Demonstrator)](activities_ZP_UCS--DUB-B-UC1_4.md)
+* [Sharing Cities: Smart Parking and e-Mobility Pilot (Horizon 2020 Project)](activities_ZP_UCS--DUB-B-UC1_5.md)
 
 
 # Original text

@@ -3,7 +3,7 @@ layout: default
 title: "Green Hub House – Urban Climate Living Lab"
 parent: ZPUCSAARBUC1
 has_children: true
-nav_order: 220
+nav_order: 212
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 220
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                      |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative’s design incorporates green infrastructure measures that enhance local biodiversity and ecosystem services, contributing to a healthier urban environment.                                                                                                                          |
-| Resilience x Innovation, creativity and research                                  | By utilizing cutting-edge technology such as digital twin integration and adaptive management systems, the initiative showcases innovative approaches to urban living that enhance resilience.                                                                                                     |
-| Responsible resource use x Economy and sustainable production and consumption     | The integration of digital management tools aims to optimize resource consumption and promote sustainable practices within the community, impacting both environmental sustainability and economic efficiencies.                                                                                   |
-| Attractiveness x Living and working environment                                   | The Green Hub House initiative illustrates a remarkable model of urban living focusing on mixed-use facilities that enhance residential and commercial opportunities. The project's design aims to create a vibrant community atmosphere, which is essential for drawing residents and businesses. |
-| Social cohesion x Living together, interdependence and mutuality                  | The project fosters collaborative lifestyles through shared communal spaces, supporting interdependence and mutual benefits within the community.                                                                                                                                                  |
 | Resilience x Governance, empowerment and engagement                               | Green Hub House aims to foster social cohesion and cooperative management among residents, empowering them to engage in decision-making processes around resource use, thereby enhancing community resilience.                                                                                     |
-| Preservation and improvement of environment x Health and care in the community    | The project implements multiple sustainable practices aimed at reducing energy and water consumption while enhancing building management through the integration of smart systems. This focus on environmental health is vital in urban contexts.                                                  |
+| Responsible resource use x Economy and sustainable production and consumption     | The integration of digital management tools aims to optimize resource consumption and promote sustainable practices within the community, impacting both environmental sustainability and economic efficiencies.                                                                                   |
 | Social cohesion x Culture and community identity                                  | The initiative promotes stronger social ties and community identity through shared amenities and a focus on resident engagement, addressing the need for social integration in urban areas.                                                                                                        |
 | Well-being x Education and capacity building                                      | The emphasis on communal resource-sharing platforms demonstrates a commitment to resident well-being, enhancing overall quality of life through educational and capacity-building aspects of sustainable living.                                                                                   |
 | Attractiveness x Mobility                                                         | Copenhagen's urban plan integrates extensive cycling infrastructure and mass transit access, making it an attractive location for residents who value sustainable mobility.                                                                                                                        |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative’s design incorporates green infrastructure measures that enhance local biodiversity and ecosystem services, contributing to a healthier urban environment.                                                                                                                          |
+| Resilience x Innovation, creativity and research                                  | By utilizing cutting-edge technology such as digital twin integration and adaptive management systems, the initiative showcases innovative approaches to urban living that enhance resilience.                                                                                                     |
+| Social cohesion x Living together, interdependence and mutuality                  | The project fosters collaborative lifestyles through shared communal spaces, supporting interdependence and mutual benefits within the community.                                                                                                                                                  |
+| Preservation and improvement of environment x Health and care in the community    | The project implements multiple sustainable practices aimed at reducing energy and water consumption while enhancing building management through the integration of smart systems. This focus on environmental health is vital in urban contexts.                                                  |
+| Attractiveness x Living and working environment                                   | The Green Hub House initiative illustrates a remarkable model of urban living focusing on mixed-use facilities that enhance residential and commercial opportunities. The project's design aims to create a vibrant community atmosphere, which is essential for drawing residents and businesses. |
 
-# Executive summary## Green Hub House – Urban Climate Living Lab
+# Executive summary
+
+## Green Hub House – Urban Climate Living Lab
 
 ### I. INITIATIVE OVERVIEW AND IDENTIFICATION
 

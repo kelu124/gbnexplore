@@ -3,7 +3,7 @@ layout: default
 title: "AARhus by BIG – Green Courtyard Residential Complex"
 parent: ZPUCSAARAUC1
 has_children: true
-nav_order: 238
+nav_order: 233
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 238
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                              |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                              |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project features a central green courtyard that supports urban biodiversity, integrates green roofs, and emphasizes stormwater management. This is crucial for improving local ecosystems and ensuring the sustainability of urban wildlife.                                           |
+| Social cohesion x Education and capacity building                                 | The creation of spaces for communal gatherings and educational activities promotes community engagement and capacity building among residents, essential for fostering a knowledgeable and inclusive neighborhood.                                                                         |
 | Resilience x Governance, empowerment and engagement                               | The project involves participatory design approaches that engage local stakeholders, ensuring the community's needs are met while enhancing resilience to potential socio-environmental stresses.                                                                                          |
-| Preservation and improvement of environment x Community smart infrastructures     | AARhus boasts advanced infrastructure including efficient stormwater management and recycling through innovative building designs and communal facilities, emphasizing sustainable urban development.                                                                                      |
 | Attractiveness x Economy and sustainable production and consumption               | The inclusion of commercial units in AARhus contributes to the local economy while boosting attractiveness and viability of the neighborhood, providing jobs and amenities for residents and visitors alike.                                                                               |
+| Preservation and improvement of environment x Community smart infrastructures     | AARhus boasts advanced infrastructure including efficient stormwater management and recycling through innovative building designs and communal facilities, emphasizing sustainable urban development.                                                                                      |
+| Attractiveness x Culture and community identity                                   | The AARhus project emphasizes the creation of a vibrant community space that integrates various residential typologies and communal areas. This attracts various residents, enhances cultural richness, and supports local identity through shared experiences and community interactions. |
 | Well-being x Health and care in the community                                     | The project prioritizes resident well-being by integrating communal amenities and green spaces that promote physical and mental health. Access to these spaces enhances the quality of life for the community within AARhus.                                                               |
 | Social cohesion x Living together, interdependence and mutuality                  | AARhus encourages social sustainability through shared gardens and communal gathering spaces that foster interaction among residents. This design strategy promotes a sense of belonging and community integration, necessary for social cohesion.                                         |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project features a central green courtyard that supports urban biodiversity, integrates green roofs, and emphasizes stormwater management. This is crucial for improving local ecosystems and ensuring the sustainability of urban wildlife.                                           |
 | Responsible resource use x Economy and sustainable production and consumption     | The project showcases innovative building practices that focus on resource efficiency, including the use of green roofs and communal spaces. These features promote circular economy principles within the urban environment, reflecting responsible resource management.                  |
-| Social cohesion x Education and capacity building                                 | The creation of spaces for communal gatherings and educational activities promotes community engagement and capacity building among residents, essential for fostering a knowledgeable and inclusive neighborhood.                                                                         |
-| Attractiveness x Culture and community identity                                   | The AARhus project emphasizes the creation of a vibrant community space that integrates various residential typologies and communal areas. This attracts various residents, enhances cultural richness, and supports local identity through shared experiences and community interactions. |
 
-# Executive summary## AARhus by BIG – Green Courtyard Residential Complex
+# Executive summary
+
+## AARhus by BIG – Green Courtyard Residential Complex
 
 ---
 

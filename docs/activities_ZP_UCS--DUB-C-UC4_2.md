@@ -3,7 +3,7 @@ layout: default
 title: "Aarhus Smart Building Elevator Usage Analytics"
 parent: ZPUCSDUBCUC4
 has_children: true
-nav_order: 124
+nav_order: 119
 ---
 
 
@@ -11,18 +11,20 @@ nav_order: 124
 
 # Evaluation
 
-| col1                                                                                             | Justification                                                                                                                                                                                                                                                                                                                                 |
+| Purpose / Issue                                                                                  | Justification                                                                                                                                                                                                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Culture and community identity                                                  | The initiative contributes to Aarhus' cultural identity as a smart city by translating technological advances into community engagement. By opting for sustainable solutions that are culturally relevant, it promotes pride and identity among residents.                                                                                    |
+| Attractiveness x Living and working environment                                                  | The initiative enhances the appeal of the building environment by optimizing elevators, which significantly contributes to the quality of life for residents. By ensuring reliable and efficient elevator systems, it promotes a better living and working experience, aligning with Aarhus’ goal to position itself as a leading smart city. |
+| Preservation and improvement of environment x Economy and sustainable production and consumption | The project focuses on reducing unnecessary energy consumption from elevators, directly addressing carbon emissions and sustainable energy use. By implementing innovative technology and analytics, it promotes sustainable practices which are essential for the economic and environmental sustainability of the city.                     |
 | Responsible resource use x Living and working environment                                        | By optimizing elevator usage and reducing energy waste, the initiative promotes responsible resource use within the building environment. This sustainable approach ensures that resources are managed efficiently, addressing both immediate and long-term consumption patterns in line with community goals.                                |
 | Social cohesion x Living together, interdependence and mutuality                                 | The initiative encourages residents to engage with sustainable practices through behavioral nudges such as stair usage prompts. This fosters a sense of community and mutual support by integrating sustainability into daily life, enhancing social interaction among residents.                                                             |
 | Well-being x Health and care in the community                                                    | Promoting the use of stairs through visual prompts contributes to physical activity and well-being among residents. Such interventions not only enhance physical health but also improve mental well-being by fostering a sense of community and participation in sustainable practices.                                                      |
+| Attractiveness x Culture and community identity                                                  | The initiative contributes to Aarhus' cultural identity as a smart city by translating technological advances into community engagement. By opting for sustainable solutions that are culturally relevant, it promotes pride and identity among residents.                                                                                    |
 | Social cohesion x Education and capacity building                                                | The initiative promotes awareness and education among residents about energy consumption and sustainability, fostering an educated community that is engaged in green practices and capable of sustaining these behaviors.                                                                                                                    |
 | Resilience x Governance, empowerment and engagement                                              | By involving residents in the operational process and decision-making around elevator usage and sustainability, the initiative promotes effective governance and community engagement, which are vital for building resilience in urban settings.                                                                                             |
-| Attractiveness x Living and working environment                                                  | The initiative enhances the appeal of the building environment by optimizing elevators, which significantly contributes to the quality of life for residents. By ensuring reliable and efficient elevator systems, it promotes a better living and working experience, aligning with Aarhus’ goal to position itself as a leading smart city. |
-| Preservation and improvement of environment x Economy and sustainable production and consumption | The project focuses on reducing unnecessary energy consumption from elevators, directly addressing carbon emissions and sustainable energy use. By implementing innovative technology and analytics, it promotes sustainable practices which are essential for the economic and environmental sustainability of the city.                     |
 
-# Executive summary## Aarhus Smart Building Elevator Usage Analytics
+# Executive summary
+
+## Aarhus Smart Building Elevator Usage Analytics
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

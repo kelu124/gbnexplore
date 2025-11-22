@@ -10,11 +10,11 @@ nav_order: 44
 
 # Related use cases found online
 
-* [Seestadt Aspern Smart City Digital Twin](activities_ZP_UCS--DUB-A-UC2_2.md)
-* [Amsterdam Smart Building Digital Twin (SRI Pilot)](activities_ZP_UCS--DUB-A-UC2_1.md)
 * [SmartEnCity: Integrated Smart Solutions for Urban Regeneration](activities_ZP_UCS--DUB-A-UC2_4.md)
-* [Mapping Green Dublin](activities_ZP_UCS--DUB-A-UC2_3.md)
 * [Sharing Cities: Smart City Digital Twin for Neighborhood Sustainability](activities_ZP_UCS--DUB-A-UC2_5.md)
+* [Amsterdam Smart Building Digital Twin (SRI Pilot)](activities_ZP_UCS--DUB-A-UC2_1.md)
+* [Mapping Green Dublin](activities_ZP_UCS--DUB-A-UC2_3.md)
+* [Seestadt Aspern Smart City Digital Twin](activities_ZP_UCS--DUB-A-UC2_2.md)
 
 
 # Original text

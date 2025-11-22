@@ -10,11 +10,11 @@ nav_order: 57
 
 # Related use cases found online
 
-* [Lisbjerg Sustainable Housing Development](activities_ZP_UCS--AAR-A-UC2_2.md)
-* [Circle House – Denmark’s First Circular Social Housing Project](activities_ZP_UCS--AAR-A-UC2_1.md)
-* [CO-SHAPE: Co-Shaping Areas in Peri-Urban Environments](activities_ZP_UCS--AAR-A-UC2_5.md)
 * [The Dome – Green Community House (Domen)](activities_ZP_UCS--AAR-A-UC2_4.md)
 * [BIPED – Building Intelligent Positive Energy Districts](activities_ZP_UCS--AAR-A-UC2_3.md)
+* [CO-SHAPE: Co-Shaping Areas in Peri-Urban Environments](activities_ZP_UCS--AAR-A-UC2_5.md)
+* [Lisbjerg Sustainable Housing Development](activities_ZP_UCS--AAR-A-UC2_2.md)
+* [Circle House – Denmark’s First Circular Social Housing Project](activities_ZP_UCS--AAR-A-UC2_1.md)
 
 
 # Original text

@@ -10,11 +10,11 @@ nav_order: 51
 
 # Related use cases found online
 
-* [Aspern Smart City Research (ASCR)](activities_ZP_UCS--BRU-A-UC3_3.md)
-* [Amsterdam Smart Energy Neighborhoods (ATELIER Project)](activities_ZP_UCS--BRU-A-UC3_4.md)
-* [Lyon Confluence Smart Neighborhood (Smarter Together)](activities_ZP_UCS--BRU-A-UC3_5.md)
-* [Smart Kalasatama District](activities_ZP_UCS--BRU-A-UC3_2.md)
 * [Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels](activities_ZP_UCS--BRU-A-UC3_1.md)
+* [Smart Kalasatama District](activities_ZP_UCS--BRU-A-UC3_2.md)
+* [Amsterdam Smart Energy Neighborhoods (ATELIER Project)](activities_ZP_UCS--BRU-A-UC3_4.md)
+* [Aspern Smart City Research (ASCR)](activities_ZP_UCS--BRU-A-UC3_3.md)
+* [Lyon Confluence Smart Neighborhood (Smarter Together)](activities_ZP_UCS--BRU-A-UC3_5.md)
 
 
 # Original text

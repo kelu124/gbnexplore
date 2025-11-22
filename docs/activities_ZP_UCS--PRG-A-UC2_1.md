@@ -3,7 +3,7 @@ layout: default
 title: "Smart Energy Management at De Ceuvel"
 parent: ZPUCSPRGAUC2
 has_children: true
-nav_order: 36
+nav_order: 35
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 36
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                        |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                        |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Resilience x Education and capacity building                                      | The initiative serves as an educational hub, providing workshops and tours that empower community members to engage in sustainability practices. These efforts build local capacity and enhance overall resilience.                                                                                                  |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative employs phytoremediation to address soil contamination while enhancing biodiversity through strategic landscaping and the introduction of native plant species. This creates a healthier ecosystem while also showcasing environmental stewardship.                                                   |
+| Responsible resource use x Living and working environment                         | The project effectively transforms a derelict industrial area into a vibrant working environment through the use of upcycled materials and sustainable practices, showcasing responsible resource management at the neighborhood level.                                                                              |
 | Preservation and improvement of environment x Community smart infrastructures     | De Ceuvel features smart energy management solutions, including IoT sensors and a digital dashboard that monitor energy use and optimize resource management. This infrastructure represents a commitment to modernity and sustainability.                                                                           |
 | Attractiveness x Economy and sustainable production and consumption               | By creating affordable workspaces and attracting local businesses, De Ceuvel stimulates economic diversity and vibrancy. The integration of sustainability with business development enhances the area's overall attractiveness.                                                                                     |
 | Well-being x Health and care in the community                                     | The project enhances community well-being by providing green spaces and promoting healthy lifestyles through educational programs on sustainability. Accessibility to a community café and urban gardens supports physical health and social interactions.                                                           |
 | Social cohesion x Living together, interdependence and mutuality                  | De Ceuvel fosters social cohesion by encouraging collaboration among tenants and organizing community events. Its participatory governance model ensures that diverse voices are heard, promoting inclusivity and mutual support among residents and businesses.                                                     |
-| Responsible resource use x Living and working environment                         | The project effectively transforms a derelict industrial area into a vibrant working environment through the use of upcycled materials and sustainable practices, showcasing responsible resource management at the neighborhood level.                                                                              |
-| Resilience x Safety and security                                                  | De Ceuvel demonstrates resilience through its adaptive reuse of contaminated land and its focus on sustainable practices. By creating a community hub that supports local businesses, it enhances the neighborhood's capacity to withstand economic shocks and social changes.                                       |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative employs phytoremediation to address soil contamination while enhancing biodiversity through strategic landscaping and the introduction of native plant species. This creates a healthier ecosystem while also showcasing environmental stewardship.                                                   |
 | Responsible resource use x Economy and sustainable production and consumption     | The project embodies responsible resource use by implementing closed-loop systems for energy, water, and waste. Through initiatives like solar energy utilization and rainwater harvesting, it promotes sustainable consumption and engages the community in resource management.                                    |
+| Resilience x Safety and security                                                  | De Ceuvel demonstrates resilience through its adaptive reuse of contaminated land and its focus on sustainable practices. By creating a community hub that supports local businesses, it enhances the neighborhood's capacity to withstand economic shocks and social changes.                                       |
 | Attractiveness x Culture and community identity                                   | The De Ceuvel project transforms a previously industrial and polluted area into a hub for creative businesses, enhancing its cultural richness and sense of community. By incorporating the heritage of houseboats and engaging local artists, it fosters a unique identity that draws residents and visitors alike. |
 
-# Executive summary## Smart Energy Management at De Ceuvel
+# Executive summary
+
+## Smart Energy Management at De Ceuvel
 
 ---
 

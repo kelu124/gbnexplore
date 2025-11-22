@@ -3,7 +3,7 @@ layout: default
 title: "oPEN Lab – Positive Energy Neighbourhoods in Tartu"
 parent: ZPUCSMDCDUC1
 has_children: true
-nav_order: 77
+nav_order: 75
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 77
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                     |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                     |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The oPEN Lab project aims to create a Positive Energy Neighbourhood that combines energy retrofits with community engagement, promoting economic diversity and responsible consumption while improving overall attractiveness through enhanced living conditions. |
-| Social cohesion x Culture and community identity                                  | The project emphasizes participatory design and social innovation, fostering a sense of belonging among residents, enhancing community identity, and preserving local culture through co-created public art.                                                      |
-| Responsible resource use x Living and working environment                         | By implementing deep retrofits and renewable energy systems, the project promotes sustainable resource management, reducing energy demand and improving living conditions.                                                                                        |
 | Responsible resource use x Mobility                                               | The initiative addresses mobility issues by creating more accessible public spaces and promoting sustainable transport options, thus enhancing responsible resource use within the neighbourhood.                                                                 |
-| Resilience x Health and care in the community                                     | The project’s comprehensive approach aims to empower residents, address energy poverty, and enhance urban quality of life, ensuring long-term resilience in health and social well-being.                                                                         |
-| Attractiveness x Community smart infrastructures                                  | The project integrates smart energy management systems and public space upgrades, making the neighbourhood more attractive for residents and visitors alike.                                                                                                      |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on environmental improvements by integrating renewable energy sources, enhancing energy efficiency, and offering better air quality, which collectively contribute to preserving and improving the local environment.                      |
 | Resilience x Governance, empowerment and engagement                               | The initiative actively involves residents in decision-making, fostering a governance model that enhances community engagement and resilience to changes.                                                                                                         |
-| Preservation and improvement of environment x Safety and security                 | The project aims to improve the environmental quality of the neighbourhood, indirectly contributing to safety and security through better infrastructure and community cohesion.                                                                                  |
 | Well-being x Education and capacity building                                      | The initiative focuses on improving living conditions, promoting physical and mental health, and empowering residents through educational programs and engagement, thereby enhancing overall well-being.                                                          |
+| Attractiveness x Community smart infrastructures                                  | The project integrates smart energy management systems and public space upgrades, making the neighbourhood more attractive for residents and visitors alike.                                                                                                      |
+| Preservation and improvement of environment x Safety and security                 | The project aims to improve the environmental quality of the neighbourhood, indirectly contributing to safety and security through better infrastructure and community cohesion.                                                                                  |
+| Social cohesion x Culture and community identity                                  | The project emphasizes participatory design and social innovation, fostering a sense of belonging among residents, enhancing community identity, and preserving local culture through co-created public art.                                                      |
+| Resilience x Health and care in the community                                     | The project’s comprehensive approach aims to empower residents, address energy poverty, and enhance urban quality of life, ensuring long-term resilience in health and social well-being.                                                                         |
+| Responsible resource use x Living and working environment                         | By implementing deep retrofits and renewable energy systems, the project promotes sustainable resource management, reducing energy demand and improving living conditions.                                                                                        |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on environmental improvements by integrating renewable energy sources, enhancing energy efficiency, and offering better air quality, which collectively contribute to preserving and improving the local environment.                      |
+| Attractiveness x Economy and sustainable production and consumption               | The oPEN Lab project aims to create a Positive Energy Neighbourhood that combines energy retrofits with community engagement, promoting economic diversity and responsible consumption while improving overall attractiveness through enhanced living conditions. |
 
-# Executive summary## oPEN Lab – Positive Energy Neighbourhoods in Tartu
+# Executive summary
+
+## oPEN Lab – Positive Energy Neighbourhoods in Tartu
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

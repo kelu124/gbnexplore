@@ -3,7 +3,7 @@ layout: default
 title: "Tallaght District Heating Using Data Center Waste Heat"
 parent: ZPUCSDUBAUC3
 has_children: true
-nav_order: 162
+nav_order: 159
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 162
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                             |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                             |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Well-being x Education and capacity building                                      | The initiative provides opportunities for education on sustainable practices and energy management, enabling community members to engage more effectively in local sustainability efforts.                                                                                |
+| Well-being x Community smart infrastructures                                      | The initiative enhances well-being by delivering reliable and efficient heating provision, improving the comfort and safety of public and residential buildings, thereby directly impacting the quality of life of residents.                                             |
+| Attractiveness x Culture and community identity                                   | By prioritizing community benefits and sustainability, the TDHS reinforces local identity while fostering a cultural connection through the promotion of innovative urban energy systems.                                                                                 |
+| Preservation and improvement of environment x Innovation, creativity and research | The use of innovative technologies like heat recovery pumps and smart controls exemplifies creative solutions to environmental challenges, paving the way for further advancements in sustainable energy practices.                                                       |
+| Resilience x Governance, empowerment and engagement                               | The project's governance framework encourages stakeholder involvement, providing transparent structures for participation and decision-making that strengthen community partnerships and collective resilience.                                                           |
 | Social cohesion x Living together, interdependence and mutuality                  | By providing affordable heating solutions to low-income residents and fostering community collaboration through stakeholder engagement, the initiative promotes social equity and strengthens community bonds.                                                            |
 | Responsible resource use x Biodiversity and ecosystem services                    | The TDHS promotes responsible use of local waste heat resources, aligning with ecological principles that seek to reduce overall energy demand, leading to lower emissions and fostering ecosystem resilience.                                                            |
-| Resilience x Governance, empowerment and engagement                               | The project's governance framework encourages stakeholder involvement, providing transparent structures for participation and decision-making that strengthen community partnerships and collective resilience.                                                           |
-| Attractiveness x Economy and sustainable production and consumption               | The TDHS will significantly contribute to the local economy by providing lower heating costs and attracting investment in renewable energy solutions. It supports sustainable local businesses by creating a reliable energy system for commercial and residential users. |
-| Attractiveness x Culture and community identity                                   | By prioritizing community benefits and sustainability, the TDHS reinforces local identity while fostering a cultural connection through the promotion of innovative urban energy systems.                                                                                 |
-| Well-being x Community smart infrastructures                                      | The initiative enhances well-being by delivering reliable and efficient heating provision, improving the comfort and safety of public and residential buildings, thereby directly impacting the quality of life of residents.                                             |
-| Preservation and improvement of environment x Health and care in the community    | The initiative aims to reduce carbon emissions and improve air quality through the adoption of low-carbon district heating, creating a healthier living environment for residents and ensuring equitable access to heating for all.                                       |
-| Preservation and improvement of environment x Innovation, creativity and research | The use of innovative technologies like heat recovery pumps and smart controls exemplifies creative solutions to environmental challenges, paving the way for further advancements in sustainable energy practices.                                                       |
 | Resilience x Safety and security                                                  | By diversifying energy sources and using waste heat, the project enhances energy resilience for Tallaght's buildings, ensuring reliable heating during extreme weather conditions and reducing exposure to energy market fluctuations.                                    |
+| Preservation and improvement of environment x Health and care in the community    | The initiative aims to reduce carbon emissions and improve air quality through the adoption of low-carbon district heating, creating a healthier living environment for residents and ensuring equitable access to heating for all.                                       |
+| Attractiveness x Economy and sustainable production and consumption               | The TDHS will significantly contribute to the local economy by providing lower heating costs and attracting investment in renewable energy solutions. It supports sustainable local businesses by creating a reliable energy system for commercial and residential users. |
 
-# Executive summary## Tallaght District Heating Using Data Center Waste Heat
+# Executive summary
+
+## Tallaght District Heating Using Data Center Waste Heat
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

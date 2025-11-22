@@ -10,12 +10,12 @@ nav_order: 29
 
 # Related use cases found online
 
+* [HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas](activities_ZP_UCS--MDC-A-UC1_2.md)
+* [Energy-Efficient Renovation in Orcasitas with EPS Insulation](activities_ZP_UCS--MDC-A-UC1_3.md)
+* [Casa Sophia: Automating Spain’s Most Eco-Friendly Home](activities_ZP_UCS--MDC-A-UC1_1.md)
 * [CityLoops – Circular Construction and Demolition Waste Management](activities_ZP_UCS--MDC-A-UC1_6.md)
 * [Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)](activities_ZP_UCS--MDC-A-UC1_5.md)
-* [Energy-Efficient Renovation in Orcasitas with EPS Insulation](activities_ZP_UCS--MDC-A-UC1_3.md)
 * [Staying Green: Madrid’s Urban Green Space Monitoring](activities_ZP_UCS--MDC-A-UC1_4.md)
-* [Casa Sophia: Automating Spain’s Most Eco-Friendly Home](activities_ZP_UCS--MDC-A-UC1_1.md)
-* [HABITA-RES: Energy Assessment and Refurbishment of Vulnerable Urban Areas](activities_ZP_UCS--MDC-A-UC1_2.md)
 
 
 # Original text

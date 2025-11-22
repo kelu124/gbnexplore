@@ -11,11 +11,11 @@ nav_order: 22
 # Related use cases found online
 
 * [3G to 5G District Heating and Cooling Networks (Horizon Europe)](activities_ZP_UCS--MGP-B-UC3_6.md)
-* [Móstoles Biomass District Heating Network](activities_ZP_UCS--MGP-B-UC3_2.md)
-* [Manchester Civic Quarter Heat Network (CQHN)](activities_ZP_UCS--MGP-B-UC3_3.md)
-* [UCM Complutense University District Heating Network Renovation](activities_ZP_UCS--MGP-B-UC3_4.md)
 * [Madrid Nuevo Norte Urban Geothermal Power Network](activities_ZP_UCS--MGP-B-UC3_1.md)
 * [THERMOS Project: District Heating & Cooling Planning Tools (Horizon 2020)](activities_ZP_UCS--MGP-B-UC3_5.md)
+* [UCM Complutense University District Heating Network Renovation](activities_ZP_UCS--MGP-B-UC3_4.md)
+* [Manchester Civic Quarter Heat Network (CQHN)](activities_ZP_UCS--MGP-B-UC3_3.md)
+* [Móstoles Biomass District Heating Network](activities_ZP_UCS--MGP-B-UC3_2.md)
 
 
 # Original text

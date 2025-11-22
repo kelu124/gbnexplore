@@ -3,7 +3,7 @@ layout: default
 title: "LIFE-myBUILDINGisGREEN  Falcão Primary School Green Roof Demonstration"
 parent: ZPUCSPTOBUC1
 has_children: true
-nav_order: 18
+nav_order: 16
 ---
 
 
@@ -11,18 +11,20 @@ nav_order: 18
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Living and working environment                                   | The transformation of Falcão Primary School into a multifunctional green space enhances the appeal of the neighborhood. By creating a vibrant and welcoming environment, the initiative encourages community engagement and attracts families and educational opportunities. |
-| Social cohesion x Governance, empowerment and engagement                          | The project fosters community engagement by involving students, staff, and local stakeholders in monitoring environmental performance and facilitating educational programs, which builds social ties and community identity.                                                |
 | Well-being x Health and care in the community                                     | By improving indoor environmental quality and comfort, the project contributes significantly to the well-being of students and staff, promoting a healthier learning environment.                                                                                            |
-| Responsible resource use x Economy and sustainable production and consumption     | By reducing operational costs and promoting sustainability practices within the school, the initiative supports economic diversity and responsible production behaviors in the community.                                                                                    |
-| Attractiveness x Culture and community identity                                   | The green roof serves not only as a functional asset but also as a cultural landmark that reflects the community’s values towards sustainability and innovation, enhancing local identity.                                                                                   |
-| Preservation and improvement of environment x Safety and security                 | The design of the green roof and surrounding areas contributes to overall safety and security by improving visibility and creating cleaner spaces, which can deter vandalism and foster community use.                                                                       |
-| Resilience x Innovation, creativity and research                                  | The project serves as a living laboratory for innovative environmental education, utilizing cutting-edge green technologies and engaging the community in research and monitoring activities.                                                                                |
+| Social cohesion x Governance, empowerment and engagement                          | The project fosters community engagement by involving students, staff, and local stakeholders in monitoring environmental performance and facilitating educational programs, which builds social ties and community identity.                                                |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative enhances biodiversity by integrating green roofs and vegetated façades with native plants, contributing to the local ecosystem and providing habitats for various species. This active stewardship improves the ecological footprint of the school.           |
+| Attractiveness x Living and working environment                                   | The transformation of Falcão Primary School into a multifunctional green space enhances the appeal of the neighborhood. By creating a vibrant and welcoming environment, the initiative encourages community engagement and attracts families and educational opportunities. |
+| Preservation and improvement of environment x Safety and security                 | The design of the green roof and surrounding areas contributes to overall safety and security by improving visibility and creating cleaner spaces, which can deter vandalism and foster community use.                                                                       |
+| Attractiveness x Culture and community identity                                   | The green roof serves not only as a functional asset but also as a cultural landmark that reflects the community’s values towards sustainability and innovation, enhancing local identity.                                                                                   |
+| Resilience x Innovation, creativity and research                                  | The project serves as a living laboratory for innovative environmental education, utilizing cutting-edge green technologies and engaging the community in research and monitoring activities.                                                                                |
+| Responsible resource use x Economy and sustainable production and consumption     | By reducing operational costs and promoting sustainability practices within the school, the initiative supports economic diversity and responsible production behaviors in the community.                                                                                    |
 
-# Executive summary## LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof Demonstration
+# Executive summary
+
+## LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof Demonstration
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

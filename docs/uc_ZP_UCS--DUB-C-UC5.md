@@ -10,11 +10,10 @@ nav_order: 34
 
 # Related use cases found online
 
-* [mySMARTLife: Urban Data Platform for Smart City Management](activities_ZP_UCS--DUB-C-UC5_5.md)
-* [```](activities_ZP_UCS--DUB-C-UC5_4.md)
 * [Trinity College Dublin Living Lab – Air Quality Monitoring](activities_ZP_UCS--DUB-C-UC5_2.md)
-* [I-CHANGE Milan Living Lab](activities_ZP_UCS--DUB-C-UC5_1.md)
 * [SCORE Coastal City Living Lab – Rotterdam](activities_ZP_UCS--DUB-C-UC5_3.md)
+* [mySMARTLife: Urban Data Platform for Smart City Management](activities_ZP_UCS--DUB-C-UC5_5.md)
+* [I-CHANGE Milan Living Lab](activities_ZP_UCS--DUB-C-UC5_1.md)
 
 
 # Original text

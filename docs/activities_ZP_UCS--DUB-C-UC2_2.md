@@ -3,7 +3,7 @@ layout: default
 title: "Ethos Engineering Living Lab"
 parent: ZPUCSDUBCUC2
 has_children: true
-nav_order: 133
+nav_order: 126
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 133
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                      |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Innovation, creativity and research                                  | The Living Lab exemplifies resilience in urban development through its innovative use of technology to adapt to climate and operational challenges while setting industry standards for sustainability.                                                                                                            |
-| Well-being x Safety and security                                                  | The initiative uses technology to track environmental conditions, which not only helps maintain a safe workspace but also addresses concerns about air quality and occupant comfort, indirectly enhancing their sense of security.                                                                                 |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative focuses on occupant engagement through the use of a mobile app for feedback and interaction, fostering community spirit among employees. This promotes collaboration and strengthens social bonds, which are essential for a cohesive workplace and community.                                      |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The Living Lab contributes to environmental sustainability by implementing energy-efficient technologies and optimizing resource usage, which helps reduce the carbon footprint and promotes ecological health within the urban environment.                                                                       |
 | Responsible resource use x Economy and sustainable production and consumption     | By focusing on real-time data and efficiency in resource management, the initiative exemplifies responsible resource use, reducing waste and promoting sustainable practices that can influence broader economic behavior.                                                                                         |
+| Resilience x Innovation, creativity and research                                  | The Living Lab exemplifies resilience in urban development through its innovative use of technology to adapt to climate and operational challenges while setting industry standards for sustainability.                                                                                                            |
 | Attractiveness x Living and working environment                                   | The transformation of the Ethos HQ into a Living Lab enhances the working environment significantly, making it more attractive for potential clients and employees due to its technological advancements and commitment to sustainability.                                                                         |
 | Social cohesion x Education and capacity building                                 | While not directly a focus of the Living Lab, the educational elements regarding occupants' interaction with its technologies facilitate a better understanding of sustainability and smart practices, indirectly contributing to community development.                                                           |
+| Well-being x Safety and security                                                  | The initiative uses technology to track environmental conditions, which not only helps maintain a safe workspace but also addresses concerns about air quality and occupant comfort, indirectly enhancing their sense of security.                                                                                 |
 | Preservation and improvement of environment x Mobility                            | By improving building performance and energy usage, the Living Lab contributes to the overall mobility of the environment, ensuring that sustainable practices are integral to local transportation and access.                                                                                                    |
 | Well-being x Health and care in the community                                     | Achieving the WELL Performance Rating reflects the initiative's dedication to occupant health, incorporating features that enhance physical and mental well-being. This aligns with the overall goal of creating healthy workspaces that support well-being.                                                       |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The Living Lab contributes to environmental sustainability by implementing energy-efficient technologies and optimizing resource usage, which helps reduce the carbon footprint and promotes ecological health within the urban environment.                                                                       |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative focuses on occupant engagement through the use of a mobile app for feedback and interaction, fostering community spirit among employees. This promotes collaboration and strengthens social bonds, which are essential for a cohesive workplace and community.                                      |
 | Attractiveness x Community smart infrastructures                                  | The Ethos Engineering Living Lab integrates IoT technologies that optimize building performance and enhance comfort for occupants. This not only attracts businesses to the area due to improved workplace conditions but also promotes a dynamic and appealing urban environment that is conducive to innovation. |
 
-# Executive summary## Ethos Engineering Living Lab
+# Executive summary
+
+## Ethos Engineering Living Lab
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

@@ -10,11 +10,11 @@ nav_order: 55
 
 # Related use cases found online
 
-* [oPEN Lab – Positive Energy Neighbourhoods in Tartu, Pamplona, and Genk](activities_ZP_UCS--AAR-A-UC4_4.md)
-* [CO-SHAPE Circular Energy Park & Governance Innovation](activities_ZP_UCS--AAR-A-UC4_1.md)
-* [Green Hub House – Experimental Urban and Climate-Friendly Community](activities_ZP_UCS--AAR-A-UC4_3.md)
-* [READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)](activities_ZP_UCS--AAR-A-UC4_2.md)
 * [ARV – Climate Positive Circular Communities](activities_ZP_UCS--AAR-A-UC4_5.md)
+* [READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)](activities_ZP_UCS--AAR-A-UC4_2.md)
+* [Green Hub House – Experimental Urban and Climate-Friendly Community](activities_ZP_UCS--AAR-A-UC4_3.md)
+* [CO-SHAPE Circular Energy Park & Governance Innovation](activities_ZP_UCS--AAR-A-UC4_1.md)
+* [oPEN Lab – Positive Energy Neighbourhoods in Tartu, Pamplona, and Genk](activities_ZP_UCS--AAR-A-UC4_4.md)
 
 
 # Original text

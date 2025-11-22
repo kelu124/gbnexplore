@@ -11,10 +11,10 @@ nav_order: 30
 # Related use cases found online
 
 * [Dockline A3 BER Retrofit](activities_ZP_UCS--DUB-D-UC4_2.md)
-* [EnergyVille Smart Building Living Lab](activities_ZP_UCS--DUB-D-UC4_3.md)
-* [mySMARTLife Urban Digital Platform](activities_ZP_UCS--DUB-D-UC4_4.md)
-* [SmartEnCity – Vitoria-Gasteiz Smart District](activities_ZP_UCS--DUB-D-UC4_1.md)
 * [IRIS Smart Cities – Positive Energy Districts](activities_ZP_UCS--DUB-D-UC4_5.md)
+* [EnergyVille Smart Building Living Lab](activities_ZP_UCS--DUB-D-UC4_3.md)
+* [SmartEnCity – Vitoria-Gasteiz Smart District](activities_ZP_UCS--DUB-D-UC4_1.md)
+* [mySMARTLife Urban Digital Platform](activities_ZP_UCS--DUB-D-UC4_4.md)
 
 
 # Original text

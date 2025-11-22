@@ -3,7 +3,7 @@ layout: default
 title: "Porto di Mare Eco-District (New European Bauhaus Project)"
 parent: ZPUCSPTOAUC1
 has_children: true
-nav_order: 28
+nav_order: 27
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 28
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                               |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Governance, empowerment and engagement                               | The participatory design approach involves community input and stakeholder engagement in decision-making, which is fundamental for building long-term resilience and empowerment.                                                                                           |
-| Well-being x Education and capacity building                                      | By providing high-quality housing and community facilities, the project will improve overall well-being and promote community education efforts to engage residents in sustainable practices.                                                                               |
-| Preservation and improvement of environment x Safety and security                 | By tackling environmental challenges such as poor air quality and promoting green spaces, the initiative aims to create a safer and more secure living environment for all residents.                                                                                       |
 | Resilience x Health and care in the community                                     | The project addresses social issues such as low income, segregation, and insecurity, enhancing the community's resilience through improved health and care services and access to amenities.                                                                                |
-| Attractiveness x Economy and sustainable production and consumption               | The Porto di Mare Eco-District aims to create a vibrant urban environment that attracts residents and businesses through innovative design and sustainable economic practices. Its focus on economic diversity and local production promotes a sense of place and identity. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative emphasizes environmental stewardship through integrated urban planning, which includes features such as green roofs and urban agriculture. This promotes biodiversity and ecosystem services, which are crucial for improving local environmental quality.   |
-| Attractiveness x Community smart infrastructures                                  | The integration of smart energy management and sustainable infrastructure enhances the attractiveness of the neighborhood, providing high-quality utilities and services that meet modern needs.                                                                            |
 | Responsible resource use x Living and working environment                         | A self-sufficient, net-zero energy district involves innovative resource management practices such as circular resource flows, ensuring responsible use of natural, human, and financial resources within the community.                                                    |
 | Social cohesion x Culture and community identity                                  | The initiative is designed with a focus on social inclusion and community engagement, fostering interactions among diverse demographic groups and preserving local cultural identity.                                                                                       |
+| Well-being x Education and capacity building                                      | By providing high-quality housing and community facilities, the project will improve overall well-being and promote community education efforts to engage residents in sustainable practices.                                                                               |
+| Attractiveness x Community smart infrastructures                                  | The integration of smart energy management and sustainable infrastructure enhances the attractiveness of the neighborhood, providing high-quality utilities and services that meet modern needs.                                                                            |
+| Preservation and improvement of environment x Safety and security                 | By tackling environmental challenges such as poor air quality and promoting green spaces, the initiative aims to create a safer and more secure living environment for all residents.                                                                                       |
+| Resilience x Governance, empowerment and engagement                               | The participatory design approach involves community input and stakeholder engagement in decision-making, which is fundamental for building long-term resilience and empowerment.                                                                                           |
 | Social cohesion x Living together, interdependence and mutuality                  | This project emphasizes developing collective lifestyles that promote mutual economic and social benefits. It aims to create a supportive community that fosters cooperation and shared responsibility.                                                                     |
+| Attractiveness x Economy and sustainable production and consumption               | The Porto di Mare Eco-District aims to create a vibrant urban environment that attracts residents and businesses through innovative design and sustainable economic practices. Its focus on economic diversity and local production promotes a sense of place and identity. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative emphasizes environmental stewardship through integrated urban planning, which includes features such as green roofs and urban agriculture. This promotes biodiversity and ecosystem services, which are crucial for improving local environmental quality.   |
 
-# Executive summary## Porto di Mare Eco-District (New European Bauhaus Project)
+# Executive summary
+
+## Porto di Mare Eco-District (New European Bauhaus Project)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

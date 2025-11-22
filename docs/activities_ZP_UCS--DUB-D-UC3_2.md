@@ -3,7 +3,7 @@ layout: default
 title: "Aspern Smart City Research (ASCR)"
 parent: ZPUCSDUBDUC3
 has_children: true
-nav_order: 103
+nav_order: 101
 ---
 
 
@@ -11,18 +11,20 @@ nav_order: 103
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                               |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Well-being x Health and care in the community                                     | The project enhances well-being by creating high-quality living conditions that prioritize environmental quality, resident comfort, and accessibility to services, which all contribute to improved health and quality of life.                                                                                             |
-| Preservation and improvement of environment x Innovation, creativity and research | The project site serves as a living lab, integrating innovative technologies and approaches to sustainability that contribute to the preservation and enhancement of the surrounding environment.                                                                                                                           |
-| Attractiveness x Mobility                                                         | The emphasis on high accessibility, quality public transit, and integrated utilities enhances mobility within the district, making it attractive for both residents and businesses.                                                                                                                                         |
+| Resilience x Economy and sustainable production and consumption                   | Resilient planning is achieved by creating scalable models for energy-efficient urban districts while addressing economic sustainability. The initiative focuses on creating innovative energy solutions that support local economies and promote job creation.                                                             |
 | Social cohesion x Living together, interdependence and mutuality                  | The design promotes social integration and community identity by fostering mixed-income, multi-generational spaces, thus encouraging diversity and community bonding.                                                                                                                                                       |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project incorporates sustainable design principles that foster the restoration and enhancement of biodiversity within the urban fabric. It focuses on integrating green spaces, maintaining ecological balance, and utilizing renewable energy sources to protect local ecosystems.                                     |
-| Resilience x Economy and sustainable production and consumption                   | Resilient planning is achieved by creating scalable models for energy-efficient urban districts while addressing economic sustainability. The initiative focuses on creating innovative energy solutions that support local economies and promote job creation.                                                             |
 | Attractiveness x Living and working environment                                   | Aspern Seestadt aims to create an attractive living and working environment by providing high-quality public spaces, integrated utilities, and a diverse mix of residential, commercial, and educational spaces. The emphasis on accessibility and amenities enhances its appeal and dynamism for residents and businesses. |
+| Well-being x Health and care in the community                                     | The project enhances well-being by creating high-quality living conditions that prioritize environmental quality, resident comfort, and accessibility to services, which all contribute to improved health and quality of life.                                                                                             |
+| Attractiveness x Mobility                                                         | The emphasis on high accessibility, quality public transit, and integrated utilities enhances mobility within the district, making it attractive for both residents and businesses.                                                                                                                                         |
+| Preservation and improvement of environment x Innovation, creativity and research | The project site serves as a living lab, integrating innovative technologies and approaches to sustainability that contribute to the preservation and enhancement of the surrounding environment.                                                                                                                           |
 | Resilience x Safety and security                                                  | By implementing smart technologies and systems, the initiative enhances both the physical and social resilience of the community to ensure safety and security, thereby improving residents' quality of life.                                                                                                               |
 
-# Executive summary## Aspern Smart City Research (ASCR)
+# Executive summary
+
+## Aspern Smart City Research (ASCR)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

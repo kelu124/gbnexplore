@@ -11,10 +11,10 @@ nav_order: 19
 # Related use cases found online
 
 * [Stockholm's Clean Vehicles Initiative](activities_ZP_UCS--MGP-C-UC3_1.md)
-* [Smarter Together – Smart Mobility Solutions](activities_ZP_UCS--MGP-C-UC3_2.md)
-* [GreenCharge – Incentivising Sustainable Urban Mobility](activities_ZP_UCS--MGP-C-UC3_4.md)
-* [CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization](activities_ZP_UCS--MGP-C-UC3_3.md)
 * [eHUBS – Smart Shared Mobility Hubs](activities_ZP_UCS--MGP-C-UC3_5.md)
+* [GreenCharge – Incentivising Sustainable Urban Mobility](activities_ZP_UCS--MGP-C-UC3_4.md)
+* [Smarter Together – Smart Mobility Solutions](activities_ZP_UCS--MGP-C-UC3_2.md)
+* [CIVITAS ECCENTRIC – Electric Vehicle Monitoring and Optimization](activities_ZP_UCS--MGP-C-UC3_3.md)
 
 
 # Original text

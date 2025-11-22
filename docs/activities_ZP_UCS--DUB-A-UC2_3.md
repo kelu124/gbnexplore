@@ -3,7 +3,7 @@ layout: default
 title: "Mapping Green Dublin"
 parent: ZPUCSDUBAUC2
 has_children: true
-nav_order: 169
+nav_order: 163
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 169
 
 # Evaluation
 
-| col1                                                                                 | Justification                                                                                                                                                                                                                                                                                                   |
+| Purpose / Issue                                                                      | Justification                                                                                                                                                                                                                                                                                                   |
 |:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Preservation and improvement of environment x Governance, empowerment and engagement | The project's community-driven approach empowers residents to actively engage in the planning and management of their environment, promoting sustainable practices and strong governance structures through collaborative decision-making.                                                                      |
+| Attractiveness x Culture and community identity                                      | The project enhances the cultural identity of Dublin 8 by incorporating community knowledge, historical elements, and artistic practices into the urban greening strategy. This culturally rich engagement attracts residents and businesses by fostering a sense of belonging and pride in the local identity. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project focuses on enhancing green infrastructure, leading to restoration and improvement of biodiversity in Dublin 8. By creating new parks and enhancing existing green spaces, it aims to reestablish local habitats and promote ecosystem services that contribute to ecological health.                |
 | Resilience x Community smart infrastructures                                         | Mapping Green Dublin aims to build resilience against climate change by improving green infrastructure that can manage stormwater and reduce urban heat island effect. The integration of smart solutions such as rain gardens improves the neighborhood's infrastructure to cope with environmental changes.   |
 | Responsible resource use x Economy and sustainable production and consumption        | The initiative aims to implement sustainable urban greening practices through community-managed gardens and parks, promoting local businesses and sustainable consumption patterns which enhance the local economy.                                                                                             |
 | Social cohesion x Living together, interdependence and mutuality                     | The initiative fosters social cohesion by encouraging community participation and collaboration through the establishment of the D8 Green Bridge Forum, which ensures that diverse community voices are heard and represented in the planning process.                                                          |
 | Well-being x Health and care in the community                                        | By creating more green spaces, the initiative directly impacts community well-being, providing residents with access to nature, improving mental health, and enhancing overall living conditions in Dublin 8.                                                                                                   |
 | Attractiveness x Living and working environment                                      | The project’s greening interventions improve the physical attractiveness and livability of Dublin 8, making it a more desirable place to live and work. Enhanced green spaces will likely attract businesses and residents, contributing to the economic vitality of the area.                                  |
 | Resilience x Safety and security                                                     | Green infrastructure improvements enhance neighborhood safety by creating well-lit, populated green spaces that deter crime and foster community interaction, thus contributing to the overall security of Dublin 8.                                                                                            |
-| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project focuses on enhancing green infrastructure, leading to restoration and improvement of biodiversity in Dublin 8. By creating new parks and enhancing existing green spaces, it aims to reestablish local habitats and promote ecosystem services that contribute to ecological health.                |
-| Attractiveness x Culture and community identity                                      | The project enhances the cultural identity of Dublin 8 by incorporating community knowledge, historical elements, and artistic practices into the urban greening strategy. This culturally rich engagement attracts residents and businesses by fostering a sense of belonging and pride in the local identity. |
 | Well-being x Innovation, creativity and research                                     | The integration of creativity, through artistic collaboration in planning, enhances the cultural and artistic appeal of the neighborhood while simultaneously encouraging community engagement and innovative problem-solving in urban greening.                                                                |
-| Preservation and improvement of environment x Governance, empowerment and engagement | The project's community-driven approach empowers residents to actively engage in the planning and management of their environment, promoting sustainable practices and strong governance structures through collaborative decision-making.                                                                      |
 
-# Executive summary## Mapping Green Dublin
+# Executive summary
+
+## Mapping Green Dublin
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

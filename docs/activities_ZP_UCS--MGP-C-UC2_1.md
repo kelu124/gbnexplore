@@ -3,7 +3,7 @@ layout: default
 title: "Smart EV Charging and District Energy Optimization in Buiksloterham"
 parent: ZPUCSMGPCUC2
 has_children: true
-nav_order: 51
+nav_order: 49
 ---
 
 
@@ -11,18 +11,20 @@ nav_order: 51
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                   |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                   |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The initiative aims to attract businesses and residents by transforming Buiksloterham into a circular, energy-positive neighborhood. With projected investments and a focus on sustainability, it promotes economic diversity and responsible consumption within the community. |
-| Attractiveness x Living together, interdependence and mutuality                   | By creating a mixed-use and engaging environment, the initiative fosters an ecosystem of collaboration and mutual support among residents, enhancing the attractiveness of the neighborhood.                                                                                    |
-| Social cohesion x Governance, empowerment and engagement                          | The project’s bottom-up approach actively involves residents in decision-making processes, promoting governance models that empower community members and encourage transparency.                                                                                               |
 | Preservation and improvement of environment x Safety and security                 | By transforming the area into a vibrant, well-maintained space with integrated community services, the initiative enhances safety and security for residents, making it a more attractive living environment.                                                                   |
+| Social cohesion x Governance, empowerment and engagement                          | The project’s bottom-up approach actively involves residents in decision-making processes, promoting governance models that empower community members and encourage transparency.                                                                                               |
+| Attractiveness x Living together, interdependence and mutuality                   | By creating a mixed-use and engaging environment, the initiative fosters an ecosystem of collaboration and mutual support among residents, enhancing the attractiveness of the neighborhood.                                                                                    |
 | Well-being x Health and care in the community                                     | Improvements in the living environment through green spaces and sustainable infrastructure positively impact physical and mental health, contributing to the overall well-being of residents.                                                                                   |
 | Social cohesion x Culture and community identity                                  | The project's participatory model fosters community engagement and inclusivity, enhancing social bonds and promoting cultural identity through co-designed spaces and shared facilities.                                                                                        |
 | Resilience x Living and working environment                                       | The project prepares the community for future challenges by creating a sustainable environment that combines living and working spaces with shared resources, thereby enhancing resilience against economic and environmental shocks.                                           |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative emphasizes environmental restoration by transforming a polluted brownfield into a vibrant community, improving air and water quality, and enhancing biodiversity through green spaces and sustainable practices.                                                 |
+| Attractiveness x Economy and sustainable production and consumption               | The initiative aims to attract businesses and residents by transforming Buiksloterham into a circular, energy-positive neighborhood. With projected investments and a focus on sustainability, it promotes economic diversity and responsible consumption within the community. |
 
-# Executive summary## Smart EV Charging and District Energy Optimization in Buiksloterham
+# Executive summary
+
+## Smart EV Charging and District Energy Optimization in Buiksloterham
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

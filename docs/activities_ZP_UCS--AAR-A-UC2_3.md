@@ -3,7 +3,7 @@ layout: default
 title: "BIPED – Building Intelligent Positive Energy Districts"
 parent: ZPUCSAARAUC2
 has_children: true
-nav_order: 237
+nav_order: 228
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 237
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                              |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                              |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The BIPED initiative aims to create Positive Energy Districts that enhance economic vibrancy while ensuring sustainability in energy production. The integration of local businesses and services in the district promotes responsible consumption patterns and provides diverse employment opportunities. |
-| Social cohesion x Living together, interdependence and mutuality                  | By actively involving residents in the design and decision-making process, the initiative fosters social integration and builds community identity, focusing on creating shared experiences and reducing inequalities.                                                                                     |
-| Well-being x Health and care in the community                                     | The creation of a Positive Energy District directly relates to improved living conditions and community health through access to clean energy and enhanced environmental quality, contributing positively to overall well-being.                                                                           |
+| Preservation and improvement of environment x Community smart infrastructures     | The project's focus on upgrading the district's infrastructure with smart technologies and sustainable practices enhances environmental performance and contributes to the overall ecological integrity of the area.                                                                                       |
+| Responsible resource use x Innovation, creativity and research                    | BIPED leverages advanced technologies such as digital twins and AI to optimize resource use and implement innovative solutions for energy management, sustainable practices, and participatory governance.                                                                                                 |
 | Attractiveness x Culture and community identity                                   | BIPED incorporates elements that respect and enhance local cultural identity through participatory engagement that values community practices while promoting innovative urban design and sustainability.                                                                                                  |
 | Resilience x Governance, empowerment and engagement                               | The participatory approach of engaging stakeholders in the development process builds community capacity and governance frameworks that support long-term resilience and adaptability.                                                                                                                     |
-| Preservation and improvement of environment x Community smart infrastructures     | The project's focus on upgrading the district's infrastructure with smart technologies and sustainable practices enhances environmental performance and contributes to the overall ecological integrity of the area.                                                                                       |
-| Resilience x Living and working environment                                       | The project's adaptive capacity enhances the community's resilience against climate impacts and economic shocks while improving living and working conditions through upgraded infrastructure and participatory design.                                                                                    |
+| Well-being x Health and care in the community                                     | The creation of a Positive Energy District directly relates to improved living conditions and community health through access to clean energy and enhanced environmental quality, contributing positively to overall well-being.                                                                           |
+| Social cohesion x Living together, interdependence and mutuality                  | By actively involving residents in the design and decision-making process, the initiative fosters social integration and builds community identity, focusing on creating shared experiences and reducing inequalities.                                                                                     |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on energy production that exceeds consumption, thereby positively impacting local ecosystems. Efforts to upgrade legacy infrastructure and integrate green spaces contribute to the preservation of biodiversity and ecosystem services in the Brabrand district.                      |
-| Responsible resource use x Innovation, creativity and research                    | BIPED leverages advanced technologies such as digital twins and AI to optimize resource use and implement innovative solutions for energy management, sustainable practices, and participatory governance.                                                                                                 |
+| Attractiveness x Economy and sustainable production and consumption               | The BIPED initiative aims to create Positive Energy Districts that enhance economic vibrancy while ensuring sustainability in energy production. The integration of local businesses and services in the district promotes responsible consumption patterns and provides diverse employment opportunities. |
+| Resilience x Living and working environment                                       | The project's adaptive capacity enhances the community's resilience against climate impacts and economic shocks while improving living and working conditions through upgraded infrastructure and participatory design.                                                                                    |
 
-# Executive summary## BIPED – Building Intelligent Positive Energy Districts
+# Executive summary
+
+## BIPED – Building Intelligent Positive Energy Districts
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

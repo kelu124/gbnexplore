@@ -10,11 +10,11 @@ nav_order: 20
 
 # Related use cases found online
 
-* [Madrid Nuevo Norte Sustainable Urban Development](activities_ZP_UCS--MGP-C-UC2_3.md)
 * [Sharing Cities – Integrated Smart Energy Solutions in Porta Romana-Vettabbia, Milan](activities_ZP_UCS--MGP-C-UC2_5.md)
-* [SRI4Cities – Smart Readiness Indicator Demonstration in Vienna](activities_ZP_UCS--MGP-C-UC2_4.md)
 * [Natural Wood in Affordable Housing at the Puente de Vallecas Eco-Neighborhood (SFJ6 Project)](activities_ZP_UCS--MGP-C-UC2_2.md)
+* [Madrid Nuevo Norte Sustainable Urban Development](activities_ZP_UCS--MGP-C-UC2_3.md)
 * [Smart EV Charging and District Energy Optimization in Buiksloterham](activities_ZP_UCS--MGP-C-UC2_1.md)
+* [SRI4Cities – Smart Readiness Indicator Demonstration in Vienna](activities_ZP_UCS--MGP-C-UC2_4.md)
 
 
 # Original text

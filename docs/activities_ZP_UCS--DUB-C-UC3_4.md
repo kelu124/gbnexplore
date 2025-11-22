@@ -3,7 +3,7 @@ layout: default
 title: "IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project"
 parent: ZPUCSDUBCUC3
 has_children: true
-nav_order: 127
+nav_order: 121
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 127
 
 # Evaluation
 
-| col1                                                                                 | Justification                                                                                                                                                                                                                                                                                                                      |
+| Purpose / Issue                                                                      | Justification                                                                                                                                                                                                                                                                                                                      |
 |:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resilience x Safety and security                                                     | The facility's design prioritizes secure environments for mental health patients while considering ecological impacts, ensuring safety and resilience in face of emergencies or natural disruptions.                                                                                                                               |
 | Social cohesion x Education and capacity building                                    | The initiative includes educational components that raise awareness about biodiversity and sustainability, promoting community engagement and future capacity-building within local and regional networks.                                                                                                                         |
-| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project focuses heavily on restoring and enhancing local biodiversity through the creation of native woodlands, wetlands, and habitats for various species. This incorporation of biodiversity not only improves environmental quality but serves therapeutic purposes as well.                                                |
+| Preservation and improvement of environment x Governance, empowerment and engagement | The project demonstrates effective governance by incorporating stakeholder input and ecological expertise throughout its development, aligning it with biodiversity and environmental standards necessary for sustainable urban planning.                                                                                          |
+| Attractiveness x Living and working environment                                      | The redevelopment of the hospital site enhances the living and working environment through improved landscaping and increased access to green spaces. This not only attracts healthcare professionals but also creates a pleasant atmosphere for recovery.                                                                         |
 | Social cohesion x Living together, interdependence and mutuality                     | The initiative fosters community engagement by involving stakeholders and locals in the design process. This collaboration strengthens social ties and promotes mutual benefits among healthcare providers and the community.                                                                                                      |
 | Responsible resource use x Community smart infrastructures                           | The project employs innovative technologies for digital monitoring and nature-based stormwater management, emphasizing efficient resource utilization. This integration ensures the hospital operates sustainably while enhancing local biodiversity.                                                                              |
-| Attractiveness x Living and working environment                                      | The redevelopment of the hospital site enhances the living and working environment through improved landscaping and increased access to green spaces. This not only attracts healthcare professionals but also creates a pleasant atmosphere for recovery.                                                                         |
 | Resilience x Economy and sustainable production and consumption                      | By implementing nature-based solutions and sustainable landscaping, the project increases operational efficiency and resilience against climate events. This proactive approach to resource use contributes to sustainable economic practices within the healthcare facility.                                                      |
 | Well-being x Health and care in the community                                        | The NFMHS project is centered on improving health outcomes for patients by providing a secure and nature-integrated care environment. This approach supports mental health recovery and boosts the overall well-being of both patients and staff.                                                                                  |
-| Preservation and improvement of environment x Governance, empowerment and engagement | The project demonstrates effective governance by incorporating stakeholder input and ecological expertise throughout its development, aligning it with biodiversity and environmental standards necessary for sustainable urban planning.                                                                                          |
+| Preservation and improvement of environment x Biodiversity and ecosystem services    | The project focuses heavily on restoring and enhancing local biodiversity through the creation of native woodlands, wetlands, and habitats for various species. This incorporation of biodiversity not only improves environmental quality but serves therapeutic purposes as well.                                                |
 | Attractiveness x Culture and community identity                                      | The project integrates nature and biodiversity within a therapeutic landscape that enriches the cultural identity of the community and promotes a sense of belonging for both patients and local residents. By preserving historical landscapes and utilizing local resources, it enhances the attractiveness of the neighborhood. |
-| Resilience x Safety and security                                                     | The facility's design prioritizes secure environments for mental health patients while considering ecological impacts, ensuring safety and resilience in face of emergencies or natural disruptions.                                                                                                                               |
 
-# Executive summary## IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project
+# Executive summary
+
+## IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project
 
 ---
 

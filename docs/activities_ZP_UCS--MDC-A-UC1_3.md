@@ -3,7 +3,7 @@ layout: default
 title: "Energy-Efficient Renovation in Orcasitas with EPS Insulation"
 parent: ZPUCSMDCAUC1
 has_children: true
-nav_order: 91
+nav_order: 89
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 91
 
 # Evaluation
 
-| col1                                                                                             | Justification                                                                                                                                                                       |
+| Purpose / Issue                                                                                  | Justification                                                                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Responsible resource use x Biodiversity and ecosystem services                                   | The construction approach emphasizes prioritizing sustainable materials and reducing waste contributes to responsible resource management.                                          |
+| Preservation and improvement of environment x Economy and sustainable production and consumption | The initiative significantly reduces energy consumption and CO2 emissions through energy-efficient renovations, addressing environmental sustainability and local economic impacts. |
+| Well-being x Health and care in the community                                                    | The renovations provide improved thermal comfort and lower energy costs, directly impacting the health and well-being of residents, particularly vulnerable populations.            |
+| Social cohesion x Living together, interdependence and mutuality                                 | By engaging the community in the renovation process and focusing on the needs of low-income residents, the project fosters social integration and mutual support among residents.   |
+| Well-being x Education and capacity building                                                     | Through awareness programs and training on energy-saving practices, residents are empowered to contribute to sustainability efforts.                                                |
+| Social cohesion x Governance, empowerment and engagement                                         | Participatory planning processes have engaged community members, fostering transparency and empowering residents in decision-making.                                                |
 | Preservation and improvement of environment x Safety and security                                | Enhancing building infrastructure not only reduces energy intensity but can also improve safety through better-maintained properties.                                               |
 | Attractiveness x Culture and community identity                                                  | The initiative respects and incorporates local identity while modernizing the living conditions, which contributes to a renewed sense of pride within the community.                |
-| Social cohesion x Governance, empowerment and engagement                                         | Participatory planning processes have engaged community members, fostering transparency and empowering residents in decision-making.                                                |
-| Well-being x Education and capacity building                                                     | Through awareness programs and training on energy-saving practices, residents are empowered to contribute to sustainability efforts.                                                |
-| Resilience x Community smart infrastructures                                                     | The project enhances the neighborhood's infrastructure through improved energy efficiency, which prepares the community for future economic and environmental shocks.               |
-| Preservation and improvement of environment x Economy and sustainable production and consumption | The initiative significantly reduces energy consumption and CO2 emissions through energy-efficient renovations, addressing environmental sustainability and local economic impacts. |
+| Responsible resource use x Biodiversity and ecosystem services                                   | The construction approach emphasizes prioritizing sustainable materials and reducing waste contributes to responsible resource management.                                          |
 | Attractiveness x Living and working environment                                                  | Improvements in building aesthetics and reduced energy costs make the neighborhood more appealing for current residents and potential newcomers.                                    |
-| Social cohesion x Living together, interdependence and mutuality                                 | By engaging the community in the renovation process and focusing on the needs of low-income residents, the project fosters social integration and mutual support among residents.   |
-| Well-being x Health and care in the community                                                    | The renovations provide improved thermal comfort and lower energy costs, directly impacting the health and well-being of residents, particularly vulnerable populations.            |
+| Resilience x Community smart infrastructures                                                     | The project enhances the neighborhood's infrastructure through improved energy efficiency, which prepares the community for future economic and environmental shocks.               |
 
-# Executive summary## Energy-Efficient Renovation in Orcasitas with EPS Insulation
+# Executive summary
+
+## Energy-Efficient Renovation in Orcasitas with EPS Insulation
 
 ### I. INITIATIVE OVERVIEW AND IDENTIFICATION
 

@@ -3,7 +3,7 @@ layout: default
 title: "FUN Porto – Urban Native Forest Initiative"
 parent: ZPUCSPTOBUC2
 has_children: true
-nav_order: 11
+nav_order: 12
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 11
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                      |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                      |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Community smart infrastructures     | The establishment of a network of biospots enhances the city's infrastructure by integrating green spaces into urban planning. This contributes to smarter community infrastructures that support environmental sustainability.                                                                                    |
-| Well-being x Health and care in the community                                     | Creating more green spaces improves residents' physical and mental health, providing recreational areas and enhancing environmental quality. The initiative promotes well-being by addressing environmental factors that contribute to health.                                                                     |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The FUN Porto initiative directly addresses the degradation of urban green spaces and aims to restore biodiversity by reintroducing native tree species. This preservation and enhancement of ecological infrastructure significantly contribute to the urban ecosystem by improving air quality and biodiversity. |
-| Attractiveness x Governance, empowerment and engagement                           | The FUN Porto initiative involves community stakeholders in the decision-making process regarding tree planting, thus making the governance process more transparent and inclusive. This involvement heightens the initiative's appeal to residents.                                                               |
 | Resilience x Innovation, creativity and research                                  | The initiative employs innovative practices in urban forestry, such as the use of monitoring tools and participation from private sectors, representing a modern approach to ecological restoration. Innovation in these practices is vital for long-term success.                                                 |
-| Responsible resource use x Economy and sustainable production and consumption     | The production and distribution of native plants and trees are part of a sustainable practice that emphasizes responsible resource use. This aspect of the initiative illustrates efficient resource management within urban landscapes.                                                                           |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative encourages community participation through direct engagement in tree planting. This fosters social ties and enhances mutual support among residents, which is essential for building a cohesive community.                                                                                          |
-| Attractiveness x Living and working environment                                   | By increasing green spaces through the FUN Porto initiative, the city becomes more attractive for residents and visitors. The initiative enhances the living environment, contributing to the overall quality of life and making the urban area more desirable.                                                    |
 | Well-being x Education and capacity building                                      | The initiative includes public awareness campaigns that educate residents about the importance of green spaces and biodiversity. This educational component is crucial for fostering a culture of sustainability and community involvement.                                                                        |
+| Attractiveness x Living and working environment                                   | By increasing green spaces through the FUN Porto initiative, the city becomes more attractive for residents and visitors. The initiative enhances the living environment, contributing to the overall quality of life and making the urban area more desirable.                                                    |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative encourages community participation through direct engagement in tree planting. This fosters social ties and enhances mutual support among residents, which is essential for building a cohesive community.                                                                                          |
+| Well-being x Health and care in the community                                     | Creating more green spaces improves residents' physical and mental health, providing recreational areas and enhancing environmental quality. The initiative promotes well-being by addressing environmental factors that contribute to health.                                                                     |
+| Responsible resource use x Economy and sustainable production and consumption     | The production and distribution of native plants and trees are part of a sustainable practice that emphasizes responsible resource use. This aspect of the initiative illustrates efficient resource management within urban landscapes.                                                                           |
+| Attractiveness x Governance, empowerment and engagement                           | The FUN Porto initiative involves community stakeholders in the decision-making process regarding tree planting, thus making the governance process more transparent and inclusive. This involvement heightens the initiative's appeal to residents.                                                               |
+| Preservation and improvement of environment x Community smart infrastructures     | The establishment of a network of biospots enhances the city's infrastructure by integrating green spaces into urban planning. This contributes to smarter community infrastructures that support environmental sustainability.                                                                                    |
 
-# Executive summary## FUN Porto – Urban Native Forest Initiative
+# Executive summary
+
+## FUN Porto – Urban Native Forest Initiative
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

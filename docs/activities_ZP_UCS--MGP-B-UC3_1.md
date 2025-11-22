@@ -3,7 +3,7 @@ layout: default
 title: "Madrid Nuevo Norte Urban Geothermal Power Network"
 parent: ZPUCSMGPBUC3
 has_children: true
-nav_order: 61
+nav_order: 57
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 61
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Community smart infrastructures     | The geothermal energy network is an innovative smart infrastructure that significantly contributes to sustainable urban development and environmental improvement by managing energy resources effectively.                                                                                  |
 | Attractiveness x Living and working environment                                   | The Madrid Nuevo Norte project aims to create a vibrant urban district with new homes, commercial spaces, and green areas, enhancing the livability for residents and workers. This transformation will attract businesses and individuals seeking a high-quality living environment.        |
-| Social cohesion x Culture and community identity                                  | Designed for inclusivity, the project targets a diverse population and aims to enhance local cultural identity through participatory processes and community engagement, fostering social integration.                                                                                       |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative includes green roofs, permeable pavements, and sustainable drainage systems, which contribute to ecological restoration and enhance local biodiversity. By minimizing the urban heat island effect and improving air quality, it actively supports environmental performance. |
 | Responsible resource use x Economy and sustainable production and consumption     | The project promotes efficient use of resources through a geothermal energy system and integrates sustainable infrastructure, reducing consumption patterns and improving overall resource management.                                                                                       |
+| Social cohesion x Culture and community identity                                  | Designed for inclusivity, the project targets a diverse population and aims to enhance local cultural identity through participatory processes and community engagement, fostering social integration.                                                                                       |
 | Well-being x Health and care in the community                                     | By enhancing urban amenities, air quality, and access to green spaces, the project promotes physical and mental health. The initiative is also aimed at improving local community well-being through better living conditions.                                                               |
-| Well-being x Education and capacity building                                      | The project aims to raise awareness and skills around sustainability practices, directly influencing community health and quality of life, while promoting an educated populace capable of maintaining the district's sustainability goals.                                                  |
-| Resilience x Governance, empowerment and engagement                               | The initiative's governance model encourages extensive stakeholder engagement, fostering community involvement in urban development and enhancing resilience through participatory decision-making.                                                                                          |
 | Attractiveness x Mobility                                                         | The planned infrastructure improvements will facilitate better mobility options, making the area more attractive for residents and potentially increasing economic activities due to improved accessibility.                                                                                 |
+| Preservation and improvement of environment x Community smart infrastructures     | The geothermal energy network is an innovative smart infrastructure that significantly contributes to sustainable urban development and environmental improvement by managing energy resources effectively.                                                                                  |
+| Resilience x Governance, empowerment and engagement                               | The initiative's governance model encourages extensive stakeholder engagement, fostering community involvement in urban development and enhancing resilience through participatory decision-making.                                                                                          |
+| Well-being x Education and capacity building                                      | The project aims to raise awareness and skills around sustainability practices, directly influencing community health and quality of life, while promoting an educated populace capable of maintaining the district's sustainability goals.                                                  |
 
-# Executive summary## Madrid Nuevo Norte Urban Geothermal Power Network
+# Executive summary
+
+## Madrid Nuevo Norte Urban Geothermal Power Network
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

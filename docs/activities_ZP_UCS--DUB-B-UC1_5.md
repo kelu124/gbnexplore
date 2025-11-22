@@ -3,7 +3,7 @@ layout: default
 title: "Sharing Cities  Smart Parking and e-Mobility Pilot (Horizon 2020 Project)"
 parent: ZPUCSDUBBUC1
 has_children: true
-nav_order: 152
+nav_order: 148
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 152
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                  |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                  |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preservation and improvement of environment x Biodiversity and ecosystem services | Though the primary focus is on mobility and emissions, the project contributes to maintaining local biodiversity through green space enhancements in redeveloped areas.                                                                                                        |
-| Attractiveness x Culture and community identity                                   | By transforming previously industrial areas into mixed-use spaces with mobility hubs and green areas, the initiative enhances the cultural identity of the neighborhoods and builds a stronger sense of place.                                                                 |
 | Responsible resource use x Community smart infrastructures                        | By implementing smart parking sensors and dynamic EV charging, the initiative develops essential community smart infrastructures that optimize resource usage, thereby improving the overall efficiency of urban services.                                                     |
-| Well-being x Education and capacity building                                      | The initiative helps to enhance community well-being by improving transportation options and increasing access to services. Educational resources related to sustainable practices are embedded within the project, promoting a culture of awareness among residents.          |
-| Responsible resource use x Economy and sustainable production and consumption     | The project encourages sustainable consumption habits through initiatives such as the SharingMI app, which incentivizes users for environmentally friendly behavior, thus promoting responsible resource utilization within the neighborhood.                                  |
-| Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social cohesion by involving citizens in co-design and decision-making, ensuring diverse community engagement, and offering shared mobility solutions that encourage interaction among residents.                                                       |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | Though the primary focus is on mobility and emissions, the project contributes to maintaining local biodiversity through green space enhancements in redeveloped areas.                                                                                                        |
 | Resilience x Governance, empowerment and engagement                               | The project utilizes a collaborative governance model that includes extensive stakeholder engagement, fostering empowerment and accountability among residents, which is vital for resilient urban development.                                                                |
-| Attractiveness x Mobility                                                         | The initiative enhances the mobility options available in the Milan neighborhoods through the introduction of smart parking and e-mobility options. These developments make the area more attractive for residents and businesses by improving access and reducing congestion. |
+| Attractiveness x Culture and community identity                                   | By transforming previously industrial areas into mixed-use spaces with mobility hubs and green areas, the initiative enhances the cultural identity of the neighborhoods and builds a stronger sense of place.                                                                 |
+| Well-being x Education and capacity building                                      | The initiative helps to enhance community well-being by improving transportation options and increasing access to services. Educational resources related to sustainable practices are embedded within the project, promoting a culture of awareness among residents.          |
+| Social cohesion x Living together, interdependence and mutuality                  | The initiative fosters social cohesion by involving citizens in co-design and decision-making, ensuring diverse community engagement, and offering shared mobility solutions that encourage interaction among residents.                                                       |
 | Resilience x Health and care in the community                                     | By integrating smart infrastructure that encourages sustainable mobility options, the initiative fosters resilience against environmental stressors like air pollution, ultimately promoting better health outcomes for community members.                                     |
+| Attractiveness x Mobility                                                         | The initiative enhances the mobility options available in the Milan neighborhoods through the introduction of smart parking and e-mobility options. These developments make the area more attractive for residents and businesses by improving access and reducing congestion. |
+| Responsible resource use x Economy and sustainable production and consumption     | The project encourages sustainable consumption habits through initiatives such as the SharingMI app, which incentivizes users for environmentally friendly behavior, thus promoting responsible resource utilization within the neighborhood.                                  |
 
-# Executive summary## Sharing Cities: Smart Parking and e-Mobility Pilot (Horizon 2020 Project)
+# Executive summary
+
+## Sharing Cities: Smart Parking and e-Mobility Pilot (Horizon 2020 Project)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

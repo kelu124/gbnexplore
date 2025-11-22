@@ -3,7 +3,7 @@ layout: default
 title: "TRÆ – Tall Timber Office Building"
 parent: ZPUCSAARAUC1
 has_children: true
-nav_order: 242
+nav_order: 235
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 242
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                          |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                          |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Health and care in the community                                     | TRÆ’s design incorporates elements that contribute to community health and resilience, such as well-ventilated spaces and access to natural light, which are essential for mental well-being. This adaptive reuse approach also prepares the building to withstand environmental changes.                              |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on reducing embodied carbon and maximizing the use of recycled and upcycled materials. Integrating blue-green infrastructure enhances biodiversity and ecosystem services in the urban landscape of the transformed South Harbour.                                                                 |
+| Responsible resource use x Living and working environment                         | The use of innovative construction techniques and materials that minimize waste demonstrates responsible resource use, while maintaining high standards for the living and working environment of its future occupants.                                                                                                |
 | Attractiveness x Living and working environment                                   | TRÆ is set to be a landmark due to its height and innovative design, with features that enhance the appeal of the neighborhood and attract tenants seeking sustainable office spaces. The project integrates social inclusivity and quality of life aspects by providing accessible public areas and shared amenities. |
-| Well-being x Living together, interdependence and mutuality                       | The design of TRÆ aims to enhance overall well-being by providing flexible workspaces alongside communal areas that encourage social interaction, thus supporting mutuality and interdependence within the community.                                                                                                  |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project focuses on reducing embodied carbon and maximizing the use of recycled and upcycled materials. Integrating blue-green infrastructure enhances biodiversity and ecosystem services in the urban landscape of the transformed South Harbour.                                                                 |
+| Resilience x Health and care in the community                                     | TRÆ’s design incorporates elements that contribute to community health and resilience, such as well-ventilated spaces and access to natural light, which are essential for mental well-being. This adaptive reuse approach also prepares the building to withstand environmental changes.                              |
 | Responsible resource use x Economy and sustainable production and consumption     | The project is a model of responsible resource use, employing a circular economy approach by reusing materials from items like wind turbine blades and recycled glass, showcasing sustainable production and consumption patterns in building practices.                                                               |
 | Social cohesion x Culture and community identity                                  | TRÆ promotes social cohesion by engaging local communities during its planning stages and including spaces for public interaction, which fosters a sense of belonging among diverse groups, including vulnerable residents.                                                                                            |
+| Well-being x Living together, interdependence and mutuality                       | The design of TRÆ aims to enhance overall well-being by providing flexible workspaces alongside communal areas that encourage social interaction, thus supporting mutuality and interdependence within the community.                                                                                                  |
+| Attractiveness x Mobility                                                         | With its location providing excellent transportation links, TRÆ enhances the attractiveness of Aarhus by integrating mobility options that support accessibility and non-motorized traffic, contributing to the vibrancy of the community.                                                                             |
 | Preservation and improvement of environment x Community smart infrastructures     | The project uses smart infrastructure systems to improve energy efficiency and resource management within the building, aligning with the environmental objectives of the South Harbour’s redevelopment.                                                                                                               |
 | Resilience x Governance, empowerment and engagement                               | TRÆ exemplifies a proactive governance structure by involving multiple stakeholders in its development, ensuring broad community engagement and input into the project's sustainability objectives.                                                                                                                    |
-| Responsible resource use x Living and working environment                         | The use of innovative construction techniques and materials that minimize waste demonstrates responsible resource use, while maintaining high standards for the living and working environment of its future occupants.                                                                                                |
-| Attractiveness x Mobility                                                         | With its location providing excellent transportation links, TRÆ enhances the attractiveness of Aarhus by integrating mobility options that support accessibility and non-motorized traffic, contributing to the vibrancy of the community.                                                                             |
 
-# Executive summary## TRÆ – Tall Timber Office Building
+# Executive summary
+
+## TRÆ – Tall Timber Office Building
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

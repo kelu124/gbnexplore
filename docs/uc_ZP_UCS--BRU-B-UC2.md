@@ -10,9 +10,9 @@ nav_order: 49
 
 # Related use cases found online
 
-* [Be.SHARE – Brussels Sustainable Heating and Renewable Energy Community](activities_ZP_UCS--BRU-B-UC2_3.md)
 * [Sharing Cities – Smart Urban Energy Platform](activities_ZP_UCS--BRU-B-UC2_5.md)
 * [RESPONSE – integRatEd Solutions for POsitive eNergy and reSilient CitiEs](activities_ZP_UCS--BRU-B-UC2_4.md)
+* [Be.SHARE – Brussels Sustainable Heating and Renewable Energy Community](activities_ZP_UCS--BRU-B-UC2_3.md)
 * [Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels](activities_ZP_UCS--BRU-B-UC2_1.md)
 * [GreenBizz Energy Community](activities_ZP_UCS--BRU-B-UC2_2.md)
 

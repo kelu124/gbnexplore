@@ -3,7 +3,7 @@ layout: default
 title: "Circle House – Denmark’s First Circular Social Housing Project"
 parent: ZPUCSAARAUC2
 has_children: true
-nav_order: 234
+nav_order: 231
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 234
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                        |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                        |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attractiveness x Economy and sustainable production and consumption               | Circle House aims to attract a diverse population, addressing the affordable housing shortage and ensuring economic sustainability by showcasing circular economy principles, thereby enhancing the overall appeal of the community. |
+| Resilience x Health and care in the community                                     | By focusing on healthy living environments within the housing units, Circle House enhances community resilience by supporting both physical health and mental well-being, which are critical in times of social change.              |
+| Responsible resource use x Living and working environment                         | The initiative promotes resource efficiency by designing structures for disassembly and reuse, demonstrating responsible management of building materials which contributes to a sustainable living and working environment.         |
+| Social cohesion x Living together, interdependence and mutuality                  | Circle House fosters social inclusion and community engagement through its design, aiming to create social bonds and shared experiences that enhance mutual support and collective living.                                           |
+| Well-being x Culture and community identity                                       | The design of the Circle House enhances living conditions and community identity, promoting well-being through cultural and social interactions among its residents.                                                                 |
+| Attractiveness x Mobility                                                         | The strategic location of Circle House within a developing neighborhood emphasizes accessibility and connectivity, thereby improving mobility options for residents and increasing the attractiveness of the area.                   |
 | Preservation and improvement of environment x Community smart infrastructures     | Circle House utilizes smart infrastructure technologies to manage resources effectively, supporting the sustainable use of utilities and enhancing the environmental performance of the housing.                                     |
 | Resilience x Innovation, creativity and research                                  | The project exemplifies innovative approaches to construction and material use, positioning itself as a leader in research and development within the circular economy framework.                                                    |
-| Social cohesion x Living together, interdependence and mutuality                  | Circle House fosters social inclusion and community engagement through its design, aiming to create social bonds and shared experiences that enhance mutual support and collective living.                                           |
-| Attractiveness x Mobility                                                         | The strategic location of Circle House within a developing neighborhood emphasizes accessibility and connectivity, thereby improving mobility options for residents and increasing the attractiveness of the area.                   |
-| Well-being x Culture and community identity                                       | The design of the Circle House enhances living conditions and community identity, promoting well-being through cultural and social interactions among its residents.                                                                 |
-| Attractiveness x Economy and sustainable production and consumption               | Circle House aims to attract a diverse population, addressing the affordable housing shortage and ensuring economic sustainability by showcasing circular economy principles, thereby enhancing the overall appeal of the community. |
 | Responsible resource use x Governance, empowerment and engagement                 | The governance model encourages proactive stakeholder engagement, ensuring transparency and collaboration which is vital for implementing responsible resource use in the project.                                                   |
-| Resilience x Health and care in the community                                     | By focusing on healthy living environments within the housing units, Circle House enhances community resilience by supporting both physical health and mental well-being, which are critical in times of social change.              |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project emphasizes the reuse of materials and reduction of waste, contributing significantly to environmental preservation, thus aligning with biodiversity goals by minimizing new resource extraction impacts.                 |
-| Responsible resource use x Living and working environment                         | The initiative promotes resource efficiency by designing structures for disassembly and reuse, demonstrating responsible management of building materials which contributes to a sustainable living and working environment.         |
 
-# Executive summary## Circle House – Denmark’s First Circular Social Housing Project
+# Executive summary
+
+## Circle House – Denmark’s First Circular Social Housing Project
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

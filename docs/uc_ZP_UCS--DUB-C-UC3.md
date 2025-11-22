@@ -10,9 +10,8 @@ nav_order: 36
 
 # Related use cases found online
 
-* [```](activities_ZP_UCS--DUB-C-UC3_1.md)
-* [mySMARTLife – Urban Data-Driven Sustainability Platform (Nantes, France)](activities_ZP_UCS--DUB-C-UC3_5.md)
 * [IGBC Biodiversity Case Study – National Forensic Mental Health Service (NFMHS) Project](activities_ZP_UCS--DUB-C-UC3_4.md)
+* [mySMARTLife – Urban Data-Driven Sustainability Platform (Nantes, France)](activities_ZP_UCS--DUB-C-UC3_5.md)
 * [Mapping Green Dublin – Community Engagement for Urban Trees](activities_ZP_UCS--DUB-C-UC3_3.md)
 * [Cherrywood Urban Development – Barrington Building & TC1](activities_ZP_UCS--DUB-C-UC3_2.md)
 

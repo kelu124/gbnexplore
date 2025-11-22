@@ -3,7 +3,7 @@ layout: default
 title: "EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)"
 parent: ZPUCSDUBBUC3
 has_children: true
-nav_order: 142
+nav_order: 136
 ---
 
 
@@ -11,17 +11,19 @@ nav_order: 142
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                       |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Resilience x Living and working environment                                       | By addressing peak load management and integrating renewable energy solutions, EnergyLab Nordhavn enhances the resilience of the energy infrastructure and ensures a reliable living and working environment for its residents.                                                     |
 | Attractiveness x Economy and sustainable production and consumption               | EnergyLab Nordhavn aims to create an economically vibrant district by integrating smart energy solutions that enhance local production and create new job opportunities. This attracts residents and businesses to the area, contributing to its overall appeal and sustainability. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative emphasizes the use of renewable energy sources and aims to reduce CO2 emissions, thus contributing to the protection of local ecosystems and enhancing environmental quality. Such actions promote biodiversity and overall health of the urban environment.         |
-| Social cohesion x Living together, interdependence and mutuality                  | The project emphasizes enhanced community engagement and mutual support, fostering interactions among residents, which is vital for effective collaboration and social unity.                                                                                                       |
-| Attractiveness x Living and working environment                                   | The initiative seeks to create a vibrant and appealing atmosphere by providing amenities that enhance the quality of living and working conditions, ensuring a desirable environment for all stakeholders.                                                                          |
-| Well-being x Health and care in the community                                     | EnergyLab Nordhavn focuses on creating spaces that promote both physical and mental health through improved living conditions and access to sustainable energy solutions.                                                                                                           |
 | Social cohesion x Community smart infrastructures                                 | The initiative actively engages residents in feedback and data collection processes, fostering social integration and collaboration among diverse community members while enhancing the smart infrastructure.                                                                       |
+| Well-being x Health and care in the community                                     | EnergyLab Nordhavn focuses on creating spaces that promote both physical and mental health through improved living conditions and access to sustainable energy solutions.                                                                                                           |
+| Attractiveness x Living and working environment                                   | The initiative seeks to create a vibrant and appealing atmosphere by providing amenities that enhance the quality of living and working conditions, ensuring a desirable environment for all stakeholders.                                                                          |
+| Social cohesion x Living together, interdependence and mutuality                  | The project emphasizes enhanced community engagement and mutual support, fostering interactions among residents, which is vital for effective collaboration and social unity.                                                                                                       |
 
-# Executive summary## EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)
+# Executive summary
+
+## EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)
 
 ---
 

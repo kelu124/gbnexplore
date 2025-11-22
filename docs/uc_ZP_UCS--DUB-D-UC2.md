@@ -11,10 +11,10 @@ nav_order: 32
 # Related use cases found online
 
 * [Cleanwatts Living Lab: AI-Powered Renewable Energy Communities](activities_ZP_UCS--DUB-D-UC2_1.md)
+* [SSE Airtricity Smart Homes Living Lab (EU-DREAM Project)](activities_ZP_UCS--DUB-D-UC2_5.md)
 * [DT-Enabled Residential IoT Microgrid Living Lab (IoT-MGLab)](activities_ZP_UCS--DUB-D-UC2_4.md)
 * [Living Lab BIPV - Helmholtz-Zentrum Berlin](activities_ZP_UCS--DUB-D-UC2_3.md)
 * [Ethos Engineering Living Lab](activities_ZP_UCS--DUB-D-UC2_2.md)
-* [SSE Airtricity Smart Homes Living Lab (EU-DREAM Project)](activities_ZP_UCS--DUB-D-UC2_5.md)
 
 
 # Original text

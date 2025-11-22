@@ -3,7 +3,7 @@ layout: default
 title: "Sharing Cities – Smart Urban Energy Platform"
 parent: ZPUCSBRUBUC2
 has_children: true
-nav_order: 193
+nav_order: 186
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 193
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                     |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                     |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Economy and sustainable production and consumption               | The Sharing Cities initiative aims to transform urban energy systems and mobility while promoting economic vitality. It emphasizes creating vibrant urban areas that attract residents and businesses through smart solutions such as energy retrofits and mobility services, facilitating local economic growth. |
 | Responsible resource use x Living and working environment                         | The project focuses on sustainable resource management through energy retrofits and efficient urban planning. This responsible use of resources directly contributes to improving the living and working environment in the neighborhoods affected by the initiative.                                             |
-| Well-being x Culture and community identity                                       | By promoting clean energy and sustainable practices, the initiative contributes to the well-being of communities, ensuring that residents have access to a healthy living environment. The engagement process also supports local cultural identity.                                                              |
-| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart city technologies, such as IoT and energy management systems, contributes to environmental preservation while creating efficient infrastructures to promote sustainable urban living.                                                                                                    |
-| Social cohesion x Living together, interdependence and mutuality                  | Through collaborative models and community-led initiatives, the project emphasizes interdependence among residents, promoting mutual support within neighborhoods.                                                                                                                                                |
 | Social cohesion x Governance, empowerment and engagement                          | The Sharing Cities initiative highlights citizen engagement through co-design tools, ensuring community members are actively involved in decision-making. This fosters social cohesion by empowering residents and promoting inclusivity.                                                                         |
-| Attractiveness x Mobility                                                         | The initiative enhances mobility through the introduction of smart mobility services and electric vehicle infrastructure, increasing attractiveness for residents and businesses and improving overall quality of life.                                                                                           |
-| Resilience x Health and care in the community                                     | The initiative addresses resilience in urban areas by incorporating strategies for energy consumption reduction and emission management. By promoting eco-friendly practices, the project enhances the community's capacity to withstand environmental changes and health challenges.                             |
+| Attractiveness x Economy and sustainable production and consumption               | The Sharing Cities initiative aims to transform urban energy systems and mobility while promoting economic vitality. It emphasizes creating vibrant urban areas that attract residents and businesses through smart solutions such as energy retrofits and mobility services, facilitating local economic growth. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project significantly focuses on improving environmental performance by implementing energy efficiencies that reduce CO₂ emissions. This creates a healthier urban environment, helping preserve local biodiversity and enhancing ecosystem services.                                                         |
+| Resilience x Health and care in the community                                     | The initiative addresses resilience in urban areas by incorporating strategies for energy consumption reduction and emission management. By promoting eco-friendly practices, the project enhances the community's capacity to withstand environmental changes and health challenges.                             |
+| Social cohesion x Living together, interdependence and mutuality                  | Through collaborative models and community-led initiatives, the project emphasizes interdependence among residents, promoting mutual support within neighborhoods.                                                                                                                                                |
+| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart city technologies, such as IoT and energy management systems, contributes to environmental preservation while creating efficient infrastructures to promote sustainable urban living.                                                                                                    |
+| Attractiveness x Mobility                                                         | The initiative enhances mobility through the introduction of smart mobility services and electric vehicle infrastructure, increasing attractiveness for residents and businesses and improving overall quality of life.                                                                                           |
+| Well-being x Culture and community identity                                       | By promoting clean energy and sustainable practices, the initiative contributes to the well-being of communities, ensuring that residents have access to a healthy living environment. The engagement process also supports local cultural identity.                                                              |
 
-# Executive summary## Sharing Cities – Smart Urban Energy Platform
+# Executive summary
+
+## Sharing Cities – Smart Urban Energy Platform
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

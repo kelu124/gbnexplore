@@ -3,7 +3,7 @@ layout: default
 title: "Manchester Civic Quarter Heat Network (CQHN)"
 parent: ZPUCSMGPBUC3
 has_children: true
-nav_order: 59
+nav_order: 60
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 59
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                                                                                               |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Attractiveness x Economy and sustainable production and consumption               | The Manchester Civic Quarter Heat Network aims to improve the economic viability of the area by providing a reliable, low-carbon energy supply to multiple civic and cultural buildings, attracting further investment and facilitating business operations. This is in line with sustainable production and consumption practices, supporting local businesses and responsible energy use. |
-| Attractiveness x Living and working environment                                   | The infrastructure project enhances the attractiveness of the Civic Quarter by improving the quality of the living and working environment through sustainable energy solutions, promoting investment in the area.                                                                                                                                                                          |
 | Resilience x Safety and security                                                  | By centralizing energy production and enhancing infrastructure resilience through the addition of peak demand boilers, the project prepares the community for future energy needs and possible climate impacts, thus enhancing community resilience. The design is intended to ensure reliable energy delivery even under stress.                                                           |
-| Preservation and improvement of environment x Innovation, creativity and research | The project reflects innovation through its implementation of advanced energy technologies and monitoring systems that support higher energy efficiency. This not only preserves the environment but sets a precedent for future initiatives.                                                                                                                                               |
 | Responsible resource use x Biodiversity and ecosystem services                    | The initiative showcases responsible resource use through its efficient energy model and infrastructure planning, which integrates the conservation of energy resources, promotes a reduction in waste through heat recovery, and facilitates the responsible use of natural resources.                                                                                                     |
 | Social cohesion x Community smart infrastructures                                 | The project fosters social cohesion by enhancing public spaces like the ‘Tower of Light’ energy centre, which serves as a community landmark. It also connects different civic buildings, facilitating various social activities and encouraging community interaction.                                                                                                                     |
 | Well-being x Health and care in the community                                     | By improving air quality and reducing energy costs for public facilities, the heat network directly contributes to the well-being of residents and users of the civic buildings, ensuring a healthier environment and better living conditions.                                                                                                                                             |
+| Preservation and improvement of environment x Innovation, creativity and research | The project reflects innovation through its implementation of advanced energy technologies and monitoring systems that support higher energy efficiency. This not only preserves the environment but sets a precedent for future initiatives.                                                                                                                                               |
 | Responsible resource use x Living and working environment                         | The energy network promotes responsible resource use by granting reliable energy and focusing on maximized efficiency in energy consumption, addressing the needs of buildings and the wider community.                                                                                                                                                                                     |
 | Resilience x Economy and sustainable production and consumption                   | The heat network is designed to be scalable, allowing for future expansion and integration of renewables which supports the resilience of the local economy. By reducing reliance on fossil fuels, it aligns future growth with sustainable economic practices.                                                                                                                             |
+| Attractiveness x Living and working environment                                   | The infrastructure project enhances the attractiveness of the Civic Quarter by improving the quality of the living and working environment through sustainable energy solutions, promoting investment in the area.                                                                                                                                                                          |
 
-# Executive summary## Manchester Civic Quarter Heat Network (CQHN)
+# Executive summary
+
+## Manchester Civic Quarter Heat Network (CQHN)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

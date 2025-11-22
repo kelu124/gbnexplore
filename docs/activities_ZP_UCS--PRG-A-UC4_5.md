@@ -3,7 +3,7 @@ layout: default
 title: "SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)"
 parent: ZPUCSPRGAUC4
 has_children: true
-nav_order: 30
+nav_order: 29
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 30
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                            |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                            |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Culture and community identity                                   | The project respects and enhances the local cultural identity while improving infrastructure, ensuring that historical aspects of the district are acknowledged and preserved amidst modernization.                                      |
-| Preservation and improvement of environment x Safety and security                 | Although primarily focused on environmental improvements, enhancing neighborhood safety through better infrastructure and community engagement plays a role in improving overall living conditions.                                      |
-| Well-being x Living and working environment                                       | By focusing on retrofitting homes to improve energy efficiency, the initiative directly enhances the living conditions and overall quality of life for residents.                                                                        |
 | Resilience x Governance, empowerment and engagement                               | The implementation involves a strong governance framework that encourages community participation, ensuring that residents are empowered in the planning and decision-making processes.                                                  |
-| Social cohesion x Living together, interdependence and mutuality                  | Through extensive resident engagement and participation in the decision-making process, the project fosters a sense of community and mutual support among residents, promoting social integration.                                       |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative includes deep retrofitting of buildings and the implementation of renewable energy sources, which enhances the environmental performance of the neighborhood and can contribute positively to local biodiversity.         |
+| Preservation and improvement of environment x Safety and security                 | Although primarily focused on environmental improvements, enhancing neighborhood safety through better infrastructure and community engagement plays a role in improving overall living conditions.                                      |
 | Well-being x Education and capacity building                                      | The project promotes resident education around energy efficiency and sustainability practices, which is vital for capacity building and long-term well-being of the community.                                                           |
+| Attractiveness x Culture and community identity                                   | The project respects and enhances the local cultural identity while improving infrastructure, ensuring that historical aspects of the district are acknowledged and preserved amidst modernization.                                      |
+| Well-being x Living and working environment                                       | By focusing on retrofitting homes to improve energy efficiency, the initiative directly enhances the living conditions and overall quality of life for residents.                                                                        |
+| Social cohesion x Living together, interdependence and mutuality                  | Through extensive resident engagement and participation in the decision-making process, the project fosters a sense of community and mutual support among residents, promoting social integration.                                       |
 | Resilience x Health and care in the community                                     | The project focuses on improving the thermal comfort of buildings, which directly impacts the health and well-being of residents by reducing energy bills and enhancing living conditions.                                               |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative includes deep retrofitting of buildings and the implementation of renewable energy sources, which enhances the environmental performance of the neighborhood and can contribute positively to local biodiversity.         |
 | Attractiveness x Economy and sustainable production and consumption               | The project aims to create an attractive living environment through significant investment in energy efficiency and sustainable infrastructure, which makes the district economically vibrant and appealing to residents and businesses. |
 | Responsible resource use x Innovation, creativity and research                    | The incorporation of a biomass-fueled heating network as well as smart energy monitoring systems exemplifies innovative resource efficiency and responsible management of energy resources within the community.                         |
 
-# Executive summary## SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)
+# Executive summary
+
+## SmartEnCity – Lighthouse District Smart Renovation (Vitoria-Gasteiz, Spain)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

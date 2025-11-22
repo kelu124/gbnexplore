@@ -3,7 +3,7 @@ layout: default
 title: "SmartEnCity  Integrated Smart Solutions for Urban Regeneration"
 parent: ZPUCSDUBAUC2
 has_children: true
-nav_order: 168
+nav_order: 160
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 168
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Social cohesion x Culture and community identity                                  | By integrating participatory governance practices and enhancing public spaces, the project fosters social inclusion and strengthens community identity, ensuring that all residents have a stake in the neighborhood's development.                                          |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative actively contributes to environmental preservation by implementing building retrofits aimed at reducing energy consumption and emissions. The focus on a biomass district heating system also supports sustainable resource usage.                            |
-| Preservation and improvement of environment x Innovation, creativity and research | The use of digital twins and IoT for real-time monitoring represents an innovative approach that contributes to environmental performance improvements.                                                                                                                      |
-| Attractiveness x Mobility                                                         | Upgraded public spaces improve mobility within the neighborhood, making it easier for residents to navigate and access services, which boosts attractiveness.                                                                                                                |
-| Responsible resource use x Living and working environment                         | The initiative promotes responsible use of resources by integrating renewable energy sources and digital monitoring solutions into the neighborhood's infrastructure, thereby optimizing energy efficiency.                                                                  |
-| Well-being x Health and care in the community                                     | The improvements in indoor air quality, thermal comfort, and reduced energy bills directly contribute to enhanced well-being among residents, promoting a healthier living environment.                                                                                      |
 | Resilience x Governance, empowerment and engagement                               | The initiative implements a participatory approach that empowers residents in the decision-making process, enhancing overall resilience through community engagement.                                                                                                        |
+| Preservation and improvement of environment x Innovation, creativity and research | The use of digital twins and IoT for real-time monitoring represents an innovative approach that contributes to environmental performance improvements.                                                                                                                      |
 | Social cohesion x Living together, interdependence and mutuality                  | The emphasis on participatory planning and co-design of public spaces encourages interdependence and mutual support among residents, promoting a strong community spirit.                                                                                                    |
-| Resilience x Economy and sustainable production and consumption                   | The initiative aims to build resilience through energy efficiency improvements in existing buildings and the establishment of a biomass heating network, which strengthens the local economy by creating green jobs and reducing vulnerability to energy price fluctuations. |
+| Responsible resource use x Living and working environment                         | The initiative promotes responsible use of resources by integrating renewable energy sources and digital monitoring solutions into the neighborhood's infrastructure, thereby optimizing energy efficiency.                                                                  |
+| Attractiveness x Mobility                                                         | Upgraded public spaces improve mobility within the neighborhood, making it easier for residents to navigate and access services, which boosts attractiveness.                                                                                                                |
+| Well-being x Health and care in the community                                     | The improvements in indoor air quality, thermal comfort, and reduced energy bills directly contribute to enhanced well-being among residents, promoting a healthier living environment.                                                                                      |
+| Social cohesion x Culture and community identity                                  | By integrating participatory governance practices and enhancing public spaces, the project fosters social inclusion and strengthens community identity, ensuring that all residents have a stake in the neighborhood's development.                                          |
 | Attractiveness x Living and working environment                                   | The project significantly enhances the living and working environment by retrofitting buildings, improving public spaces, and ensuring accessibility. The integrated approach aims to create a dynamic and appealing neighborhood that draws citizens and businesses.        |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative actively contributes to environmental preservation by implementing building retrofits aimed at reducing energy consumption and emissions. The focus on a biomass district heating system also supports sustainable resource usage.                            |
+| Resilience x Economy and sustainable production and consumption                   | The initiative aims to build resilience through energy efficiency improvements in existing buildings and the establishment of a biomass heating network, which strengthens the local economy by creating green jobs and reducing vulnerability to energy price fluctuations. |
 
-# Executive summary## SmartEnCity: Integrated Smart Solutions for Urban Regeneration
+# Executive summary
+
+## SmartEnCity: Integrated Smart Solutions for Urban Regeneration
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

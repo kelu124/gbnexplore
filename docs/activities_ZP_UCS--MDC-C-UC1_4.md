@@ -3,7 +3,7 @@ layout: default
 title: "EU-DREAM  Effective Uptake of Digital Services to Repower European Consumers and Communities as Active Participants in Energy Transition and Markets"
 parent: ZPUCSMDCCUC1
 has_children: true
-nav_order: 79
+nav_order: 82
 ---
 
 
@@ -11,17 +11,19 @@ nav_order: 79
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                    |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                    |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Attractiveness x Education and capacity building                                  | The initiative addresses educational aspects by fostering awareness about energy management, thus empowering citizens through knowledge.                                                                                                                         |
-| Well-being x Health and care in the community                                     | By enhancing energy self-sufficiency and comfort in homes, the initiative contributes positively to the overall well-being of community members.                                                                                                                 |
 | Resilience x Governance, empowerment and engagement                               | Engagement of various stakeholders in the decision-making processes reinforces governance structures and encourages community involvement in energy initiatives.                                                                                                 |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The implementation of renewable energy solutions aims to minimize environmental impacts and promote eco-friendly practices supporting local ecosystems.                                                                                                          |
+| Attractiveness x Education and capacity building                                  | The initiative addresses educational aspects by fostering awareness about energy management, thus empowering citizens through knowledge.                                                                                                                         |
+| Well-being x Health and care in the community                                     | By enhancing energy self-sufficiency and comfort in homes, the initiative contributes positively to the overall well-being of community members.                                                                                                                 |
 | Social cohesion x Living together, interdependence and mutuality                  | The project aims to empower communities and encourage collaboration among residents, fostering social bonds and interactions within energy markets.                                                                                                              |
 | Resilience x Living and working environment                                       | By integrating renewable energy solutions and advanced energy management systems, the initiative enhances the resilience of urban neighborhoods against energy fluctuations and environmental challenges.                                                        |
 | Attractiveness x Economy and sustainable production and consumption               | The initiative promotes the engagement of local communities in energy transition through innovative digital tools, which contributes to the economic revitalization of neighborhoods by supporting local energy markets and encouraging sustainable consumption. |
 
-# Executive summary## EU-DREAM: Effective Uptake of Digital Services to Repower European Consumers and Communities as Active Participants in Energy Transition and Markets
+# Executive summary
+
+## EU-DREAM: Effective Uptake of Digital Services to Repower European Consumers and Communities as Active Participants in Energy Transition and Markets
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

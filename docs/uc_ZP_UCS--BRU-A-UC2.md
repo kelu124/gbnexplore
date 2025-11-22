@@ -10,11 +10,11 @@ nav_order: 52
 
 # Related use cases found online
 
-* [RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)](activities_ZP_UCS--BRU-A-UC2_4.md)
-* [oPEN Lab Positive Energy Neighbourhoods](activities_ZP_UCS--BRU-A-UC2_5.md)
 * [Living Labs Brussels Retrofit Project](activities_ZP_UCS--BRU-A-UC2_2.md)
-* [Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels](activities_ZP_UCS--BRU-A-UC2_1.md)
+* [oPEN Lab Positive Energy Neighbourhoods](activities_ZP_UCS--BRU-A-UC2_5.md)
 * [Waterschei Positive Energy Neighbourhood (oPEN Lab)](activities_ZP_UCS--BRU-A-UC2_3.md)
+* [RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)](activities_ZP_UCS--BRU-A-UC2_4.md)
+* [Tivoli GreenCity – The First Sustainable Neighbourhood in Brussels](activities_ZP_UCS--BRU-A-UC2_1.md)
 
 
 # Original text

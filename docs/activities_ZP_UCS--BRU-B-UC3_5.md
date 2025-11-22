@@ -3,7 +3,7 @@ layout: default
 title: "Buildings as Material Banks (BAMB)"
 parent: ZPUCSBRUBUC3
 has_children: true
-nav_order: 187
+nav_order: 184
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 187
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Well-being x Education and capacity building                                      | The initiative focuses on training and developing skills among community members, enhancing well-being through access to education and employment opportunities in the circular construction industry.                       |
-| Social cohesion x Culture and community identity                                  | BAMB encourages community engagement and stakeholder collaboration, fostering social bonds and strengthening cultural identity through inclusive practices and a shared vision of sustainability.                            |
-| Responsible resource use x Living and working environment                         | The project emphasizes sustainable resource management and promotes designs that facilitate the reuse of materials, demonstrating responsible resource use in the construction and refurbishment of buildings.               |
-| Resilience x Health and care in the community                                     | The initiative enhances community resilience by promoting circular construction practices that support economic stability, resource efficiency, and environmental health, ultimately contributing to better health outcomes. |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | BAMB focuses on reducing construction waste and conserving resources, directly contributing to the enhancement of biodiversity and ecosystem services within urban contexts, thus preserving the environment.                |
 | Attractiveness x Economy and sustainable production and consumption               | The project aims to shift towards a circular economy in the built environment, promoting local production and responsible consumption patterns, which enhances the attractiveness of Brussels as a sustainable urban center. |
-| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart technologies with sustainable building practices supports the preservation of the environment by promoting efficient resource management and reducing negative impacts on ecosystems.               |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | BAMB focuses on reducing construction waste and conserving resources, directly contributing to the enhancement of biodiversity and ecosystem services within urban contexts, thus preserving the environment.                |
+| Resilience x Health and care in the community                                     | The initiative enhances community resilience by promoting circular construction practices that support economic stability, resource efficiency, and environmental health, ultimately contributing to better health outcomes. |
+| Responsible resource use x Living and working environment                         | The project emphasizes sustainable resource management and promotes designs that facilitate the reuse of materials, demonstrating responsible resource use in the construction and refurbishment of buildings.               |
+| Social cohesion x Culture and community identity                                  | BAMB encourages community engagement and stakeholder collaboration, fostering social bonds and strengthening cultural identity through inclusive practices and a shared vision of sustainability.                            |
+| Well-being x Education and capacity building                                      | The initiative focuses on training and developing skills among community members, enhancing well-being through access to education and employment opportunities in the circular construction industry.                       |
 | Attractiveness x Living and working environment                                   | The implementation of pilot projects that improve building quality and adaptability enhances the attractiveness of the urban environment, fostering a livable and work-friendly atmosphere.                                  |
+| Preservation and improvement of environment x Community smart infrastructures     | The integration of smart technologies with sustainable building practices supports the preservation of the environment by promoting efficient resource management and reducing negative impacts on ecosystems.               |
 | Resilience x Mobility                                                             | While the project does not directly address mobility, its emphasis on circularity and resource efficiency indirectly supports enhanced mobility options by fostering an adaptive urban environment.                          |
 | Responsible resource use x Governance, empowerment and engagement                 | BAMB's approach to governance encourages stakeholder participation and transparency, ensuring that resource management practices align with community needs and sustainability goals.                                        |
 
-# Executive summary## Buildings as Material Banks (BAMB)
+# Executive summary
+
+## Buildings as Material Banks (BAMB)
 
 ---
 

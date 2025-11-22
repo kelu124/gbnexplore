@@ -3,7 +3,7 @@ layout: default
 title: "Prague Renewable Energy Community and Green Building Renovation"
 parent: ZPUCSPRGAUC1
 has_children: true
-nav_order: 38
+nav_order: 40
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 38
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                     |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                     |
 |:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Responsible resource use x Living and working environment                         | The focus on energy efficiency upgrades and renewable energy adoption supports sustainable resource management and improves the living and working conditions for residents.                                                      |
 | Attractiveness x Economy and sustainable production and consumption               | The initiative aims to foster civic participation in renewable energy production and create economic benefits through energy cost savings and opportunities for 'green' jobs, thus enhancing the attractiveness of the community. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative focuses on retrofitting buildings with green roofs and solar PV systems, which contribute to biodiversity and ecosystem services, improving urban environmental quality.                                           |
-| Responsible resource use x Living and working environment                         | The focus on energy efficiency upgrades and renewable energy adoption supports sustainable resource management and improves the living and working conditions for residents.                                                      |
+| Resilience x Community smart infrastructures                                      | By integrating smart energy management systems and promoting energy democracy, the project enhances the adaptive capacity of the community to climate change impacts and economic stresses.                                       |
 | Social cohesion x Living together, interdependence and mutuality                  | The initiative promotes community engagement and participatory ownership models, enhancing social bonds and mutual support within the neighborhoods.                                                                              |
 | Well-being x Health and care in the community                                     | Improving indoor air quality and reducing energy poverty are central to enhancing the well-being of residents and ensuring a healthy living environment.                                                                          |
 | Attractiveness x Living and working environment                                   | The project aims to modernize buildings to enhance comfort and energy efficiency, thereby increasing the overall attractiveness of the neighborhood.                                                                              |
 | Preservation and improvement of environment x Safety and security                 | The initiative indirectly addresses safety through environmental improvements, which contribute to enhanced urban safety and comfort.                                                                                             |
 | Social cohesion x Education and capacity building                                 | The initiative includes community consultations and education on energy efficiency, empowering residents with the knowledge to participate in the energy transition.                                                              |
-| Resilience x Community smart infrastructures                                      | By integrating smart energy management systems and promoting energy democracy, the project enhances the adaptive capacity of the community to climate change impacts and economic stresses.                                       |
 
-# Executive summary## Prague Renewable Energy Community and Green Building Renovation
+# Executive summary
+
+## Prague Renewable Energy Community and Green Building Renovation
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Dublin Green Building Neighbourhood (PROBONO Project)"
 parent: ZPUCSAARAUC3
 has_children: true
-nav_order: 228
+nav_order: 224
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 228
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                             |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                             |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Responsible resource use x Economy and sustainable production and consumption     | The project’s focus on implementing energy-efficient solutions and renewable energy sources promotes responsible resource use within the local economy, reducing reliance on unsustainable practices.                                                                     |
-| Resilience x Health and care in the community                                     | By addressing energy inefficiencies and promoting health through improved air quality and reduced energy costs, the project enhances the community's resilience to climate change and economic pressures.                                                                 |
-| Social cohesion x Culture and community identity                                  | The participatory approach engages diverse stakeholders in co-design and decision-making, fostering community identity and collaborative efforts to enhance social bonds.                                                                                                 |
-| Resilience x Governance, empowerment and engagement                               | The project emphasizes stakeholder engagement in governance to build resilience through community involvement in sustainability initiatives, ensuring that local knowledge and needs are prioritized.                                                                     |
-| Preservation and improvement of environment x Innovation, creativity and research | The use of innovative technologies, such as digital twins for real-time management and feedback, showcases creativity in finding sustainable solutions to environmental challenges.                                                                                       |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative promotes environmental stewardship through energy-efficient retrofitting and the use of renewable energy sources, ultimately protecting local ecosystems and contributing positively to the urban environment.                                             |
 | Well-being x Education and capacity building                                      | By fostering community awareness and knowledge about sustainable practices through workshops and participatory sessions, the initiative enhances the capacity of residents to contribute to sustainability efforts.                                                       |
-| Attractiveness x Mobility                                                         | Integrating sustainable transport solutions like EV charging stations and improved public transport enhances the mobility options available to citizens, making the area more attractive for living and working.                                                          |
-| Well-being x Living together, interdependence and mutuality                       | The initiative aims to improve residents' well-being through access to better living conditions, reduced energy costs, and enhanced community engagement, fostering a sense of belonging.                                                                                 |
 | Attractiveness x Living and working environment                                   | The Dublin Green Building Neighbourhood focuses on transforming an urban area to enhance its appeal and support vibrant economic and social activities by integrating smart energy management, which improves living and working conditions for residents and businesses. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative promotes environmental stewardship through energy-efficient retrofitting and the use of renewable energy sources, ultimately protecting local ecosystems and contributing positively to the urban environment.                                             |
+| Resilience x Health and care in the community                                     | By addressing energy inefficiencies and promoting health through improved air quality and reduced energy costs, the project enhances the community's resilience to climate change and economic pressures.                                                                 |
+| Responsible resource use x Economy and sustainable production and consumption     | The project’s focus on implementing energy-efficient solutions and renewable energy sources promotes responsible resource use within the local economy, reducing reliance on unsustainable practices.                                                                     |
+| Social cohesion x Culture and community identity                                  | The participatory approach engages diverse stakeholders in co-design and decision-making, fostering community identity and collaborative efforts to enhance social bonds.                                                                                                 |
+| Well-being x Living together, interdependence and mutuality                       | The initiative aims to improve residents' well-being through access to better living conditions, reduced energy costs, and enhanced community engagement, fostering a sense of belonging.                                                                                 |
+| Attractiveness x Mobility                                                         | Integrating sustainable transport solutions like EV charging stations and improved public transport enhances the mobility options available to citizens, making the area more attractive for living and working.                                                          |
+| Preservation and improvement of environment x Innovation, creativity and research | The use of innovative technologies, such as digital twins for real-time management and feedback, showcases creativity in finding sustainable solutions to environmental challenges.                                                                                       |
+| Resilience x Governance, empowerment and engagement                               | The project emphasizes stakeholder engagement in governance to build resilience through community involvement in sustainability initiatives, ensuring that local knowledge and needs are prioritized.                                                                     |
 
-# Executive summary## Dublin Green Building Neighbourhood (PROBONO Project)
+# Executive summary
+
+## Dublin Green Building Neighbourhood (PROBONO Project)
 
 ---
 

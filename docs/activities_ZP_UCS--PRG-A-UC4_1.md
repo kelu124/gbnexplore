@@ -3,7 +3,7 @@ layout: default
 title: "Modřanský cukrovar Blue-Green District"
 parent: ZPUCSPRGAUC4
 has_children: true
-nav_order: 31
+nav_order: 30
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 31
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attractiveness x Living and working environment                                   | The Modřanský cukrovar initiative transforms a brownfield site into a vibrant neighborhood, improving the living and working environment through quality housing, public spaces, and amenities. This enhances the appeal for residents and businesses alike. |
+| Responsible resource use x Living and working environment                         | The project's focus on sustainable construction practices and resource efficiencies not only minimizes environmental impacts but also enhances the overall living and working conditions for residents.                                                      |
+| Resilience x Governance, empowerment and engagement                               | The initiative involves multiple stakeholders in decision-making processes, fostering community engagement and resilience in planning and execution.                                                                                                         |
+| Preservation and improvement of environment x Safety and security                 | By revitalizing a previously contaminated site, the project not only addresses environmental restoration but also enhances safety through well-lit public spaces and reduced crime opportunities.                                                            |
+| Attractiveness x Mobility                                                         | The project enhances accessibility through improved transport links and pedestrian-friendly design, making it more attractive for residents and visitors alike.                                                                                              |
+| Well-being x Health and care in the community                                     | The development creates spaces that improve health outcomes by enhancing air quality, providing green spaces, and promoting community amenities, addressing physical and mental well-being.                                                                  |
+| Social cohesion x Culture and community identity                                  | Community engagement is central to the initiative, with participatory planning processes that promote social integration and community identity, connecting residents to the shared history of the site.                                                     |
+| Responsible resource use x Economy and sustainable production and consumption     | By using recycled construction materials and implementing resource-efficient technologies, the project emphasizes responsible resource use and supports sustainable consumption practices.                                                                   |
 | Resilience x Community smart infrastructures                                      | The initiative focuses on adaptive capacity with the implementation of smart metering, rainwater harvesting, and greywater recycling, fostering resilience against climate impacts and resource challenges.                                                  |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The project integrates biodiversity-supporting landscapes, including green roofs and native species landscaping, aiming to enhance ecosystem services and support local biodiversity.                                                                        |
-| Preservation and improvement of environment x Safety and security                 | By revitalizing a previously contaminated site, the project not only addresses environmental restoration but also enhances safety through well-lit public spaces and reduced crime opportunities.                                                            |
-| Attractiveness x Living and working environment                                   | The Modřanský cukrovar initiative transforms a brownfield site into a vibrant neighborhood, improving the living and working environment through quality housing, public spaces, and amenities. This enhances the appeal for residents and businesses alike. |
-| Social cohesion x Culture and community identity                                  | Community engagement is central to the initiative, with participatory planning processes that promote social integration and community identity, connecting residents to the shared history of the site.                                                     |
-| Well-being x Health and care in the community                                     | The development creates spaces that improve health outcomes by enhancing air quality, providing green spaces, and promoting community amenities, addressing physical and mental well-being.                                                                  |
-| Resilience x Governance, empowerment and engagement                               | The initiative involves multiple stakeholders in decision-making processes, fostering community engagement and resilience in planning and execution.                                                                                                         |
-| Responsible resource use x Living and working environment                         | The project's focus on sustainable construction practices and resource efficiencies not only minimizes environmental impacts but also enhances the overall living and working conditions for residents.                                                      |
-| Attractiveness x Mobility                                                         | The project enhances accessibility through improved transport links and pedestrian-friendly design, making it more attractive for residents and visitors alike.                                                                                              |
-| Responsible resource use x Economy and sustainable production and consumption     | By using recycled construction materials and implementing resource-efficient technologies, the project emphasizes responsible resource use and supports sustainable consumption practices.                                                                   |
 
-# Executive summary## Modřanský cukrovar Blue-Green District
+# Executive summary
+
+## Modřanský cukrovar Blue-Green District
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

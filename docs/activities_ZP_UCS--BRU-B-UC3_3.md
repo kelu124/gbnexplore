@@ -3,7 +3,7 @@ layout: default
 title: "GreenBizz Energy Community"
 parent: ZPUCSBRUBUC3
 has_children: true
-nav_order: 189
+nav_order: 183
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 189
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                         |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                         |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Well-being x Health and care in the community                                     | The initiative improves the working environment of tenant businesses, enhancing employee well-being through better energy management, which is essential for community health and satisfaction.                                                                                                       |
 | Resilience x Governance, empowerment and engagement                               | The governance model encourages community engagement and accountability through a transparent partnership among stakeholders, promoting resilience in the neighborhood's economic and environmental strategies.                                                                                       |
 | Responsible resource use x Community smart infrastructures                        | The integration of smart energy management and shared utilities fosters a responsible approach towards resource use, facilitated by digital infrastructures that optimize consumption across businesses.                                                                                              |
-| Social cohesion x Living together, interdependence and mutuality                  | By promoting collaboration among diverse companies, the GreenBizz Energy Community fosters social bonds and networks that strengthen community identity and enable mutual support among participating businesses.                                                                                     |
-| Responsible resource use x Living and working environment                         | The project focuses on shared energy management among businesses which enhances resource efficiency and encourages sustainable practices among tenants, fostering a supportive living and working environment.                                                                                        |
 | Preservation and improvement of environment x Safety and security                 | The initiative indirectly enhances the safety of the area by improving environmental quality, reducing pollution, and contributing to a safer business locale for community members.                                                                                                                  |
 | Attractiveness x Culture and community identity                                   | The project enhances Brussels' identity as a center for sustainable innovation, contributing to cultural attributes based around green business activities that attract both local and international stakeholders.                                                                                    |
+| Well-being x Health and care in the community                                     | The initiative improves the working environment of tenant businesses, enhancing employee well-being through better energy management, which is essential for community health and satisfaction.                                                                                                       |
+| Social cohesion x Living together, interdependence and mutuality                  | By promoting collaboration among diverse companies, the GreenBizz Energy Community fosters social bonds and networks that strengthen community identity and enable mutual support among participating businesses.                                                                                     |
+| Attractiveness x Economy and sustainable production and consumption               | The GreenBizz Energy Community creates an ecosystem that attracts businesses focused on sustainability, enhancing the economic diversity of Brussels. By hosting 20 companies and encouraging new sustainable ventures, it demonstrates economic vitality aligned with regional sustainability goals. |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative employs nearly 1,000 solar panels and energy-efficient building retrofits, addressing environmental stewardship and contributing to reduced carbon emissions while promoting ecological regeneration.                                                                                  |
 | Resilience x Innovation, creativity and research                                  | The initiative develops adaptive capacities for businesses in responding to climate change and energy challenges by fostering innovation through shared energy resources and community learning.                                                                                                      |
-| Attractiveness x Economy and sustainable production and consumption               | The GreenBizz Energy Community creates an ecosystem that attracts businesses focused on sustainability, enhancing the economic diversity of Brussels. By hosting 20 companies and encouraging new sustainable ventures, it demonstrates economic vitality aligned with regional sustainability goals. |
+| Responsible resource use x Living and working environment                         | The project focuses on shared energy management among businesses which enhances resource efficiency and encourages sustainable practices among tenants, fostering a supportive living and working environment.                                                                                        |
 
-# Executive summary## GreenBizz Energy Community
+# Executive summary
+
+## GreenBizz Energy Community
 
 ---
 

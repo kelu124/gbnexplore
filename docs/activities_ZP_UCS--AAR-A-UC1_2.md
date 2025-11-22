@@ -3,7 +3,7 @@ layout: default
 title: "Lisbjerg – Sustainable Neighborhood in Aarhus"
 parent: ZPUCSAARAUC1
 has_children: true
-nav_order: 241
+nav_order: 236
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 241
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                               |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Responsible resource use x Economy and sustainable production and consumption     | Utilizing circular economy principles, Lisbjerg integrates high percentages of recycled materials and modular building techniques, exemplifying responsible resource management and promoting sustainable practices throughout the construction process.                                    |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative incorporates extensive green corridors and stormwater management, aiming to protect and enhance local biodiversity while managing environmental assets effectively. The landscaping is designed to support ecological balance within the urban setting.                      |
-| Social cohesion x Living together, interdependence and mutuality                  | By designing inclusive spaces that encourage interaction among residents, Lisbjerg promotes communal living and fosters interdependence, aligning with its goals for social equity.                                                                                                         |
-| Preservation and improvement of environment x Safety and security                 | Design considerations such as integrating public spaces and improving infrastructure contribute to overall safety and security, enhancing the neighborhood's livability.                                                                                                                    |
-| Well-being x Health and care in the community                                     | The design promotes physical and mental well-being through access to green spaces and prioritized mobility options like cycling, coupled with equitable housing solutions that contribute to a healthy living environment.                                                                  |
-| Social cohesion x Culture and community identity                                  | The emphasis on community-driven spaces and non-profit housing fosters social inclusion and engagement, enhancing the sense of community identity and ensuring equitable access for diverse income groups.                                                                                  |
-| Resilience x Innovation, creativity and research                                  | The innovative use of modular and prefabricated designs showcases creativity in construction, contributing to resilience against environmental and market changes in building practices.                                                                                                    |
-| Attractiveness x Mobility                                                         | Lisbjerg's master plan enhances mobility through improved public transport links and cycling pathways, making the neighborhood easily accessible and attractive for residents and visitors.                                                                                                 |
 | Attractiveness x Living and working environment                                   | Lisbjerg's development emphasizes creating diverse housing typologies and communal green spaces, contributing to a high quality of life and enhancing its attractiveness as a neighborhood. The design prioritizes comfort and accessibility, making it appealing for a range of residents. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The initiative incorporates extensive green corridors and stormwater management, aiming to protect and enhance local biodiversity while managing environmental assets effectively. The landscaping is designed to support ecological balance within the urban setting.                      |
+| Social cohesion x Culture and community identity                                  | The emphasis on community-driven spaces and non-profit housing fosters social inclusion and engagement, enhancing the sense of community identity and ensuring equitable access for diverse income groups.                                                                                  |
+| Well-being x Health and care in the community                                     | The design promotes physical and mental well-being through access to green spaces and prioritized mobility options like cycling, coupled with equitable housing solutions that contribute to a healthy living environment.                                                                  |
+| Attractiveness x Mobility                                                         | Lisbjerg's master plan enhances mobility through improved public transport links and cycling pathways, making the neighborhood easily accessible and attractive for residents and visitors.                                                                                                 |
+| Preservation and improvement of environment x Safety and security                 | Design considerations such as integrating public spaces and improving infrastructure contribute to overall safety and security, enhancing the neighborhood's livability.                                                                                                                    |
+| Social cohesion x Living together, interdependence and mutuality                  | By designing inclusive spaces that encourage interaction among residents, Lisbjerg promotes communal living and fosters interdependence, aligning with its goals for social equity.                                                                                                         |
+| Resilience x Innovation, creativity and research                                  | The innovative use of modular and prefabricated designs showcases creativity in construction, contributing to resilience against environmental and market changes in building practices.                                                                                                    |
+| Responsible resource use x Economy and sustainable production and consumption     | Utilizing circular economy principles, Lisbjerg integrates high percentages of recycled materials and modular building techniques, exemplifying responsible resource management and promoting sustainable practices throughout the construction process.                                    |
 
-# Executive summary## Lisbjerg – Sustainable Neighborhood in Aarhus
+# Executive summary
+
+## Lisbjerg – Sustainable Neighborhood in Aarhus
 
 ---
 

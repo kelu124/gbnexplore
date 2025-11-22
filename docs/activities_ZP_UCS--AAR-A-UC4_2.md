@@ -3,7 +3,7 @@ layout: default
 title: "READY Project  Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)"
 parent: ZPUCSAARAUC4
 has_children: true
-nav_order: 226
+nav_order: 218
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 226
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                            |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                            |
 |:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Social cohesion x Governance, empowerment and engagement                          | The project emphasizes multi-stakeholder engagement and transparency in governance, which fosters community engagement and empowerment in the decision-making process regarding energy solutions.                                                                        |
 | Preservation and improvement of environment x Community smart infrastructures     | The integration of smart technologies in energy management directly supports the environmental goals of the project, contributing to an improvement in the neighborhood's smart infrastructure.                                                                          |
-| Well-being x Safety and security                                                  | By improving energy efficiency and reducing energy costs, the READY project contributes to the overall well-being of residents through enhanced comfort levels and financial security, making neighborhoods safer and more appealing.                                    |
-| Attractiveness x Economy and sustainable production and consumption               | The READY project aims to enhance Aarhus's attractiveness by demonstrating integrated energy retrofitting, which not only reduces energy demand and CO2 emissions but also supports local economic activity through job creation in the retrofit and technology sectors. |
-| Attractiveness x Mobility                                                         | The project incorporates elements of smart grid technology and energy efficiency which can contribute indirectly to improving mobility through enhanced infrastructure, although this is not its primary focus.                                                          |
-| Resilience x Health and care in the community                                     | The project's focus on reducing energy hardship for residents, especially in social housing, enhances community resilience by improving health and air quality, and reducing energy costs, which is particularly important for vulnerable communities.                   |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | By implementing low-temperature district heating and waste heat recovery, the project contributes to environmental preservation and enhances the ecological performance of the urban area, aligning with broader goals of reducing fossil fuel dependency.               |
 | Resilience x Education and capacity building                                      | The project includes workshops and knowledge sharing as a means of building community capacity to engage with new energy technologies, enhancing both resilience and education.                                                                                          |
+| Attractiveness x Mobility                                                         | The project incorporates elements of smart grid technology and energy efficiency which can contribute indirectly to improving mobility through enhanced infrastructure, although this is not its primary focus.                                                          |
+| Well-being x Safety and security                                                  | By improving energy efficiency and reducing energy costs, the READY project contributes to the overall well-being of residents through enhanced comfort levels and financial security, making neighborhoods safer and more appealing.                                    |
 | Social cohesion x Culture and community identity                                  | The project's engagement with multiple stakeholders, including residents, enhances social cohesion and a sense of community identity, particularly as it targets areas of social housing.                                                                                |
 | Responsible resource use x Living and working environment                         | The initiative promotes responsible resource use through energy efficiency enhancements and the integration of renewable energy sources, thus facilitating a sustainable living and working environment that benefits present and future residents.                      |
+| Resilience x Health and care in the community                                     | The project's focus on reducing energy hardship for residents, especially in social housing, enhances community resilience by improving health and air quality, and reducing energy costs, which is particularly important for vulnerable communities.                   |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | By implementing low-temperature district heating and waste heat recovery, the project contributes to environmental preservation and enhances the ecological performance of the urban area, aligning with broader goals of reducing fossil fuel dependency.               |
+| Attractiveness x Economy and sustainable production and consumption               | The READY project aims to enhance Aarhus's attractiveness by demonstrating integrated energy retrofitting, which not only reduces energy demand and CO2 emissions but also supports local economic activity through job creation in the retrofit and technology sectors. |
+| Social cohesion x Governance, empowerment and engagement                          | The project emphasizes multi-stakeholder engagement and transparency in governance, which fosters community engagement and empowerment in the decision-making process regarding energy solutions.                                                                        |
 
-# Executive summary## READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)
+# Executive summary
+
+## READY Project: Integrated Energy Retrofitting Demonstrator (READY Site Aarhus – Integrated Smart City Energy Solutions)
 
 ---
 

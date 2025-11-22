@@ -3,7 +3,7 @@ layout: default
 title: "The Dome – Green Community House (Domen)"
 parent: ZPUCSAARAUC2
 has_children: true
-nav_order: 236
+nav_order: 227
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 236
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                  |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                  |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Living and working environment                                       | The Dome addresses urban disengagement in the post-industrial harbor area by creating a flexible community space that can adapt to various events and needs. This promotes resilience in both community engagement and environmental adaptation.                                               |
 | Resilience x Innovation, creativity and research                                  | The design and ongoing programming of the Dome encourage innovative practices in urban sustainability and resilience, serving as a living laboratory for research and creative solutions.                                                                                                      |
-| Well-being x Health and care in the community                                     | By providing a space for wellness activities, workshops, and urban gardening, the Dome enhances both physical and mental health in the community, thereby improving overall well-being.                                                                                                        |
 | Attractiveness x Culture and community identity                                   | The Dome serves as a vibrant community hub that fosters a sense of place and belonging by promoting cultural identity and social engagement. Its location and design appeal not only draw residents but also attract visitors, enhancing the overall attractiveness of the Aarhus Harbor area. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The Dome incorporates sustainable design using recycled materials and promotes biodiversity through its interior garden, which includes various plant species. This focus on environmental stewardship contributes positively to local ecosystems.                                             |
+| Resilience x Living and working environment                                       | The Dome addresses urban disengagement in the post-industrial harbor area by creating a flexible community space that can adapt to various events and needs. This promotes resilience in both community engagement and environmental adaptation.                                               |
+| Responsible resource use x Economy and sustainable production and consumption     | The Dome utilizes modular construction and recycled materials, emphasizing responsible resource use while also serving as a model for sustainable building practices. It illustrates the principles of reusing and recycling in construction and operation.                                    |
 | Social cohesion x Living together, interdependence and mutuality                  | By inviting citizens, professionals, and policymakers to co-create and engage in diverse activities, the Dome fosters social cohesion and collective lifestyles, enhancing community ties and mutual support.                                                                                  |
+| Well-being x Health and care in the community                                     | By providing a space for wellness activities, workshops, and urban gardening, the Dome enhances both physical and mental health in the community, thereby improving overall well-being.                                                                                                        |
 | Attractiveness x Education and capacity building                                  | The Dome is a platform for educational activities around sustainability, helping to raise awareness and build skills within the community, which contributes to its attractiveness as a hub for learning and innovation.                                                                       |
 | Preservation and improvement of environment x Safety and security                 | The Dome promotes a safe and engaging space for community interaction, emphasizing environmental quality which contributes to both safety and attractiveness in the urban context.                                                                                                             |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The Dome incorporates sustainable design using recycled materials and promotes biodiversity through its interior garden, which includes various plant species. This focus on environmental stewardship contributes positively to local ecosystems.                                             |
-| Responsible resource use x Economy and sustainable production and consumption     | The Dome utilizes modular construction and recycled materials, emphasizing responsible resource use while also serving as a model for sustainable building practices. It illustrates the principles of reusing and recycling in construction and operation.                                    |
 
-# Executive summary## The Dome – Green Community House (Domen)
+# Executive summary
+
+## The Dome – Green Community House (Domen)
 
 ---
 

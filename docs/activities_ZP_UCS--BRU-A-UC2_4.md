@@ -3,7 +3,7 @@ layout: default
 title: "RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)"
 parent: ZPUCSBRUAUC2
 has_children: true
-nav_order: 207
+nav_order: 204
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 207
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                           |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                           |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Preservation and improvement of environment x Safety and security                 | The upgrade of infrastructure and buildings can enhance safety by reducing energy poverty and improving living conditions in the neighborhoods.                                                                         |
 | Attractiveness x Economy and sustainable production and consumption               | Enhancing economic opportunities through the development of local renewable energy initiatives attracts investment and supports job creation.                                                                           |
-| Social cohesion x Education and capacity building                                 | Through participatory platforms, the project builds community capacity and educates residents on energy management and sustainability practices, fostering long-term engagement.                                        |
-| Resilience x Mobility                                                             | The project incorporates smart mobility solutions, ensuring safe and reliable transport systems for residents, which contributes to overall community resilience.                                                       |
 | Well-being x Health and care in the community                                     | The project aims to lower energy bills and improve living conditions, thereby enhancing the overall health and well-being of residents through better air quality and comfort.                                          |
 | Social cohesion x Living together, interdependence and mutuality                  | The RESPONSE project encourages social inclusion and citizen engagement, fostering an environment where diverse community members cooperate and contribute to the neighborhood's energy transition.                     |
 | Responsible resource use x Economy and sustainable production and consumption     | The integration of energy management, IoT, and renewable resources ensures responsible use of resources, promoting sustainable consumption patterns and economic models in the neighborhoods.                           |
 | Preservation and improvement of environment x Biodiversity and ecosystem services | RESPONSE project aims to reduce greenhouse gas emissions and improve urban resilience by integrating renewable energy sources and reinforcing ecosystem services, thus actively preserving local environmental quality. |
 | Attractiveness x Culture and community identity                                   | Creating Positive Energy Districts (PEDs) emphasizes the distinct cultural heritage of neighborhoods like Dijon and Turku, enhancing their attractiveness by integrating local identity into urban design.              |
+| Social cohesion x Education and capacity building                                 | Through participatory platforms, the project builds community capacity and educates residents on energy management and sustainability practices, fostering long-term engagement.                                        |
+| Resilience x Mobility                                                             | The project incorporates smart mobility solutions, ensuring safe and reliable transport systems for residents, which contributes to overall community resilience.                                                       |
 
-# Executive summary## RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)
+# Executive summary
+
+## RESPONSE (integRatEd Solutions for POsitive eNergy and reSilient CitiEs)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

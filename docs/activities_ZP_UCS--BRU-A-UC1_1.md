@@ -3,7 +3,7 @@ layout: default
 title: "Tivoli GreenCity Sustainable Neighbourhood"
 parent: ZPUCSBRUAUC1
 has_children: true
-nav_order: 215
+nav_order: 210
 ---
 
 
@@ -11,19 +11,21 @@ nav_order: 215
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                       |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attractiveness x Economy and sustainable production and consumption               | Tivoli GreenCity aims to create an economically vibrant neighborhood by supporting local businesses and promoting sustainable consumption patterns, thereby enhancing its attractiveness as a thriving community.   |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project incorporates green infrastructure, including green roofs and rainwater harvesting, which contributes to ecological regeneration and biodiversity while enhancing the urban environment.                 |
 | Resilience x Safety and security                                                  | The design and implementation of Tivoli GreenCity focus on creating a resilient community that can adapt to climate change and environmental challenges, fostering a safe and secure environment for its residents. |
+| Social cohesion x Living together, interdependence and mutuality                  | Tivoli GreenCity promotes social integration and community engagement through shared spaces and participatory governance, ensuring that diverse populations benefit from its development.                           |
+| Well-being x Health and care in the community                                     | The project enhances the quality of life for residents by providing access to affordable housing, community facilities, and green spaces that promote both physical and mental health.                              |
+| Attractiveness x Innovation, creativity and research                              | The initiative serves as a 'laboratory for innovation', testing new sustainable practices and design approaches, which contribute to its overall appeal and dynamism as a neighborhood.                             |
 | Preservation and improvement of environment x Community smart infrastructures     | The development integrates smart infrastructure solutions for utilities and services that support sustainability, thereby enhancing the environmental performance and livability of the neighborhood.               |
 | Resilience x Education and capacity building                                      | Ongoing community engagement and educational programs are fundamental to the redevelopment process, empowering residents to participate actively in the neighborhood's development and sustainability.              |
 | Social cohesion x Culture and community identity                                  | The project respects and enhances local culture while promoting community identity through participatory design and inclusivity in its development processes.                                                       |
-| Well-being x Health and care in the community                                     | The project enhances the quality of life for residents by providing access to affordable housing, community facilities, and green spaces that promote both physical and mental health.                              |
-| Attractiveness x Innovation, creativity and research                              | The initiative serves as a 'laboratory for innovation', testing new sustainable practices and design approaches, which contribute to its overall appeal and dynamism as a neighborhood.                             |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project incorporates green infrastructure, including green roofs and rainwater harvesting, which contributes to ecological regeneration and biodiversity while enhancing the urban environment.                 |
-| Social cohesion x Living together, interdependence and mutuality                  | Tivoli GreenCity promotes social integration and community engagement through shared spaces and participatory governance, ensuring that diverse populations benefit from its development.                           |
-| Attractiveness x Economy and sustainable production and consumption               | Tivoli GreenCity aims to create an economically vibrant neighborhood by supporting local businesses and promoting sustainable consumption patterns, thereby enhancing its attractiveness as a thriving community.   |
 
-# Executive summary## Tivoli GreenCity Sustainable Neighbourhood
+# Executive summary
+
+## Tivoli GreenCity Sustainable Neighbourhood
 
 ---
 

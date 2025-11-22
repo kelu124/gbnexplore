@@ -3,7 +3,7 @@ layout: default
 title: "Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)"
 parent: ZPUCSMDCAUC1
 has_children: true
-nav_order: 90
+nav_order: 92
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 90
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                       |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                       |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Resilience x Innovation, creativity and research                                  | By deploying a digital twin technology for real-time energy management, the project enhances the neighborhood's resilience against energy system inefficiencies and promotes adaptive capacity to changing environmental and economic conditions.                                   |
-| Resilience x Education and capacity building                                      | The project's dynamic engagement strategies contribute to educating the community about sustainable energy practices, thus building capacity for future sustainability initiatives.                                                                                                 |
 | Attractiveness x Economy and sustainable production and consumption               | The SMARTER TOGETHER project enhances the attractiveness of Munich by promoting local renewable energy self-consumption and optimizing energy management. This fosters economic diversity by reducing energy costs and supporting sustainable local businesses in the neighborhood. |
 | Social cohesion x Culture and community identity                                  | By involving residents in the project, the initiative promotes a sense of community identity and cultural engagement around sustainability practices.                                                                                                                               |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project aims to reduce energy consumption and optimize the use of renewables, thereby contributing to better environmental performance and preservation of ecosystem services in the urban setting of Munich.                                                                   |
+| Responsible resource use x Living and working environment                         | The project incorporates smart meters and IoT sensors to manage energy consumption effectively, promoting responsible use of resources and improving the living conditions of residents in Munich.                                                                                  |
+| Social cohesion x Governance, empowerment and engagement                          | The initiative actively engages residents in energy management and decision-making, fostering social cohesion and ensuring diverse community participation in sustainability efforts.                                                                                               |
+| Resilience x Education and capacity building                                      | The project's dynamic engagement strategies contribute to educating the community about sustainable energy practices, thus building capacity for future sustainability initiatives.                                                                                                 |
 | Preservation and improvement of environment x Safety and security                 | The project's focus on energy efficiency indirectly contributes to environmental safety and security by reducing emissions and improving local environmental conditions.                                                                                                            |
 | Attractiveness x Community smart infrastructures                                  | The deployment of a digital platform that enhances energy management contributes to the attractiveness of the community by integrating smart infrastructures that support sustainable living.                                                                                       |
 | Well-being x Health and care in the community                                     | By improving energy efficiency and reducing costs, the project contributes to the well-being of residents, enabling them to access clean and affordable energy, enhancing their quality of life.                                                                                    |
-| Social cohesion x Governance, empowerment and engagement                          | The initiative actively engages residents in energy management and decision-making, fostering social cohesion and ensuring diverse community participation in sustainability efforts.                                                                                               |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project aims to reduce energy consumption and optimize the use of renewables, thereby contributing to better environmental performance and preservation of ecosystem services in the urban setting of Munich.                                                                   |
-| Responsible resource use x Living and working environment                         | The project incorporates smart meters and IoT sensors to manage energy consumption effectively, promoting responsible use of resources and improving the living conditions of residents in Munich.                                                                                  |
 
-# Executive summary## Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)
+# Executive summary
+
+## Ampeers Energy Digital Twin for Districts (SMARTER TOGETHER Project)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

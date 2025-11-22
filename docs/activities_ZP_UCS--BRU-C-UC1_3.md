@@ -3,7 +3,7 @@ layout: default
 title: "Green Corridor Project"
 parent: ZPUCSBRUCUC1
 has_children: true
-nav_order: 181
+nav_order: 172
 ---
 
 
@@ -11,17 +11,19 @@ nav_order: 181
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                                 |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                                 |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Governance, empowerment and engagement                               | Strong stakeholder engagement and participatory governance models are emphasized in the project, enhancing the community's capacity to respond to changes and crises effectively.                                                                                                                             |
 | Attractiveness x Living and working environment                                   | The Green Corridor Project aims to enhance urban connectivity and attractiveness through integrated pathways for pedestrians and cyclists, promoting both accessibility and recreational opportunities. This focus ensures that public spaces contribute positively to quality of life and economic vibrancy. |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project restores ecological connectivity and biodiversity across urban zones, enhancing local ecosystems and contributing to environmental stewardship. By linking green spaces and developing nature-based solutions, it directly addresses ecological health.                                           |
+| Social cohesion x Living together, interdependence and mutuality                  | The project involves strong participatory planning practices, engaging various stakeholders, which fosters social interaction and community bonding. This creates a sense of belonging and strengthens social ties within diverse neighborhoods.                                                              |
+| Responsible resource use x Living and working environment                         | The initiative promotes the use of sustainable practices in managing resources through innovative design and construction methods. By improving stormwater management and energy efficiency, it supports long-term resource sustainability in urban settings.                                                 |
 | Well-being x Health and care in the community                                     | By providing safer, attractive routes and access to green spaces, the project enhances community well-being, supporting both physical and mental health through improved recreational opportunities and social interactions.                                                                                  |
 | Attractiveness x Culture and community identity                                   | The initiative respects and enhances local cultural heritage by integrating community input and focusing on preserving historical landscapes, which contributes to a unique sense of place.                                                                                                                   |
-| Social cohesion x Living together, interdependence and mutuality                  | The project involves strong participatory planning practices, engaging various stakeholders, which fosters social interaction and community bonding. This creates a sense of belonging and strengthens social ties within diverse neighborhoods.                                                              |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project restores ecological connectivity and biodiversity across urban zones, enhancing local ecosystems and contributing to environmental stewardship. By linking green spaces and developing nature-based solutions, it directly addresses ecological health.                                           |
-| Responsible resource use x Living and working environment                         | The initiative promotes the use of sustainable practices in managing resources through innovative design and construction methods. By improving stormwater management and energy efficiency, it supports long-term resource sustainability in urban settings.                                                 |
+| Resilience x Governance, empowerment and engagement                               | Strong stakeholder engagement and participatory governance models are emphasized in the project, enhancing the community's capacity to respond to changes and crises effectively.                                                                                                                             |
 
-# Executive summary## Green Corridor Project
+# Executive summary
+
+## Green Corridor Project
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

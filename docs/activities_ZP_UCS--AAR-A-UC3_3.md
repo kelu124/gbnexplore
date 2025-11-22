@@ -3,7 +3,7 @@ layout: default
 title: "Spørring Circular Energy Park (CO-SHAPE Project)"
 parent: ZPUCSAARAUC3
 has_children: true
-nav_order: 229
+nav_order: 223
 ---
 
 
@@ -11,20 +11,22 @@ nav_order: 229
 
 # Evaluation
 
-| col1                                                                              | Justification                                                                                                                                                                                                                                                                                |
+| Purpose / Issue                                                                   | Justification                                                                                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resilience x Innovation, creativity and research                                  | The initiative fosters innovation through the integration of cutting-edge technologies and participatory governance mechanisms, contributing to the resilience of the local community.                                                                                                       |
-| Preservation and improvement of environment x Biodiversity and ecosystem services | The project actively focuses on reducing greenhouse gas emissions and preserving local biodiversity through sustainable land-use practices and integrated renewable energy systems, thereby improving the ecological context of the area.                                                    |
-| Attractiveness x Culture and community identity                                   | By respecting and enhancing local cultural identity and integrating landscape features, the project contributes to making the area more attractive and enhancing the community's sense of place.                                                                                             |
-| Responsible resource use x Living and working environment                         | The initiative is designed around a circular economy framework, promoting efficient resource use through biogas production, solar power, and comprehensive waste management systems, which enhances the living and working conditions in the area.                                           |
-| Social cohesion x Living together, interdependence and mutuality                  | The project promotes social integration and mutual support among community members by involving them in decision-making processes and enhancing local identity through participatory planning and co-creation.                                                                               |
 | Social cohesion x Education and capacity building                                 | The initiative includes training programs and workshops aimed at increasing community knowledge and skills regarding sustainability practices, which helps build social cohesion and capacity.                                                                                               |
+| Resilience x Innovation, creativity and research                                  | The initiative fosters innovation through the integration of cutting-edge technologies and participatory governance mechanisms, contributing to the resilience of the local community.                                                                                                       |
 | Well-being x Governance, empowerment and engagement                               | The participatory governance model aims to empower local citizens, ensuring their voices are heard in decision-making processes, which is crucial for the overall well-being of the community.                                                                                               |
+| Attractiveness x Culture and community identity                                   | By respecting and enhancing local cultural identity and integrating landscape features, the project contributes to making the area more attractive and enhancing the community's sense of place.                                                                                             |
 | Preservation and improvement of environment x Health and care in the community    | The project focuses on creating a healthier living environment by reducing emissions and improving community health outcomes through the development of green spaces and renewable energy infrastructures.                                                                                   |
+| Social cohesion x Living together, interdependence and mutuality                  | The project promotes social integration and mutual support among community members by involving them in decision-making processes and enhancing local identity through participatory planning and co-creation.                                                                               |
+| Responsible resource use x Living and working environment                         | The initiative is designed around a circular economy framework, promoting efficient resource use through biogas production, solar power, and comprehensive waste management systems, which enhances the living and working conditions in the area.                                           |
 | Resilience x Health and care in the community                                     | By engaging local citizens in participatory governance, the project enhances community resilience to climate impacts and economic changes, as well as improving health outcomes through reduced emissions and improved environmental quality.                                                |
+| Preservation and improvement of environment x Biodiversity and ecosystem services | The project actively focuses on reducing greenhouse gas emissions and preserving local biodiversity through sustainable land-use practices and integrated renewable energy systems, thereby improving the ecological context of the area.                                                    |
 | Attractiveness x Economy and sustainable production and consumption               | The Spørring Circular Energy Park is positioned to attract businesses and improve the economic landscape by incorporating renewable energy systems, contributing directly to the local economy and enhancing the attractiveness of the area as a viable location for sustainable investment. |
 
-# Executive summary## Spørring Circular Energy Park (CO-SHAPE Project)
+# Executive summary
+
+## Spørring Circular Energy Park (CO-SHAPE Project)
 
 ### **I. INITIATIVE OVERVIEW AND IDENTIFICATION**
 

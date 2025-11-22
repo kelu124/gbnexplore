@@ -10,11 +10,11 @@ nav_order: 39
 
 # Related use cases found online
 
-* [Seestadt Aspern Smart City District](activities_ZP_UCS--DUB-B-UC3_2.md)
+* [RESPONSE Dijon – Positive Energy Block](activities_ZP_UCS--DUB-B-UC3_5.md)
 * [Flexible Smart Charging for EVs (Amsterdam Smart Charging Pilot)](activities_ZP_UCS--DUB-B-UC3_1.md)
 * [EnergyLab Nordhavn (Nordhavn Smart Energy Living Lab)](activities_ZP_UCS--DUB-B-UC3_3.md)
+* [Seestadt Aspern Smart City District](activities_ZP_UCS--DUB-B-UC3_2.md)
 * [SPARCS Espoo Positive Energy District](activities_ZP_UCS--DUB-B-UC3_4.md)
-* [RESPONSE Dijon – Positive Energy Block](activities_ZP_UCS--DUB-B-UC3_5.md)
 
 
 # Original text

@@ -10,10 +10,10 @@ nav_order: 12
 
 # Related use cases found online
 
-* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-B-UC1_1.md)
-* [FUN Porto (Urban Forest and BioSpots Network)](activities_ZP_UCS--PTO-B-UC1_2.md)
 * [Sponge Parks and Social Housing Energy Communities (EXHAUSTION Horizon Project)](activities_ZP_UCS--PTO-B-UC1_5.md)
+* [FUN Porto (Urban Forest and BioSpots Network)](activities_ZP_UCS--PTO-B-UC1_2.md)
 * [LIFE-myBUILDINGisGREEN: Falcão Primary School Green Roof Demonstration](activities_ZP_UCS--PTO-B-UC1_3.md)
+* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-B-UC1_1.md)
 * [Porto di Mare Eco-District](activities_ZP_UCS--PTO-B-UC1_4.md)
 
 

@@ -11,10 +11,8 @@ nav_order: 35
 # Related use cases found online
 
 * [Porto Sustainable Neighbourhood Living Lab (PROBONO Horizon Project)](activities_ZP_UCS--DUB-C-UC4_5.md)
-* [```](activities_ZP_UCS--DUB-C-UC4_4.md)
-* [Brussels Green Building District Monitoring](activities_ZP_UCS--DUB-C-UC4_3.md)
-* [```](activities_ZP_UCS--DUB-C-UC4_1.md)
 * [Aarhus Smart Building Elevator Usage Analytics](activities_ZP_UCS--DUB-C-UC4_2.md)
+* [Brussels Green Building District Monitoring](activities_ZP_UCS--DUB-C-UC4_3.md)
 
 
 # Original text

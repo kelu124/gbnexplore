@@ -10,11 +10,10 @@ nav_order: 11
 
 # Related use cases found online
 
-* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-B-UC2_1.md)
-* [FUN Porto – Urban Native Forest Initiative](activities_ZP_UCS--PTO-B-UC2_2.md)
-* [```](activities_ZP_UCS--PTO-B-UC2_3.md)
 * [The Fifth Façade Project – Praça de Lisboa Olive Grove Green Roof](activities_ZP_UCS--PTO-B-UC2_4.md)
 * [Social Green – Green Renovation for Social Housing (Interreg Europe)](activities_ZP_UCS--PTO-B-UC2_5.md)
+* [FUN Porto – Urban Native Forest Initiative](activities_ZP_UCS--PTO-B-UC2_2.md)
+* [Agra do Amial Renewable Energy Community](activities_ZP_UCS--PTO-B-UC2_1.md)
 
 
 # Original text
